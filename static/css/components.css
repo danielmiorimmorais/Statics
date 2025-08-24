@@ -1,0 +1,248 @@
+/* Componentes otimizados */
+html, body { height: 100%; }
+
+.card { 
+  @apply bg-white/70 dark:bg-zinc-900/60 backdrop-blur shadow-soft rounded-2xl; 
+}
+
+.chip { 
+  @apply px-2 py-0.5 rounded-full text-xs font-medium max-w-full overflow-hidden text-ellipsis whitespace-nowrap; 
+}
+
+.btn { 
+  @apply inline-flex items-center gap-2 px-3 py-2 rounded-xl font-medium bg-zinc-900 text-white hover:bg-black dark:bg-white dark:text-zinc-900 dark:hover:bg-zinc-100 transition; 
+}
+
+.btn-ghost { 
+  @apply inline-flex items-center gap-2 px-3 py-2 rounded-xl font-medium bg-transparent hover:bg-zinc-100 dark:hover:bg-zinc-800 transition; 
+}
+
+.table { 
+  @apply min-w-full text-sm; 
+}
+
+.th { 
+  @apply text-left font-semibold text-zinc-700 dark:text-zinc-300 whitespace-nowrap select-none; 
+}
+
+.td { 
+  @apply py-2.5 px-2 border-t border-zinc-200/50 dark:border-zinc-800/50 align-middle; 
+}
+
+.truncate-cell { 
+  @apply truncate; 
+  max-width: 32rem; 
+}
+
+/* Estilização específica para thumbnails */
+.thumbnail-cell {
+  width: 12rem;
+  min-width: 12rem;
+}
+
+.thumbnail-img {
+  width: 10rem;
+  height: 6rem;
+}
+
+.skeleton { 
+  background: linear-gradient(90deg, rgba(0,0,0,0.06), rgba(0,0,0,0.12), rgba(0,0,0,0.06)); 
+  background-size: 200% 100%; 
+  animation: sh 1.2s infinite; 
+}
+
+@keyframes sh { 
+  0% { background-position: 200% 0 } 
+  100% { background-position: -200% 0 } 
+}
+
+.table-comfy { 
+  border-collapse: separate; 
+}
+
+.table-comfy th, .table-comfy td { 
+  padding: 0.75rem 1rem; 
+}
+
+.table-comfy tbody tr:hover { 
+  background-color: rgba(0,0,0,0.03); 
+}
+
+.dark .table-comfy tbody tr:hover { 
+  background-color: rgba(255,255,255,0.05); 
+}
+
+.th.sortable { 
+  cursor: pointer; 
+}
+
+.th .arrow { 
+  margin-left: .25rem; 
+  opacity: .6; 
+}
+
+.th.sortable .arrow::after { 
+  content: '⇅'; 
+}
+
+.th[aria-sort="ascending"] .arrow::after { 
+  content: '▲'; 
+  opacity: 1; 
+}
+
+.th[aria-sort="descending"] .arrow::after { 
+  content: '▼'; 
+  opacity: 1; 
+}
+
+.tab-content { 
+  display: none; 
+}
+
+.tab-content.active { 
+  display: block; 
+  animation: fadeIn .30s ease-out; 
+}
+
+@keyframes fadeIn { 
+  from { 
+    opacity: 0; 
+    transform: translateY(4px) 
+  } 
+  to { 
+    opacity: 1; 
+    transform: translateY(0) 
+  } 
+}
+
+.menu-item { 
+  @apply text-left px-3 py-2 rounded-xl transition flex items-center gap-2 text-sm outline-none; 
+}
+
+.menu-item:hover { 
+  @apply bg-zinc-100 dark:bg-zinc-800; 
+}
+
+.menu-item[aria-selected="true"] { 
+  @apply text-white bg-gradient-to-br from-indigo-500 to-purple-600 shadow-soft; 
+}
+
+.menu-item:focus-visible { 
+  @apply ring-2 ring-offset-2 ring-indigo-500 dark:ring-indigo-400; 
+}
+
+#modal { 
+  backdrop-filter: blur(2px); 
+}
+
+.modal-card { 
+  background: rgba(255,255,255,1); 
+  box-shadow: 0 25px 50px -12px rgba(0,0,0,0.45); 
+  border: 1px solid rgba(0,0,0,0.08); 
+}
+
+.dark .modal-card { 
+  background: rgba(24,24,27,1); 
+  border-color: rgba(255,255,255,0.08); 
+}
+
+.kbd { 
+  @apply px-1.5 py-0.5 text-xs border border-zinc-400/50 rounded-md; 
+}
+
+/* Sombras otimizadas */
+.shadow-soft { 
+  box-shadow: 0 10px 25px -10px rgba(0,0,0,0.25); 
+}
+
+/* Animações otimizadas */
+.animate-spin { 
+  animation: spin 1s linear infinite; 
+}
+
+@keyframes spin { 
+  from { transform: rotate(0deg); } 
+  to { transform: rotate(360deg); } 
+}
+
+/* Loading states */
+.loading { 
+  opacity: 0.6; 
+  pointer-events: none; 
+}
+
+.loading::after { 
+  content: ''; 
+  position: absolute; 
+  top: 50%; 
+  left: 50%; 
+  width: 20px; 
+  height: 20px; 
+  margin: -10px 0 0 -10px; 
+  border: 2px solid #f3f3f3; 
+  border-top: 2px solid #3498db; 
+  border-radius: 50%; 
+  animation: spin 1s linear infinite; 
+}
+
+/* Responsividade otimizada */
+@media (max-width: 640px) { 
+  .table-responsive { 
+    overflow-x: auto; 
+    -webkit-overflow-scrolling: touch; 
+  } 
+}
+
+/* Performance optimizations */
+* { 
+  box-sizing: border-box; 
+}
+
+img { 
+  max-width: 100%; 
+  height: auto; 
+}
+
+/* Focus states para acessibilidade */
+.btn:focus-visible, 
+.btn-ghost:focus-visible { 
+  @apply ring-2 ring-offset-2 ring-indigo-500 dark:ring-indigo-400; 
+}
+
+/* Melhoria do contraste dos dropdowns */
+select {
+  @apply text-zinc-900 dark:text-zinc-100;
+}
+
+select option {
+  @apply text-zinc-900 bg-white;
+  color: #18181b !important;
+  background: white !important;
+}
+
+.dark select option {
+  @apply text-zinc-100 bg-zinc-800;
+  color: #f4f4f5 !important;
+  background: #27272a !important;
+}
+
+/* Estilização específica para selects */
+.filter-select, 
+select[id*="Select"], 
+select[id*="select"] {
+  @apply text-zinc-900 dark:text-zinc-100 font-medium;
+  color: #18181b;
+}
+
+.dark .filter-select,
+.dark select[id*="Select"],
+.dark select[id*="select"] {
+  color: #f4f4f5;
+}
+
+/* Dark mode optimizations */
+@media (prefers-color-scheme: dark) { 
+  .auto-dark { 
+    @apply dark:bg-zinc-900 dark:text-zinc-100; 
+  } 
+}

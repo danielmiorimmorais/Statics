@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Diário da Política</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 font-sans">
+    <!-- Header -->
+    <header class="bg-white dark:bg-gray-800 shadow-sm border-b border-gray-200 dark:border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center">
+                    <h1 class="text-2xl font-bold text-gray-900 dark:text-white">
+                        📊 Dashboard - Diário da Política
+                    </h1>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <button id="themeToggle" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors">
+                        🌙
+                    </button>
+                    <span id="lastUpdate" class="text-sm text-gray-500 dark:text-gray-400">
+                        Última atualização: Carregando...
+                    </span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav class="bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex space-x-8 overflow-x-auto">
+                <a href="dashboard.html" class="tab-link active py-4 px-1 border-b-2 border-blue-500 text-blue-600 dark:text-blue-400 font-medium">
+                    📈 Dashboard Principal
+                </a>
+                <a href="rankings.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    🏆 Rankings
+                </a>
+                <a href="benchmark.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    ⚖️ Benchmark
+                </a>
+                <a href="analytics.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    📊 Analytics
+                </a>
+                <a href="channels.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    📺 Canais
+                </a>
+                <a href="videos.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    🎥 Vídeos
+                </a>
+                <a href="test.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    🧪 Testes
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <!-- Dashboard Content -->
+        <div id="dashboard-content">
+            <!-- Overview Cards -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+                    <div class="flex items-center">
+                        <div class="p-2 bg-blue-100 dark:bg-blue-900 rounded-lg">
+                            <span class="text-2xl">📺</span>
+                        </div>
+                        <div class="ml-4">
+                            <p class="text-sm font-medium text-gray-500 dark:text-gray-400">Total de Canais</p>
+                            <p id="totalChannels" class="text-2xl font-bold text-gray-900 dark:text-white">-</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+                    <div class="flex items-center">
+                        <div class="p-2 bg-green-100 dark:bg-green-900 rounded-lg">
+                            <span class="text-2xl">🎥</span>
+                        </div>
+                        <div class="ml-4">
+                            <p class="text-sm font-medium text-gray-500 dark:text-gray-400">Total de Vídeos</p>
+                            <p id="totalVideos" class="text-2xl font-bold text-gray-900 dark:text-white">-</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+                    <div class="flex items-center">
+                        <div class="p-2 bg-yellow-100 dark:bg-yellow-900 rounded-lg">
+                            <span class="text-2xl">👁️</span>
+                        </div>
+                        <div class="ml-4">
+                            <p class="text-sm font-medium text-gray-500 dark:text-gray-400">Total de Views</p>
+                            <p id="totalViews" class="text-2xl font-bold text-gray-900 dark:text-white">-</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+                    <div class="flex items-center">
+                        <div class="p-2 bg-red-100 dark:bg-red-900 rounded-lg">
+                            <span class="text-2xl">❤️</span>
+                        </div>
+                        <div class="ml-4">
+                            <p class="text-sm font-medium text-gray-500 dark:text-gray-400">Total de Likes</p>
+                            <p id="totalLikes" class="text-2xl font-bold text-gray-900 dark:text-white">-</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Charts Section -->
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-8">
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">📈 Views por Período</h3>
+                    <canvas id="viewsChart" width="400" height="200"></canvas>
+                </div>
+
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">📊 Engajamento</h3>
+                    <canvas id="engagementChart" width="400" height="200"></canvas>
+                </div>
+            </div>
+
+            <!-- Recent Activity -->
+            <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">🕒 Atividade Recente</h3>
+                <div id="recentActivity" class="space-y-4">
+                    <div class="flex items-center justify-center py-8">
+                        <div class="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500"></div>
+                        <span class="ml-2 text-gray-500 dark:text-gray-400">Carregando...</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Scripts -->
+    <script src="js/error-handler.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/data-store.js"></script>
+    <script src="js/components.js"></script>
+    <script src="js/features.js"></script>
+    <script src="js/tab-renderers.js"></script>
+    <script src="js/app.js"></script>
+
+    <script>
+        // Dashboard specific functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            // Theme toggle
+            const themeToggle = document.getElementById('themeToggle');
+            themeToggle.addEventListener('click', function() {
+                document.documentElement.classList.toggle('dark');
+                const isDark = document.documentElement.classList.contains('dark');
+                themeToggle.textContent = isDark ? '☀️' : '🌙';
+            });
+
+            // Tab navigation
+            const tabLinks = document.querySelectorAll('.tab-link');
+            tabLinks.forEach(link => {
+                link.addEventListener('click', function(e) {
+                    // Remove active class from all tabs
+                    tabLinks.forEach(l => {
+                        l.classList.remove('active', 'border-blue-500', 'text-blue-600', 'dark:text-blue-400');
+                        l.classList.add('border-transparent', 'text-gray-500', 'dark:text-gray-400');
+                    });
+                    
+                    // Add active class to clicked tab
+                    this.classList.add('active', 'border-blue-500', 'text-blue-600', 'dark:text-blue-400');
+                    this.classList.remove('border-transparent', 'text-gray-500', 'dark:text-gray-400');
+                });
+            });
+
+            // Initialize dashboard
+            initializeDashboard();
+        });
+
+        async function initializeDashboard() {
+            try {
+                // Load data
+                await DataStore.loadAll();
+                
+                // Update overview cards
+                updateOverviewCards();
+                
+                // Create charts
+                createCharts();
+                
+                // Load recent activity
+                loadRecentActivity();
+                
+                // Update last update time
+                const lastUpdate = document.getElementById('lastUpdate');
+                if (lastUpdate) {
+                    lastUpdate.textContent = `Última atualização: ${new Date().toLocaleString('pt-BR')}`;
+                }
+                
+            } catch (error) {
+                console.error('Erro ao inicializar dashboard:', error);
+                showError('Erro ao carregar dados do dashboard');
+            }
+        }
+
+        function updateOverviewCards() {
+            // Update total channels
+            const totalChannels = document.getElementById('totalChannels');
+            if (totalChannels && DataStore.channelsSummary) {
+                totalChannels.textContent = DataStore.channelsSummary.total_channels || 0;
+            }
+
+            // Update total videos
+            const totalVideos = document.getElementById('totalVideos');
+            if (totalVideos && DataStore.current) {
+                totalVideos.textContent = DataStore.current.total_videos || 0;
+            }
+
+            // Update total views
+            const totalViews = document.getElementById('totalViews');
+            if (totalViews && DataStore.current) {
+                const views = DataStore.current.total_views || 0;
+                totalViews.textContent = (views ?? 0).toLocaleString('pt-BR');
+            }
+
+            // Update total likes
+            const totalLikes = document.getElementById('totalLikes');
+            if (totalLikes && DataStore.current) {
+                const likes = DataStore.current.total_likes || 0;
+                totalLikes.textContent = likes.toLocaleString('pt-BR');
+            }
+        }
+
+        function createCharts() {
+            // Views Chart
+            const viewsCtx = document.getElementById('viewsChart');
+            if (viewsCtx && DataStore.history) {
+                const viewsData = DataStore.history.slice(-7); // Last 7 days
+                new Chart(viewsCtx, {
+                    type: 'line',
+                    data: {
+                        labels: viewsData.map(d => new Date(d.date).toLocaleDateString('pt-BR')),
+                        datasets: [{
+                            label: 'Views',
+                            data: viewsData.map(d => d.total_views),
+                            borderColor: 'rgb(59, 130, 246)',
+                            backgroundColor: 'rgba(59, 130, 246, 0.1)',
+                            tension: 0.4
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                display: false
+                            }
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: true
+                            }
+                        }
+                    }
+                });
+            }
+
+            // Engagement Chart
+            const engagementCtx = document.getElementById('engagementChart');
+            if (engagementCtx && DataStore.history) {
+                const engagementData = DataStore.history.slice(-7); // Last 7 days
+                new Chart(engagementCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: engagementData.map(d => new Date(d.date).toLocaleDateString('pt-BR')),
+                        datasets: [{
+                            label: 'Engajamento (%)',
+                            data: engagementData.map(d => d.engagement_rate),
+                            backgroundColor: 'rgba(34, 197, 94, 0.8)',
+                            borderColor: 'rgb(34, 197, 94)',
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                display: false
+                            }
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                max: 100
+                            }
+                        }
+                    }
+                });
+            }
+        }
+
+        function loadRecentActivity() {
+            const recentActivity = document.getElementById('recentActivity');
+            if (!recentActivity) return;
+
+            if (DataStore.current && DataStore.current.recent_videos) {
+                const videos = DataStore.current.recent_videos.slice(0, 5);
+                recentActivity.innerHTML = videos.map(video => `
+                    <div class="flex items-center space-x-4 p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <img src="${video.thumbnail}" alt="${video.title}" class="w-16 h-12 object-cover rounded">
+                        <div class="flex-1 min-w-0">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white truncate">${video.title}</p>
+                            <p class="text-sm text-gray-500 dark:text-gray-400">${video.channel_name}</p>
+                        </div>
+                        <div class="text-right">
+                            <p class="text-sm font-medium text-gray-900 dark:text-white">${(video.views ?? 0).toLocaleString('pt-BR')}</p>
+                            <p class="text-xs text-gray-500 dark:text-gray-400">views</p>
+                        </div>
+                    </div>
+                `).join('');
+            } else {
+                recentActivity.innerHTML = '<p class="text-gray-500 dark:text-gray-400 text-center py-8">Nenhuma atividade recente disponível</p>';
+            }
+        }
+
+        function showError(message) {
+            const dashboardContent = document.getElementById('dashboard-content');
+            if (dashboardContent) {
+                dashboardContent.innerHTML = `
+                    <div class="text-center py-12">
+                        <div class="text-red-500 text-6xl mb-4">❌</div>
+                        <h2 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Erro</h2>
+                        <p class="text-gray-500 dark:text-gray-400">${message}</p>
+                        <button onclick="location.reload()" class="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors">
+                            Tentar Novamente
+                        </button>
+                    </div>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>

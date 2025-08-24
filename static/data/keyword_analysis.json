@@ -1,0 +1,711 @@
+{
+  "timestamp": "2025-08-24T01:00:07.196438+00:00",
+  "period": "30 dias",
+  "analysis_method": "Palavras extraídas dos títulos dos vídeos",
+  "summary": {
+    "total_keywords": 12,
+    "total_matches": 600,
+    "total_views": 502836254,
+    "avg_views_per_match": 838060,
+    "total_videos_analyzed": 19949,
+    "unique_words_found": 13980
+  },
+  "keywords": [
+    {
+      "keyword": "Bolsonaro",
+      "total_matches": 50,
+      "total_views": 34924465,
+      "avg_views": 698489,
+      "frequency": 3239,
+      "percentage": 8.33,
+      "top_channels": [
+        {
+          "channel_name": "Renato Vicente Junior",
+          "tag": "Bolsonaristas",
+          "views": 10852591,
+          "video_count": 12
+        },
+        {
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "tag": "Bolsonaristas",
+          "views": 5600361,
+          "video_count": 7
+        },
+        {
+          "channel_name": "oiluiz TV",
+          "tag": "Bolsonaristas",
+          "views": 2685350,
+          "video_count": 5
+        }
+      ],
+      "sample_videos": [
+        {
+          "title": "Bolsonaro sem o filho Eduardo",
+          "channel_name": "Renato Vicente Junior",
+          "views": 4652452,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "Sérgio Moro ACABOU de FERRAR de vez AGORA o Bolsonaro 😱",
+          "channel_name": "CLAUDIO KAMARO 3D",
+          "views": 1910867,
+          "tag": "Petistas"
+        },
+        {
+          "title": "URGENTE! ESTADÃO vaza áudios do BOLSONARO e conteúdo choca a nação.",
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "views": 1823583,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "Michelle Bolsonaro sorrindo e cantando",
+          "channel_name": "Renato Vicente Junior",
+          "views": 1050079,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "EDUARDO BOLSONARO ENSINA A LEI MAGNITSKY PARA FLÁVIO DINO",
+          "channel_name": "Bolsonaro Democracia em Foco",
+          "views": 1008596,
+          "tag": "Bolsonaristas"
+        }
+      ]
+    },
+    {
+      "keyword": "Moraes",
+      "total_matches": 50,
+      "total_views": 44934802,
+      "avg_views": 898696,
+      "frequency": 3208,
+      "percentage": 8.33,
+      "top_channels": [
+        {
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "tag": "Bolsonaristas",
+          "views": 16893375,
+          "video_count": 18
+        },
+        {
+          "channel_name": "Deltan Dallagnol",
+          "tag": "Bolsonaristas",
+          "views": 7006329,
+          "video_count": 7
+        },
+        {
+          "channel_name": "Bolsonaro Democracia em Foco",
+          "tag": "Bolsonaristas",
+          "views": 2565887,
+          "video_count": 3
+        }
+      ],
+      "sample_videos": [
+        {
+          "title": "Inédito: Mauro Cid nega trama golpista e Moraes surta!",
+          "channel_name": "Deltan Dallagnol",
+          "views": 1989200,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "🚨 ALLAN DOS SANTOS: MORAES FOI PEGO PELO ALGORITMO AMERICANO #shorts",
+          "channel_name": "Márcio Couth / Show Político",
+          "views": 1628918,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "🚨MORAES ACABOU DE DESBLOQUEAR TODAS AS REDES SOCIAIS DO RODRIGO CONSTANTINO",
+          "channel_name": "Jeffrey Chiquini ",
+          "views": 1505288,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "HOJE FIZEMOS HISTÓRIA! OS VENTOS MUDARAM. Moraes VAI CAIR!!!",
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "views": 1454662,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "ALEGRE-SE! ESTAMOS PERTO DO FIM - Moraes dá sinais de medo e está ACUADO E ABANDONADO",
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "views": 1357711,
+          "tag": "Bolsonaristas"
+        }
+      ]
+    },
+    {
+      "keyword": "Trump",
+      "total_matches": 50,
+      "total_views": 37643294,
+      "avg_views": 752865,
+      "frequency": 2913,
+      "percentage": 8.33,
+      "top_channels": [
+        {
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "tag": "Bolsonaristas",
+          "views": 7455408,
+          "video_count": 8
+        },
+        {
+          "channel_name": "oiluiz TV",
+          "tag": "Bolsonaristas",
+          "views": 3783972,
+          "video_count": 6
+        },
+        {
+          "channel_name": "Deltan Dallagnol",
+          "tag": "Bolsonaristas",
+          "views": 3714985,
+          "video_count": 5
+        }
+      ],
+      "sample_videos": [
+        {
+          "title": "Avião do Trump passando por cima do Vladmir Putin",
+          "channel_name": "Renato Vicente Junior",
+          "views": 2450213,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "🚨O QUE ACONTECE SE O BRASIL DESAFIAR A LEI MAGNITSKY E O TRUMP?",
+          "channel_name": "hubtnt by Davi Aragão",
+          "views": 2284732,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "12 LADRÃO!!! TRUMP acaba de assinar ordem que acaba com LULA, PCC e todo o sistema no Brasil",
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "views": 2244518,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "🚨 STF tenta burlar a Magnitsky, mas Trump é mais rápido! 🔥",
+          "channel_name": "Deltan Dallagnol",
+          "views": 1618123,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "AGORA GILMAR RECUA! - Trump manda recado ASSUSTADOR para o STF",
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "views": 1098649,
+          "tag": "Bolsonaristas"
+        }
+      ]
+    },
+    {
+      "keyword": "Lula",
+      "total_matches": 50,
+      "total_views": 77034329,
+      "avg_views": 1540686,
+      "frequency": 2629,
+      "percentage": 8.33,
+      "top_channels": [
+        {
+          "channel_name": "poly_noticias1343",
+          "tag": "Petistas",
+          "views": 65619974,
+          "video_count": 41
+        },
+        {
+          "channel_name": "A Verdade que muitos não conhecem",
+          "tag": "Bolsonaristas",
+          "views": 6198175,
+          "video_count": 5
+        },
+        {
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "tag": "Bolsonaristas",
+          "views": 3200814,
+          "video_count": 2
+        }
+      ],
+      "sample_videos": [
+        {
+          "title": "#eleições2022 #estreladefamília #lula #lulapresidente #noticias #sejacriador",
+          "channel_name": "poly_noticias1343",
+          "views": 4343218,
+          "tag": "Petistas"
+        },
+        {
+          "title": "#eleições2022 #noticias #lula #lulapresidente #estreladefamília #sejacriador",
+          "channel_name": "poly_noticias1343",
+          "views": 4050665,
+          "tag": "Petistas"
+        },
+        {
+          "title": "#eleições2022 #noticias #lula #lulapresidente #sejacriador #estreladefamília",
+          "channel_name": "poly_noticias1343",
+          "views": 2613580,
+          "tag": "Petistas"
+        },
+        {
+          "title": "#eleições2022 #noticias #lula #lulapresidente #sejacriador #estreladefamília",
+          "channel_name": "poly_noticias1343",
+          "views": 2337531,
+          "tag": "Petistas"
+        },
+        {
+          "title": "#eleições2022 #noticias #lulapresidente #sejacriador #noticia #lula",
+          "channel_name": "poly_noticias1343",
+          "views": 2246289,
+          "tag": "Petistas"
+        }
+      ]
+    },
+    {
+      "keyword": "Brasil",
+      "total_matches": 50,
+      "total_views": 31466195,
+      "avg_views": 629323,
+      "frequency": 1854,
+      "percentage": 8.33,
+      "top_channels": [
+        {
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "tag": "Bolsonaristas",
+          "views": 5331976,
+          "video_count": 5
+        },
+        {
+          "channel_name": "hubtnt by Davi Aragão",
+          "tag": "Bolsonaristas",
+          "views": 3271454,
+          "video_count": 3
+        },
+        {
+          "channel_name": "Washington Lisboa | Notícias de Agora",
+          "tag": "Bolsonaristas",
+          "views": 3188449,
+          "video_count": 3
+        }
+      ],
+      "sample_videos": [
+        {
+          "title": "🚨O QUE ACONTECE SE O BRASIL DESAFIAR A LEI MAGNITSKY E O TRUMP?",
+          "channel_name": "hubtnt by Davi Aragão",
+          "views": 2284732,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "12 LADRÃO!!! TRUMP acaba de assinar ordem que acaba com LULA, PCC e todo o sistema no Brasil",
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "views": 2244518,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "🟥🤯 EXCLUSIVO: A VERDADE VAZOU AGORA! QUEBRA DE SILÊNCIO: CONFIRMAÇÃO CHOCA O BRASIL!🇧🇷",
+          "channel_name": "Washington Lisboa | Notícias de Agora",
+          "views": 1339877,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "COITADO DO ZANIN - Decisão do Zanin decidirá o futuro do Moraes e do Brasil",
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "views": 1134935,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "🔥Isso vai dar o que falar no Brasil inteiro! Bolsonaro toma atitude limite e Lula não esperava isso",
+          "channel_name": "Washington Lisboa | Notícias de Agora",
+          "views": 931511,
+          "tag": "Bolsonaristas"
+        }
+      ]
+    },
+    {
+      "keyword": "Eduardo",
+      "total_matches": 50,
+      "total_views": 20588962,
+      "avg_views": 411779,
+      "frequency": 898,
+      "percentage": 8.33,
+      "top_channels": [
+        {
+          "channel_name": "Renato Vicente Junior",
+          "tag": "Bolsonaristas",
+          "views": 6099422,
+          "video_count": 5
+        },
+        {
+          "channel_name": "Bolsonaro Democracia em Foco",
+          "tag": "Bolsonaristas",
+          "views": 3312864,
+          "video_count": 7
+        },
+        {
+          "channel_name": "Plantão Brasil (Thiago dos Reis)",
+          "tag": "Petistas",
+          "views": 1791379,
+          "video_count": 7
+        }
+      ],
+      "sample_videos": [
+        {
+          "title": "Bolsonaro sem o filho Eduardo",
+          "channel_name": "Renato Vicente Junior",
+          "views": 4652452,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "EDUARDO BOLSONARO ENSINA A LEI MAGNITSKY PARA FLÁVIO DINO",
+          "channel_name": "Bolsonaro Democracia em Foco",
+          "views": 1008596,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "OESTE SEM FILTRO - REAÇÃO DO SISTEMA: PF CONTRA MALAFAIA E JAIR E EDUARDO INDICIADOS  - 20/08/2025",
+          "channel_name": "Revista Oeste",
+          "views": 772643,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "POR ISSO GLEISE HOFFMAN ODEIA EDUARDO BOLSONARO",
+          "channel_name": "Bolsonaro Democracia em Foco",
+          "views": 567615,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "Bancos bloqueiam os cartões de Xandão, que toma remédio tarja preta e xinga Eduardo Bolsonaro!",
+          "channel_name": "oiluiz TV",
+          "views": 563540,
+          "tag": "Bolsonaristas"
+        }
+      ]
+    },
+    {
+      "keyword": "Contra",
+      "total_matches": 50,
+      "total_views": 24652891,
+      "avg_views": 493057,
+      "frequency": 897,
+      "percentage": 8.33,
+      "top_channels": [
+        {
+          "channel_name": "Deltan Dallagnol",
+          "tag": "Bolsonaristas",
+          "views": 4157973,
+          "video_count": 7
+        },
+        {
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "tag": "Bolsonaristas",
+          "views": 3360389,
+          "video_count": 4
+        },
+        {
+          "channel_name": "Revista Oeste",
+          "tag": "Bolsonaristas",
+          "views": 2884757,
+          "video_count": 4
+        }
+      ],
+      "sample_videos": [
+        {
+          "title": "NÃO FOI SÓ MAGNITSKY!! Ex assessor do Moraes diz ter provas contra o Xandão e PGR.",
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "views": 1124072,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "Bomba! Bancos já consultam EUA para aplicar a lei Magnitsky contra STF!",
+          "channel_name": "Deltan Dallagnol",
+          "views": 1074895,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "🚨GloboNews: Magnitsky será aplicada HOJE contra Moraes e ministros SOFREM! 😱",
+          "channel_name": "Deltan Dallagnol",
+          "views": 1072208,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "Moraes mandou demitir - Mais uma filha se REVOLTA e grava vídeo contra o DITADOR",
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "views": 962380,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "Jeffrey Chiquini detalha investigação contra ministro do STF",
+          "channel_name": "Revista Oeste",
+          "views": 870685,
+          "tag": "Bolsonaristas"
+        }
+      ]
+    },
+    {
+      "keyword": "Urgente",
+      "total_matches": 50,
+      "total_views": 27586967,
+      "avg_views": 551739,
+      "frequency": 871,
+      "percentage": 8.33,
+      "top_channels": [
+        {
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "tag": "Bolsonaristas",
+          "views": 8312376,
+          "video_count": 12
+        },
+        {
+          "channel_name": "BRASIL REPÚBLICA",
+          "tag": "Bolsonaristas",
+          "views": 5298900,
+          "video_count": 9
+        },
+        {
+          "channel_name": "oiluiz TV",
+          "tag": "Bolsonaristas",
+          "views": 3692068,
+          "video_count": 7
+        }
+      ],
+      "sample_videos": [
+        {
+          "title": "URGENTE! ESTADÃO vaza áudios do BOLSONARO e conteúdo choca a nação.",
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "views": 1823583,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "URGENTE! Hugo Motta acaba de EXPLODlR em confronto com Nikolas Ferreira, Marcel Van Hattem e mais",
+          "channel_name": "JD NEWS BRASIL",
+          "views": 1451136,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "URGENTE! PACHECO PASSA MAL AO DESCOBRIR QUE FOI PUNIDO POR TRUMP E SURTA NA CARA LULA!",
+          "channel_name": "BRASIL REPÚBLICA",
+          "views": 1083855,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "🚨 URGENTE: ALLAN DOS SANTOS INFORMA QUE SAIU MAIS UMA SANÇÃO DOS EUA #shorts",
+          "channel_name": "Márcio Couth / Show Político",
+          "views": 800508,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "URGENTE! BOLSONARO decide aprontar mais uma. Vai ser a maior da história! Compartilhe",
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "views": 775367,
+          "tag": "Bolsonaristas"
+        }
+      ]
+    },
+    {
+      "keyword": "Magnitsky",
+      "total_matches": 50,
+      "total_views": 33878221,
+      "avg_views": 677564,
+      "frequency": 856,
+      "percentage": 8.33,
+      "top_channels": [
+        {
+          "channel_name": "Deltan Dallagnol",
+          "tag": "Bolsonaristas",
+          "views": 13072079,
+          "video_count": 18
+        },
+        {
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "tag": "Bolsonaristas",
+          "views": 4961339,
+          "video_count": 7
+        },
+        {
+          "channel_name": "oiluiz TV",
+          "tag": "Bolsonaristas",
+          "views": 3347007,
+          "video_count": 6
+        }
+      ],
+      "sample_videos": [
+        {
+          "title": "🚨O QUE ACONTECE SE O BRASIL DESAFIAR A LEI MAGNITSKY E O TRUMP?",
+          "channel_name": "hubtnt by Davi Aragão",
+          "views": 2284732,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "🚨 STF tenta burlar a Magnitsky, mas Trump é mais rápido! 🔥",
+          "channel_name": "Deltan Dallagnol",
+          "views": 1618123,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "NÃO FOI SÓ MAGNITSKY!! Ex assessor do Moraes diz ter provas contra o Xandão e PGR.",
+          "channel_name": "Gustavo Gayer Deputado Federal",
+          "views": 1124072,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "Loucura: Gilmar diz que STF vai ordenar bancos a não aplicarem a Magnitsky",
+          "channel_name": "Deltan Dallagnol",
+          "views": 1120670,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "Bomba! Bancos já consultam EUA para aplicar a lei Magnitsky contra STF!",
+          "channel_name": "Deltan Dallagnol",
+          "views": 1074895,
+          "tag": "Bolsonaristas"
+        }
+      ]
+    },
+    {
+      "keyword": "Noticias",
+      "total_matches": 50,
+      "total_views": 73556609,
+      "avg_views": 1471132,
+      "frequency": 817,
+      "percentage": 8.33,
+      "top_channels": [
+        {
+          "channel_name": "poly_noticias1343",
+          "tag": "Petistas",
+          "views": 73556609,
+          "video_count": 50
+        }
+      ],
+      "sample_videos": [
+        {
+          "title": "#eleições2022 #estreladefamília #lula #lulapresidente #noticias #sejacriador",
+          "channel_name": "poly_noticias1343",
+          "views": 4343218,
+          "tag": "Petistas"
+        },
+        {
+          "title": "#eleições2022 #noticias #lula #lulapresidente #estreladefamília #sejacriador",
+          "channel_name": "poly_noticias1343",
+          "views": 4050665,
+          "tag": "Petistas"
+        },
+        {
+          "title": "#eleições2022 #noticias #lula #lulapresidente #sejacriador #estreladefamília",
+          "channel_name": "poly_noticias1343",
+          "views": 2613580,
+          "tag": "Petistas"
+        },
+        {
+          "title": "#eleições2022 #noticias #lula #lulapresidente #sejacriador #estreladefamília",
+          "channel_name": "poly_noticias1343",
+          "views": 2337531,
+          "tag": "Petistas"
+        },
+        {
+          "title": "#eleições2022 #noticias #lulapresidente #sejacriador #noticia #lula",
+          "channel_name": "poly_noticias1343",
+          "views": 2246289,
+          "tag": "Petistas"
+        }
+      ]
+    },
+    {
+      "keyword": "Lulapresidente",
+      "total_matches": 50,
+      "total_views": 73635712,
+      "avg_views": 1472714,
+      "frequency": 773,
+      "percentage": 8.33,
+      "top_channels": [
+        {
+          "channel_name": "poly_noticias1343",
+          "tag": "Petistas",
+          "views": 73635712,
+          "video_count": 50
+        }
+      ],
+      "sample_videos": [
+        {
+          "title": "#eleições2022 #estreladefamília #lula #lulapresidente #noticias #sejacriador",
+          "channel_name": "poly_noticias1343",
+          "views": 4343218,
+          "tag": "Petistas"
+        },
+        {
+          "title": "#eleições2022 #noticias #lula #lulapresidente #estreladefamília #sejacriador",
+          "channel_name": "poly_noticias1343",
+          "views": 4050665,
+          "tag": "Petistas"
+        },
+        {
+          "title": "#eleições2022 #noticias #lula #lulapresidente #sejacriador #estreladefamília",
+          "channel_name": "poly_noticias1343",
+          "views": 2613580,
+          "tag": "Petistas"
+        },
+        {
+          "title": "#eleições2022 #noticias #lula #lulapresidente #sejacriador #estreladefamília",
+          "channel_name": "poly_noticias1343",
+          "views": 2337531,
+          "tag": "Petistas"
+        },
+        {
+          "title": "#eleições2022 #noticias #lulapresidente #sejacriador #noticia #lula",
+          "channel_name": "poly_noticias1343",
+          "views": 2246289,
+          "tag": "Petistas"
+        }
+      ]
+    },
+    {
+      "keyword": "Alexandre",
+      "total_matches": 50,
+      "total_views": 22933807,
+      "avg_views": 458676,
+      "frequency": 765,
+      "percentage": 8.33,
+      "top_channels": [
+        {
+          "channel_name": "Alexandre Garcia",
+          "tag": "Bolsonaristas",
+          "views": 5255976,
+          "video_count": 12
+        },
+        {
+          "channel_name": "Fabiana Cardoso",
+          "tag": "Bolsonaristas",
+          "views": 2925036,
+          "video_count": 8
+        },
+        {
+          "channel_name": "BRASIL REPÚBLICA",
+          "tag": "Bolsonaristas",
+          "views": 2125527,
+          "video_count": 4
+        }
+      ],
+      "sample_videos": [
+        {
+          "title": "Falta só 1 senador para o impeachment de Alexandre de Moraes avançar!",
+          "channel_name": "Giovani Cherini",
+          "views": 1132298,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "Alcolumbre reage ao ser confrontado sobre Impeachment de Alexandre de Moraes e mais",
+          "channel_name": "JD NEWS BRASIL",
+          "views": 1072827,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "GAYER CHORA AO DENUNCIAR \"COVARDIA\" E \"CRUELDADE\" DE ALEXANDRE DE MORAES",
+          "channel_name": "Itatiaia",
+          "views": 838959,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "URGENTE! MORAES PASSA AO SABER QUE A MAGNITSKY JÁ FOI DECRETADA CONTRA ELE - ALEXANDRE GARCIA",
+          "channel_name": "BRASIL REPÚBLICA",
+          "views": 751760,
+          "tag": "Bolsonaristas"
+        },
+        {
+          "title": "URGENTE! MORAES PASSA MAL AO DESCOBRIR QUE SUA ESPOSA VAI SOFRER A MAGNITSKY  - ALEXANDRE GARCIA",
+          "channel_name": "BRASIL REPÚBLICA",
+          "views": 726192,
+          "tag": "Bolsonaristas"
+        }
+      ]
+    }
+  ]
+}

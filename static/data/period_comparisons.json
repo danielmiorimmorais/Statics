@@ -1,0 +1,4101 @@
+{
+  "timestamp": "2025-08-24T01:00:04.971982+00:00",
+  "summary": {
+    "7d": {
+      "total_channels": 204,
+      "total_videos": 5510,
+      "total_views": 176420550,
+      "avg_views": 36823.435115172644,
+      "avg_engagement": 15.103037370953059
+    },
+    "30d": {
+      "total_channels": 210,
+      "total_videos": 19949,
+      "total_views": 1164696323,
+      "avg_views": 66704.12723362663,
+      "avg_engagement": 12.466392445932769
+    }
+  },
+  "channels": [
+    {
+      "channel_name": "HFNew Atualidades",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 59,
+        "total_views": 3418750,
+        "avg_views": 57944.91525423729,
+        "engagement_rate": 1.5382230347349177
+      },
+      "30d": {
+        "videos_count": 59,
+        "total_views": 3418750,
+        "avg_views": 57944.91525423729,
+        "engagement_rate": 1.5382230347349177
+      },
+      "changes": {
+        "views_change": 0.0,
+        "engagement_change": 0.0
+      }
+    },
+    {
+      "channel_name": "Ideias Radicais",
+      "tag": "Ancap",
+      "7d": {
+        "videos_count": 2,
+        "total_views": 7114,
+        "avg_views": 3557.0,
+        "engagement_rate": 21.000843407365757
+      },
+      "30d": {
+        "videos_count": 7,
+        "total_views": 142192,
+        "avg_views": 20313.14285714286,
+        "engagement_rate": 14.744852031056599
+      },
+      "changes": {
+        "views_change": -82.48916957353438,
+        "engagement_change": 42.428308965952105
+      }
+    },
+    {
+      "channel_name": "Engenheiro Leo",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 22,
+        "total_views": 72669,
+        "avg_views": 3303.1363636363635,
+        "engagement_rate": 10.147380588696693
+      },
+      "30d": {
+        "videos_count": 111,
+        "total_views": 774173,
+        "avg_views": 6974.531531531532,
+        "engagement_rate": 7.39279205035567
+      },
+      "changes": {
+        "views_change": -52.64002537370377,
+        "engagement_change": 37.2604628884225
+      }
+    },
+    {
+      "channel_name": "Morning Show",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 42,
+        "total_views": 764964,
+        "avg_views": 18213.428571428572,
+        "engagement_rate": 3.9605785370291935
+      },
+      "30d": {
+        "videos_count": 186,
+        "total_views": 2602144,
+        "avg_views": 13990.021505376344,
+        "engagement_rate": 3.8078215502293493
+      },
+      "changes": {
+        "views_change": 30.18871032063231,
+        "engagement_change": 4.011663487503595
+      }
+    },
+    {
+      "channel_name": "Jones Manoel",
+      "tag": "Comunistas",
+      "7d": {
+        "videos_count": 17,
+        "total_views": 152007,
+        "avg_views": 8941.588235294117,
+        "engagement_rate": 22.74961021531903
+      },
+      "30d": {
+        "videos_count": 116,
+        "total_views": 3157796,
+        "avg_views": 27222.379310344826,
+        "engagement_rate": 16.53115020729648
+      },
+      "changes": {
+        "views_change": -67.153538883002,
+        "engagement_change": 37.61662032009038
+      }
+    },
+    {
+      "channel_name": "Paulo Baltokoski",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 5,
+        "total_views": 691545,
+        "avg_views": 138309.0,
+        "engagement_rate": 10.885191853024748
+      },
+      "30d": {
+        "videos_count": 22,
+        "total_views": 3224717,
+        "avg_views": 146578.04545454544,
+        "engagement_rate": 9.86055520530949
+      },
+      "changes": {
+        "views_change": -5.641394268086152,
+        "engagement_change": 10.391267290542983
+      }
+    },
+    {
+      "channel_name": "Fabio Ton",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 21,
+        "total_views": 492834,
+        "avg_views": 23468.285714285714,
+        "engagement_rate": 25.552417243940152
+      },
+      "30d": {
+        "videos_count": 82,
+        "total_views": 2838147,
+        "avg_views": 34611.54878048781,
+        "engagement_rate": 22.218792754568387
+      },
+      "changes": {
+        "views_change": -32.19521650670566,
+        "engagement_change": 15.003625652371868
+      }
+    },
+    {
+      "channel_name": "Estúdio 5° Elemento ",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 10,
+        "total_views": 55777,
+        "avg_views": 5577.7,
+        "engagement_rate": 18.701256790433334
+      },
+      "30d": {
+        "videos_count": 54,
+        "total_views": 786846,
+        "avg_views": 14571.222222222223,
+        "engagement_rate": 12.336975723330868
+      },
+      "changes": {
+        "views_change": -61.72112459108897,
+        "engagement_change": 51.58704377659398
+      }
+    },
+    {
+      "channel_name": "BRASIL REPÚBLICA",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 16,
+        "total_views": 1477397,
+        "avg_views": 92337.3125,
+        "engagement_rate": 9.735568706312522
+      },
+      "30d": {
+        "videos_count": 66,
+        "total_views": 12124280,
+        "avg_views": 183701.21212121213,
+        "engagement_rate": 8.875949747119003
+      },
+      "changes": {
+        "views_change": -49.73505540122795,
+        "engagement_change": 9.684811019491606
+      }
+    },
+    {
+      "channel_name": "Marcos Serrano",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 36,
+        "total_views": 575416,
+        "avg_views": 15983.777777777777,
+        "engagement_rate": 9.510858231262253
+      },
+      "30d": {
+        "videos_count": 36,
+        "total_views": 575416,
+        "avg_views": 15983.777777777777,
+        "engagement_rate": 9.510858231262253
+      },
+      "changes": {
+        "views_change": 0.0,
+        "engagement_change": 0.0
+      }
+    },
+    {
+      "channel_name": "Galãs Feios",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 26,
+        "total_views": 822659,
+        "avg_views": 31640.73076923077,
+        "engagement_rate": 17.369043552674924
+      },
+      "30d": {
+        "videos_count": 179,
+        "total_views": 12245952,
+        "avg_views": 68413.13966480448,
+        "engagement_rate": 13.834253147489065
+      },
+      "changes": {
+        "views_change": -53.750506226936814,
+        "engagement_change": 25.551002771894687
+      }
+    },
+    {
+      "channel_name": "Boletim da Fabiana",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 6,
+        "total_views": 161007,
+        "avg_views": 26834.5,
+        "engagement_rate": 13.820517120373648
+      },
+      "30d": {
+        "videos_count": 29,
+        "total_views": 891765,
+        "avg_views": 30750.51724137931,
+        "engagement_rate": 14.513913418893992
+      },
+      "changes": {
+        "views_change": -12.734801208838656,
+        "engagement_change": -4.777459245538089
+      }
+    },
+    {
+      "channel_name": "VLOG Silvano Silva",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 14,
+        "total_views": 341490,
+        "avg_views": 24392.14285714286,
+        "engagement_rate": 18.08574189580954
+      },
+      "30d": {
+        "videos_count": 61,
+        "total_views": 1315515,
+        "avg_views": 21565.819672131147,
+        "engagement_rate": 17.321961361139934
+      },
+      "changes": {
+        "views_change": 13.105568107221464,
+        "engagement_change": 4.409319006928807
+      }
+    },
+    {
+      "channel_name": "Plantão Brasil (Thiago dos Reis)",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 49,
+        "total_views": 2544708,
+        "avg_views": 51932.816326530614,
+        "engagement_rate": 20.263503710445363
+      },
+      "30d": {
+        "videos_count": 212,
+        "total_views": 23049833,
+        "avg_views": 108725.62735849057,
+        "engagement_rate": 13.913736381517385
+      },
+      "changes": {
+        "views_change": -52.23498121993123,
+        "engagement_change": 45.63667985950079
+      }
+    },
+    {
+      "channel_name": "Quadrinhos na Sarjeta",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 5,
+        "total_views": 121919,
+        "avg_views": 24383.8,
+        "engagement_rate": 19.06101592040617
+      },
+      "30d": {
+        "videos_count": 22,
+        "total_views": 2584181,
+        "avg_views": 117462.77272727272,
+        "engagement_rate": 12.900837828310014
+      },
+      "changes": {
+        "views_change": -79.24125283793975,
+        "engagement_change": 47.75021726556444
+      }
+    },
+    {
+      "channel_name": "Humberto Matos",
+      "tag": "Comunistas",
+      "7d": {
+        "videos_count": 8,
+        "total_views": 60528,
+        "avg_views": 7566.0,
+        "engagement_rate": 25.657546920433518
+      },
+      "30d": {
+        "videos_count": 40,
+        "total_views": 668042,
+        "avg_views": 16701.05,
+        "engagement_rate": 17.49680409315582
+      },
+      "changes": {
+        "views_change": -54.69745914179048,
+        "engagement_change": 46.641333947780296
+      }
+    },
+    {
+      "channel_name": "TV Fórum",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 67,
+        "total_views": 439695,
+        "avg_views": 6562.611940298508,
+        "engagement_rate": 15.634019035922629
+      },
+      "30d": {
+        "videos_count": 206,
+        "total_views": 1845858,
+        "avg_views": 8960.47572815534,
+        "engagement_rate": 13.832212445377705
+      },
+      "changes": {
+        "views_change": -26.760451795236,
+        "engagement_change": 13.02616336800865
+      }
+    },
+    {
+      "channel_name": "O Historiador",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 6,
+        "total_views": 231412,
+        "avg_views": 38568.666666666664,
+        "engagement_rate": 17.740220904706756
+      },
+      "30d": {
+        "videos_count": 41,
+        "total_views": 1941835,
+        "avg_views": 47361.829268292684,
+        "engagement_rate": 17.019468698421854
+      },
+      "changes": {
+        "views_change": -18.565926902474555,
+        "engagement_change": 4.234869014164558
+      }
+    },
+    {
+      "channel_name": "O INVESTIDOR",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 15,
+        "total_views": 130446,
+        "avg_views": 8696.4,
+        "engagement_rate": 0.0
+      },
+      "30d": {
+        "videos_count": 56,
+        "total_views": 553284,
+        "avg_views": 9880.07142857143,
+        "engagement_rate": 0.0
+      },
+      "changes": {
+        "views_change": -11.980393432667501,
+        "engagement_change": 0.0
+      }
+    },
+    {
+      "channel_name": "Podcast 3 irmãos",
+      "tag": "Comunistas",
+      "7d": {
+        "videos_count": 3,
+        "total_views": 139194,
+        "avg_views": 46398.0,
+        "engagement_rate": 14.974064974064975
+      },
+      "30d": {
+        "videos_count": 36,
+        "total_views": 2359523,
+        "avg_views": 65542.30555555556,
+        "engagement_rate": 11.617263319747254
+      },
+      "changes": {
+        "views_change": -29.209081666082515,
+        "engagement_change": 28.894943343599373
+      }
+    },
+    {
+      "channel_name": "Paralelo News",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 11,
+        "total_views": 814172,
+        "avg_views": 74015.63636363637,
+        "engagement_rate": 13.289452351591555
+      },
+      "30d": {
+        "videos_count": 67,
+        "total_views": 5117994,
+        "avg_views": 76387.97014925373,
+        "engagement_rate": 15.668189528944348
+      },
+      "changes": {
+        "views_change": -3.1056379440140636,
+        "engagement_change": -15.181953045426697
+      }
+    },
+    {
+      "channel_name": "João Carvalho",
+      "tag": "Comunistas",
+      "7d": {
+        "videos_count": 15,
+        "total_views": 13307,
+        "avg_views": 887.1333333333333,
+        "engagement_rate": 20.85368602990907
+      },
+      "30d": {
+        "videos_count": 48,
+        "total_views": 213105,
+        "avg_views": 4439.6875,
+        "engagement_rate": 20.256211726613643
+      },
+      "changes": {
+        "views_change": -80.01811313671664,
+        "engagement_change": 2.949585595565413
+      }
+    },
+    {
+      "channel_name": "Lucas Pavanato",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 2,
+        "total_views": 52238,
+        "avg_views": 26119.0,
+        "engagement_rate": 10.32390214020445
+      },
+      "30d": {
+        "videos_count": 6,
+        "total_views": 917397,
+        "avg_views": 152899.5,
+        "engagement_rate": 5.680310705179982
+      },
+      "changes": {
+        "views_change": -82.91753733661653,
+        "engagement_change": 81.74889853806569
+      }
+    },
+    {
+      "channel_name": "Economia News",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 21,
+        "total_views": 644139,
+        "avg_views": 30673.285714285714,
+        "engagement_rate": 9.407286315531275
+      },
+      "30d": {
+        "videos_count": 86,
+        "total_views": 1689800,
+        "avg_views": 19648.837209302324,
+        "engagement_rate": 10.393656053970885
+      },
+      "changes": {
+        "views_change": 56.10738379858986,
+        "engagement_change": -9.490113327954203
+      }
+    },
+    {
+      "channel_name": "Cortes do Kim",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 7,
+        "total_views": 81603,
+        "avg_views": 11657.57142857143,
+        "engagement_rate": 6.910285161084764
+      },
+      "30d": {
+        "videos_count": 36,
+        "total_views": 821180,
+        "avg_views": 22810.555555555555,
+        "engagement_rate": 7.107455125551036
+      },
+      "changes": {
+        "views_change": -48.8939609551412,
+        "engagement_change": -2.7741288686783716
+      }
+    },
+    {
+      "channel_name": "Alessandro Santana Oficial",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 17,
+        "total_views": 72448,
+        "avg_views": 4261.64705882353,
+        "engagement_rate": 15.209529593639576
+      },
+      "30d": {
+        "videos_count": 94,
+        "total_views": 979336,
+        "avg_views": 10418.468085106382,
+        "engagement_rate": 12.244418667341954
+      },
+      "changes": {
+        "views_change": -59.09526214400248,
+        "engagement_change": 24.21602043228154
+      }
+    },
+    {
+      "channel_name": "Eduardo Moreira",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 22,
+        "total_views": 163439,
+        "avg_views": 7429.045454545455,
+        "engagement_rate": 13.493107520236908
+      },
+      "30d": {
+        "videos_count": 172,
+        "total_views": 3442572,
+        "avg_views": 20014.95348837209,
+        "engagement_rate": 8.640574547169965
+      },
+      "changes": {
+        "views_change": -62.88252451417665,
+        "engagement_change": 56.159841531096866
+      }
+    },
+    {
+      "channel_name": "Julien Jubert",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 3,
+        "total_views": 235571,
+        "avg_views": 78523.66666666667,
+        "engagement_rate": 15.498087625386827
+      },
+      "30d": {
+        "videos_count": 18,
+        "total_views": 1821292,
+        "avg_views": 101182.88888888889,
+        "engagement_rate": 11.25574592102749
+      },
+      "changes": {
+        "views_change": -22.394322272320963,
+        "engagement_change": 37.69045369471232
+      }
+    },
+    {
+      "channel_name": "Deltan Dallagnol",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 47,
+        "total_views": 4715213,
+        "avg_views": 100323.68085106384,
+        "engagement_rate": 14.57866272425021
+      },
+      "30d": {
+        "videos_count": 198,
+        "total_views": 42423246,
+        "avg_views": 214258.81818181818,
+        "engagement_rate": 13.000763779367567
+      },
+      "changes": {
+        "views_change": -53.176405198907595,
+        "engagement_change": 12.136971116933875
+      }
+    },
+    {
+      "channel_name": "MBL - Movimento Brasil Livre",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 1,
+        "total_views": 12132,
+        "avg_views": 12132.0,
+        "engagement_rate": 18.3151994724695
+      },
+      "30d": {
+        "videos_count": 48,
+        "total_views": 395180,
+        "avg_views": 8232.916666666666,
+        "engagement_rate": 16.119742901968724
+      },
+      "changes": {
+        "views_change": 47.35968419454427,
+        "engagement_change": 13.619674853701566
+      }
+    },
+    {
+      "channel_name": "CLAUDIO KAMARO 3D",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 53,
+        "total_views": 2385086,
+        "avg_views": 45001.622641509435,
+        "engagement_rate": 6.190175113182502
+      },
+      "30d": {
+        "videos_count": 250,
+        "total_views": 18339289,
+        "avg_views": 73357.156,
+        "engagement_rate": 6.2579525302207735
+      },
+      "changes": {
+        "views_change": -38.654079444533764,
+        "engagement_change": -1.0830605810920202
+      }
+    },
+    {
+      "channel_name": "ENZUH",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 36,
+        "total_views": 364282,
+        "avg_views": 10118.944444444445,
+        "engagement_rate": 15.406470811074936
+      },
+      "30d": {
+        "videos_count": 171,
+        "total_views": 3788424,
+        "avg_views": 22154.526315789473,
+        "engagement_rate": 11.69217067572162
+      },
+      "changes": {
+        "views_change": -54.32561138879913,
+        "engagement_change": 31.76741289849565
+      }
+    },
+    {
+      "channel_name": "Itatiaia",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 356,
+        "total_views": 2568720,
+        "avg_views": 7215.505617977528,
+        "engagement_rate": 4.230862063595876
+      },
+      "30d": {
+        "videos_count": 410,
+        "total_views": 4178109,
+        "avg_views": 10190.509756097561,
+        "engagement_rate": 5.38351201464586
+      },
+      "changes": {
+        "views_change": -29.193869681935375,
+        "engagement_change": -21.41074354276904
+      }
+    },
+    {
+      "channel_name": "Pânico Jovem Pan",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 40,
+        "total_views": 847593,
+        "avg_views": 21189.825,
+        "engagement_rate": 8.60743304864481
+      },
+      "30d": {
+        "videos_count": 192,
+        "total_views": 9934337,
+        "avg_views": 51741.338541666664,
+        "engagement_rate": 5.513855630224745
+      },
+      "changes": {
+        "views_change": -59.04662384616104,
+        "engagement_change": 56.10552081672785
+      }
+    },
+    {
+      "channel_name": "TV FLORIDA USA",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 77,
+        "total_views": 687646,
+        "avg_views": 8930.467532467532,
+        "engagement_rate": 13.819756095432824
+      },
+      "30d": {
+        "videos_count": 347,
+        "total_views": 3828876,
+        "avg_views": 11034.224783861671,
+        "engagement_rate": 14.702095340773637
+      },
+      "changes": {
+        "views_change": -19.065745828116825,
+        "engagement_change": -6.001452343284716
+      }
+    },
+    {
+      "channel_name": "Ian Neves",
+      "tag": "Comunistas",
+      "7d": {
+        "videos_count": 4,
+        "total_views": 88700,
+        "avg_views": 22175.0,
+        "engagement_rate": 19.364148816234497
+      },
+      "30d": {
+        "videos_count": 19,
+        "total_views": 1354839,
+        "avg_views": 71307.31578947368,
+        "engagement_rate": 14.264130276733988
+      },
+      "changes": {
+        "views_change": -68.90220904476473,
+        "engagement_change": 35.75415002917545
+      }
+    },
+    {
+      "channel_name": "Canal O Verbo de Deus",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 8,
+        "total_views": 212044,
+        "avg_views": 26505.5,
+        "engagement_rate": 14.635170059044349
+      },
+      "30d": {
+        "videos_count": 34,
+        "total_views": 1007176,
+        "avg_views": 29622.823529411766,
+        "engagement_rate": 14.01770892078445
+      },
+      "changes": {
+        "views_change": -10.523384195016565,
+        "engagement_change": 4.404864887330991
+      }
+    },
+    {
+      "channel_name": "Filósofo Paulo Ghiraldelli",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 4,
+        "total_views": 1294,
+        "avg_views": 323.5,
+        "engagement_rate": 41.267387944358575
+      },
+      "30d": {
+        "videos_count": 74,
+        "total_views": 174792,
+        "avg_views": 2362.054054054054,
+        "engagement_rate": 17.277678612293467
+      },
+      "changes": {
+        "views_change": -86.30429310265916,
+        "engagement_change": 138.84798919107035
+      }
+    },
+    {
+      "channel_name": "Revista Oeste",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 198,
+        "total_views": 8513560,
+        "avg_views": 42997.77777777778,
+        "engagement_rate": 10.961783319786317
+      },
+      "30d": {
+        "videos_count": 314,
+        "total_views": 17603050,
+        "avg_views": 56060.668789808915,
+        "engagement_rate": 10.43331695359611
+      },
+      "changes": {
+        "views_change": -23.30134708347574,
+        "engagement_change": 5.065180790928214
+      }
+    },
+    {
+      "channel_name": "Formação Alta Linguagem",
+      "tag": "Ancap",
+      "7d": {
+        "videos_count": 20,
+        "total_views": 65587,
+        "avg_views": 3279.35,
+        "engagement_rate": 10.043148794730664
+      },
+      "30d": {
+        "videos_count": 53,
+        "total_views": 212524,
+        "avg_views": 4009.8867924528304,
+        "engagement_rate": 10.0129867685532
+      },
+      "changes": {
+        "views_change": -18.218389452485372,
+        "engagement_change": 0.3012290625629442
+      }
+    },
+    {
+      "channel_name": "Paula Marisa",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 3,
+        "total_views": 140928,
+        "avg_views": 46976.0,
+        "engagement_rate": 29.450499545867395
+      },
+      "30d": {
+        "videos_count": 15,
+        "total_views": 1343814,
+        "avg_views": 89587.6,
+        "engagement_rate": 25.534411756388906
+      },
+      "changes": {
+        "views_change": -47.56417182735111,
+        "engagement_change": 15.336510693255558
+      }
+    },
+    {
+      "channel_name": "Renato Vicente Junior",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 67,
+        "total_views": 3135841,
+        "avg_views": 46803.59701492537,
+        "engagement_rate": 4.3312463865355415
+      },
+      "30d": {
+        "videos_count": 298,
+        "total_views": 39066167,
+        "avg_views": 131094.5201342282,
+        "engagement_rate": 3.9838973708375334
+      },
+      "changes": {
+        "views_change": -64.29782345821702,
+        "engagement_change": 8.718824391427159
+      }
+    },
+    {
+      "channel_name": "Ivan Kleber Fonseca",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 14,
+        "total_views": 401736,
+        "avg_views": 28695.428571428572,
+        "engagement_rate": 26.897763705518052
+      },
+      "30d": {
+        "videos_count": 77,
+        "total_views": 2055489,
+        "avg_views": 26694.66233766234,
+        "engagement_rate": 25.928039507873795
+      },
+      "changes": {
+        "views_change": 7.495004838264761,
+        "engagement_change": 3.740059858169273
+      }
+    },
+    {
+      "channel_name": "VERDADEIROS PATRIOTAS.",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 10,
+        "total_views": 243193,
+        "avg_views": 24319.3,
+        "engagement_rate": 7.801211383551336
+      },
+      "30d": {
+        "videos_count": 40,
+        "total_views": 1521240,
+        "avg_views": 38031.0,
+        "engagement_rate": 7.548052904209723
+      },
+      "changes": {
+        "views_change": -36.05400857195446,
+        "engagement_change": 3.353957405365035
+      }
+    },
+    {
+      "channel_name": "Carlos Bolsonaro",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 2,
+        "total_views": 29874,
+        "avg_views": 14937.0,
+        "engagement_rate": 21.925420097743856
+      },
+      "30d": {
+        "videos_count": 14,
+        "total_views": 250491,
+        "avg_views": 17892.214285714286,
+        "engagement_rate": 24.392892359406126
+      },
+      "changes": {
+        "views_change": -16.516761081236453,
+        "engagement_change": -10.115537859579778
+      }
+    },
+    {
+      "channel_name": "Rotina do Trezoitão",
+      "tag": "Ancap",
+      "7d": {
+        "videos_count": 1,
+        "total_views": 6294,
+        "avg_views": 6294.0,
+        "engagement_rate": 11.868446139180172
+      },
+      "30d": {
+        "videos_count": 6,
+        "total_views": 122938,
+        "avg_views": 20489.666666666668,
+        "engagement_rate": 13.160292179797947
+      },
+      "changes": {
+        "views_change": -69.28207714457695,
+        "engagement_change": -9.81624133391854
+      }
+    },
+    {
+      "channel_name": "Henry Bugalho",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 7,
+        "total_views": 92154,
+        "avg_views": 13164.857142857143,
+        "engagement_rate": 19.71374004383966
+      },
+      "30d": {
+        "videos_count": 26,
+        "total_views": 721212,
+        "avg_views": 27738.923076923078,
+        "engagement_rate": 15.700237932813097
+      },
+      "changes": {
+        "views_change": -52.54012887829297,
+        "engagement_change": 25.56332030254424
+      }
+    },
+    {
+      "channel_name": "DESCE A LETRA SHOW",
+      "tag": "Comunistas",
+      "7d": {
+        "videos_count": 4,
+        "total_views": 105699,
+        "avg_views": 26424.75,
+        "engagement_rate": 27.496002800404924
+      },
+      "30d": {
+        "videos_count": 16,
+        "total_views": 1127361,
+        "avg_views": 70460.0625,
+        "engagement_rate": 17.99698588118624
+      },
+      "changes": {
+        "views_change": -62.496839965193054,
+        "engagement_change": 52.78115447736613
+      }
+    },
+    {
+      "channel_name": "Andréa Gonçalves",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 12,
+        "total_views": 779575,
+        "avg_views": 64964.583333333336,
+        "engagement_rate": 18.632075169162686
+      },
+      "30d": {
+        "videos_count": 85,
+        "total_views": 9646965,
+        "avg_views": 113493.70588235294,
+        "engagement_rate": 15.23051032112172
+      },
+      "changes": {
+        "views_change": -42.75930737456461,
+        "engagement_change": 22.333886234420294
+      }
+    },
+    {
+      "channel_name": "Cortes do Mamãe Falei",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 14,
+        "total_views": 253784,
+        "avg_views": 18127.428571428572,
+        "engagement_rate": 11.187072471077768
+      },
+      "30d": {
+        "videos_count": 76,
+        "total_views": 3169423,
+        "avg_views": 41702.93421052631,
+        "engagement_rate": 7.304105510687592
+      },
+      "changes": {
+        "views_change": -56.53200688489446,
+        "engagement_change": 53.1614303039366
+      }
+    },
+    {
+      "channel_name": "Política Oculta",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 7,
+        "total_views": 304130,
+        "avg_views": 43447.142857142855,
+        "engagement_rate": 12.346365041265248
+      },
+      "30d": {
+        "videos_count": 30,
+        "total_views": 2224435,
+        "avg_views": 74147.83333333333,
+        "engagement_rate": 11.64677772108423
+      },
+      "changes": {
+        "views_change": -41.4047034094372,
+        "engagement_change": 6.006702771656318
+      }
+    },
+    {
+      "channel_name": "WAGNÃO",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 3,
+        "total_views": 100254,
+        "avg_views": 33418.0,
+        "engagement_rate": 20.60266922018074
+      },
+      "30d": {
+        "videos_count": 14,
+        "total_views": 881921,
+        "avg_views": 62994.357142857145,
+        "engagement_rate": 16.556698389084737
+      },
+      "changes": {
+        "views_change": -46.95080398357676,
+        "engagement_change": 24.437063090811467
+      }
+    },
+    {
+      "channel_name": "CartaCapital",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 19,
+        "total_views": 18533,
+        "avg_views": 975.421052631579,
+        "engagement_rate": 9.631468191873955
+      },
+      "30d": {
+        "videos_count": 121,
+        "total_views": 1481529,
+        "avg_views": 12244.04132231405,
+        "engagement_rate": 5.545892115510395
+      },
+      "changes": {
+        "views_change": -92.03350407798828,
+        "engagement_change": 73.66850979551663
+      }
+    },
+    {
+      "channel_name": "MADERADA BRASIL",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 31,
+        "total_views": 723126,
+        "avg_views": 23326.645161290322,
+        "engagement_rate": 10.869889894707146
+      },
+      "30d": {
+        "videos_count": 135,
+        "total_views": 4893768,
+        "avg_views": 36250.13333333333,
+        "engagement_rate": 9.989991352266802
+      },
+      "changes": {
+        "views_change": -35.6508707242723,
+        "engagement_change": 8.807800841996611
+      }
+    },
+    {
+      "channel_name": "APOIO A DIREITA- Dr. MARCELO SUAVE ",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 15,
+        "total_views": 355574,
+        "avg_views": 23704.933333333334,
+        "engagement_rate": 29.016744756365764
+      },
+      "30d": {
+        "videos_count": 81,
+        "total_views": 2245710,
+        "avg_views": 27724.814814814814,
+        "engagement_rate": 27.300630980847927
+      },
+      "changes": {
+        "views_change": -14.499218509958983,
+        "engagement_change": 6.285985758797052
+      }
+    },
+    {
+      "channel_name": "Cortes Trezoitão",
+      "tag": "Ancap",
+      "7d": {
+        "videos_count": 29,
+        "total_views": 165459,
+        "avg_views": 5705.482758620689,
+        "engagement_rate": 9.66402552898301
+      },
+      "30d": {
+        "videos_count": 170,
+        "total_views": 6949066,
+        "avg_views": 40876.85882352941,
+        "engagement_rate": 6.670565511969523
+      },
+      "changes": {
+        "views_change": -86.04226713394985,
+        "engagement_change": 44.875655769246045
+      }
+    },
+    {
+      "channel_name": "TV NEWS NO AR",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 20,
+        "total_views": 1281378,
+        "avg_views": 64068.9,
+        "engagement_rate": 11.278795172072565
+      },
+      "30d": {
+        "videos_count": 64,
+        "total_views": 3997207,
+        "avg_views": 62456.359375,
+        "engagement_rate": 9.097402261128833
+      },
+      "changes": {
+        "views_change": 2.5818677891837996,
+        "engagement_change": 23.978195624748135
+      }
+    },
+    {
+      "channel_name": "VIDA GRINGA USA",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 12,
+        "total_views": 787410,
+        "avg_views": 65617.5,
+        "engagement_rate": 22.81517887758601
+      },
+      "30d": {
+        "videos_count": 70,
+        "total_views": 5210903,
+        "avg_views": 74441.47142857143,
+        "engagement_rate": 17.87622989719824
+      },
+      "changes": {
+        "views_change": -11.853569333376576,
+        "engagement_change": 27.628582809632906
+      }
+    },
+    {
+      "channel_name": "Portal do José",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 15,
+        "total_views": 1986564,
+        "avg_views": 132437.6,
+        "engagement_rate": 27.437877662134216
+      },
+      "30d": {
+        "videos_count": 64,
+        "total_views": 12011954,
+        "avg_views": 187686.78125,
+        "engagement_rate": 24.09340728411048
+      },
+      "changes": {
+        "views_change": -29.43690593553721,
+        "engagement_change": 13.881267761697627
+      }
+    },
+    {
+      "channel_name": "luideverso",
+      "tag": "Comunistas",
+      "7d": {
+        "videos_count": 9,
+        "total_views": 386020,
+        "avg_views": 42891.11111111111,
+        "engagement_rate": 9.975389876172219
+      },
+      "30d": {
+        "videos_count": 29,
+        "total_views": 2362403,
+        "avg_views": 81462.1724137931,
+        "engagement_rate": 8.379518651136152
+      },
+      "changes": {
+        "views_change": -47.34843198970615,
+        "engagement_change": 19.044903310999707
+      }
+    },
+    {
+      "channel_name": "Conversa Timeline ",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 8,
+        "total_views": 930403,
+        "avg_views": 116300.375,
+        "engagement_rate": 25.600196903922278
+      },
+      "30d": {
+        "videos_count": 33,
+        "total_views": 6567154,
+        "avg_views": 199004.66666666666,
+        "engagement_rate": 19.187916104906325
+      },
+      "changes": {
+        "views_change": -41.558970978905016,
+        "engagement_change": 33.41832830599223
+      }
+    },
+    {
+      "channel_name": "Silas Malafaia Oficial",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 29,
+        "total_views": 1578191,
+        "avg_views": 54420.379310344826,
+        "engagement_rate": 16.033103724454136
+      },
+      "30d": {
+        "videos_count": 79,
+        "total_views": 4211960,
+        "avg_views": 53315.94936708861,
+        "engagement_rate": 13.596662836304239
+      },
+      "changes": {
+        "views_change": 2.0714813416376523,
+        "engagement_change": 17.919403588095122
+      }
+    },
+    {
+      "channel_name": "Jovem Pan  - 3 em 1",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 49,
+        "total_views": 852591,
+        "avg_views": 17399.816326530614,
+        "engagement_rate": 3.8255153995291997
+      },
+      "30d": {
+        "videos_count": 202,
+        "total_views": 3489629,
+        "avg_views": 17275.39108910891,
+        "engagement_rate": 3.665575910791663
+      },
+      "changes": {
+        "views_change": 0.720245560751129,
+        "engagement_change": 4.3632840413061915
+      }
+    },
+    {
+      "channel_name": "Alex Moretti",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 6,
+        "total_views": 344711,
+        "avg_views": 57451.833333333336,
+        "engagement_rate": 9.290971277388886
+      },
+      "30d": {
+        "videos_count": 29,
+        "total_views": 2922302,
+        "avg_views": 100769.03448275862,
+        "engagement_rate": 9.328467762743207
+      },
+      "changes": {
+        "views_change": -42.98661922461584,
+        "engagement_change": -0.40195760234148703
+      }
+    },
+    {
+      "channel_name": "Claudio Dantas",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 22,
+        "total_views": 1156409,
+        "avg_views": 52564.045454545456,
+        "engagement_rate": 9.724846485975117
+      },
+      "30d": {
+        "videos_count": 103,
+        "total_views": 6900311,
+        "avg_views": 66993.31067961165,
+        "engagement_rate": 10.52109100589814
+      },
+      "changes": {
+        "views_change": -21.5383671573907,
+        "engagement_change": -7.568079389073315
+      }
+    },
+    {
+      "channel_name": "hubtnt by Davi Aragão",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 21,
+        "total_views": 827630,
+        "avg_views": 39410.95238095238,
+        "engagement_rate": 10.368038857943768
+      },
+      "30d": {
+        "videos_count": 91,
+        "total_views": 4625223,
+        "avg_views": 50826.62637362637,
+        "engagement_rate": 8.771814894114295
+      },
+      "changes": {
+        "views_change": -22.460026972393184,
+        "engagement_change": 18.197191608551915
+      }
+    },
+    {
+      "channel_name": "Marco Antonio Costa",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 23,
+        "total_views": 93273,
+        "avg_views": 4055.3478260869565,
+        "engagement_rate": 21.369528159274388
+      },
+      "30d": {
+        "videos_count": 149,
+        "total_views": 1803098,
+        "avg_views": 12101.328859060402,
+        "engagement_rate": 12.57940500183573
+      },
+      "changes": {
+        "views_change": -66.48840905558342,
+        "engagement_change": 69.87709797208935
+      }
+    },
+    {
+      "channel_name": "Eduardo Bisotto",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 10,
+        "total_views": 8945,
+        "avg_views": 894.5,
+        "engagement_rate": 8.474007825600895
+      },
+      "30d": {
+        "videos_count": 84,
+        "total_views": 147497,
+        "avg_views": 1755.9166666666667,
+        "engagement_rate": 7.37506525556452
+      },
+      "changes": {
+        "views_change": -49.05794694129372,
+        "engagement_change": 14.900784358582014
+      }
+    },
+    {
+      "channel_name": "Jota",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 9,
+        "total_views": 4042,
+        "avg_views": 449.1111111111111,
+        "engagement_rate": 12.840178129638792
+      },
+      "30d": {
+        "videos_count": 38,
+        "total_views": 43403,
+        "avg_views": 1142.1842105263158,
+        "engagement_rate": 10.987719742874916
+      },
+      "changes": {
+        "views_change": -60.679625320318365,
+        "engagement_change": 16.85935235074702
+      }
+    },
+    {
+      "channel_name": "Guto Zacarias",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 9,
+        "total_views": 86956,
+        "avg_views": 9661.777777777777,
+        "engagement_rate": 16.815400892405354
+      },
+      "30d": {
+        "videos_count": 26,
+        "total_views": 805493,
+        "avg_views": 30980.5,
+        "engagement_rate": 12.169193276664105
+      },
+      "changes": {
+        "views_change": -68.81335750624497,
+        "engagement_change": 38.180079074353365
+      }
+    },
+    {
+      "channel_name": "Brasil Acima de Tudo - Por Patriotas",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 14,
+        "total_views": 594444,
+        "avg_views": 42460.28571428572,
+        "engagement_rate": 19.140743282798717
+      },
+      "30d": {
+        "videos_count": 60,
+        "total_views": 5785381,
+        "avg_views": 96423.01666666666,
+        "engagement_rate": 13.986719284347911
+      },
+      "changes": {
+        "views_change": -55.96457445314071,
+        "engagement_change": 36.84941331609127
+      }
+    },
+    {
+      "channel_name": "Dr. Amarildo Filho",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 14,
+        "total_views": 152417,
+        "avg_views": 10886.92857142857,
+        "engagement_rate": 14.044365129873965
+      },
+      "30d": {
+        "videos_count": 60,
+        "total_views": 2658459,
+        "avg_views": 44307.65,
+        "engagement_rate": 9.420231795938925
+      },
+      "changes": {
+        "views_change": -75.42878358155178,
+        "engagement_change": 49.08725638713594
+      }
+    },
+    {
+      "channel_name": "Fernando Holiday",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 5,
+        "total_views": 2744,
+        "avg_views": 548.8,
+        "engagement_rate": 11.916909620991254
+      },
+      "30d": {
+        "videos_count": 17,
+        "total_views": 56992,
+        "avg_views": 3352.470588235294,
+        "engagement_rate": 6.676375631667603
+      },
+      "changes": {
+        "views_change": -83.62998315553061,
+        "engagement_change": 78.49369595782746
+      }
+    },
+    {
+      "channel_name": "Política Exposta",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 67,
+        "total_views": 270724,
+        "avg_views": 4040.6567164179105,
+        "engagement_rate": 4.175839600478716
+      },
+      "30d": {
+        "videos_count": 253,
+        "total_views": 3714580,
+        "avg_views": 14682.134387351778,
+        "engagement_rate": 8.305891917794206
+      },
+      "changes": {
+        "views_change": -72.47909186896685,
+        "engagement_change": -49.7243686553088
+      }
+    },
+    {
+      "channel_name": "A Verdade que muitos não conhecem",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 25,
+        "total_views": 1808631,
+        "avg_views": 72345.24,
+        "engagement_rate": 1.2186012514437716
+      },
+      "30d": {
+        "videos_count": 117,
+        "total_views": 20265389,
+        "avg_views": 173208.452991453,
+        "engagement_rate": 1.2532352574135142
+      },
+      "changes": {
+        "views_change": -58.23226941264241,
+        "engagement_change": -2.763567795022127
+      }
+    },
+    {
+      "channel_name": "Amanda Vettorazzo",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 3,
+        "total_views": 13762,
+        "avg_views": 4587.333333333333,
+        "engagement_rate": 19.57564307513443
+      },
+      "30d": {
+        "videos_count": 7,
+        "total_views": 67557,
+        "avg_views": 9651.0,
+        "engagement_rate": 15.836996906316148
+      },
+      "changes": {
+        "views_change": -52.467792629433916,
+        "engagement_change": 23.607039838008845
+      }
+    },
+    {
+      "channel_name": "Deycon Silva",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 12,
+        "total_views": 466722,
+        "avg_views": 38893.5,
+        "engagement_rate": 14.05161959367675
+      },
+      "30d": {
+        "videos_count": 47,
+        "total_views": 2507724,
+        "avg_views": 53355.82978723404,
+        "engagement_rate": 13.468826712987553
+      },
+      "changes": {
+        "views_change": -27.10543504787608,
+        "engagement_change": 4.326975861432886
+      }
+    },
+    {
+      "channel_name": "Diário do Trabalhador",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 12,
+        "total_views": 1356624,
+        "avg_views": 113052.0,
+        "engagement_rate": 7.2881653280496295
+      },
+      "30d": {
+        "videos_count": 73,
+        "total_views": 5269592,
+        "avg_views": 72186.19178082192,
+        "engagement_rate": 8.228492832082635
+      },
+      "changes": {
+        "views_change": 56.61166936643293,
+        "engagement_change": -11.427700348315284
+      }
+    },
+    {
+      "channel_name": "Allan dos Panos",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 4,
+        "total_views": 97522,
+        "avg_views": 24380.5,
+        "engagement_rate": 19.515596480794077
+      },
+      "30d": {
+        "videos_count": 20,
+        "total_views": 944977,
+        "avg_views": 47248.85,
+        "engagement_rate": 15.879539925310352
+      },
+      "changes": {
+        "views_change": -48.39980232323114,
+        "engagement_change": 22.897744976151515
+      }
+    },
+    {
+      "channel_name": "Fio Diário",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 31,
+        "total_views": 268726,
+        "avg_views": 8668.58064516129,
+        "engagement_rate": 20.570395123657555
+      },
+      "30d": {
+        "videos_count": 188,
+        "total_views": 5298401,
+        "avg_views": 28182.98404255319,
+        "engagement_rate": 13.391511891984015
+      },
+      "changes": {
+        "views_change": -69.2417927353871,
+        "engagement_change": 53.60771277790318
+      }
+    },
+    {
+      "channel_name": "Brasil Paralelo",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 34,
+        "total_views": 496198,
+        "avg_views": 14594.058823529413,
+        "engagement_rate": 15.825335853832543
+      },
+      "30d": {
+        "videos_count": 155,
+        "total_views": 5046365,
+        "avg_views": 32557.1935483871,
+        "engagement_rate": 12.107625984248068
+      },
+      "changes": {
+        "views_change": -55.17408832601171,
+        "engagement_change": 30.70552290284807
+      }
+    },
+    {
+      "channel_name": "Guizão Tocamente a Frente",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 18,
+        "total_views": 293793,
+        "avg_views": 16321.833333333334,
+        "engagement_rate": 14.899606185307341
+      },
+      "30d": {
+        "videos_count": 77,
+        "total_views": 2009967,
+        "avg_views": 26103.467532467534,
+        "engagement_rate": 14.626309785185528
+      },
+      "changes": {
+        "views_change": -37.47254722755813,
+        "engagement_change": 1.8685259927875004
+      }
+    },
+    {
+      "channel_name": "GIGANTE PATRIA",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 22,
+        "total_views": 279106,
+        "avg_views": 12686.636363636364,
+        "engagement_rate": 17.562144848193878
+      },
+      "30d": {
+        "videos_count": 97,
+        "total_views": 1725641,
+        "avg_views": 17790.113402061856,
+        "engagement_rate": 14.451963067636896
+      },
+      "changes": {
+        "views_change": -28.68715293199876,
+        "engagement_change": 21.520825689914673
+      }
+    },
+    {
+      "channel_name": "Chavoso da USP",
+      "tag": "Comunistas",
+      "7d": {
+        "videos_count": 5,
+        "total_views": 11305,
+        "avg_views": 2261.0,
+        "engagement_rate": 22.450243255196817
+      },
+      "30d": {
+        "videos_count": 6,
+        "total_views": 15715,
+        "avg_views": 2619.1666666666665,
+        "engagement_rate": 21.06904231625835
+      },
+      "changes": {
+        "views_change": -13.674832962138082,
+        "engagement_change": 6.555594308492298
+      }
+    },
+    {
+      "channel_name": "DIREITA NOTICIAS - DR MARCELO SUAVE",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 28,
+        "total_views": 167918,
+        "avg_views": 5997.071428571428,
+        "engagement_rate": 33.390107076072844
+      },
+      "30d": {
+        "videos_count": 151,
+        "total_views": 1078705,
+        "avg_views": 7143.741721854305,
+        "engagement_rate": 31.291038791884713
+      },
+      "changes": {
+        "views_change": -16.051396284036354,
+        "engagement_change": 6.708209012008007
+      }
+    },
+    {
+      "channel_name": "Marcelo Brigadeiro",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 8,
+        "total_views": 96111,
+        "avg_views": 12013.875,
+        "engagement_rate": 26.165579382172695
+      },
+      "30d": {
+        "videos_count": 35,
+        "total_views": 850034,
+        "avg_views": 24286.685714285715,
+        "engagement_rate": 13.578398040548967
+      },
+      "changes": {
+        "views_change": -50.533081617911755,
+        "engagement_change": 92.70004682463141
+      }
+    },
+    {
+      "channel_name": "AuriVerde Brasil",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 78,
+        "total_views": 1378282,
+        "avg_views": 17670.28205128205,
+        "engagement_rate": 18.931974733762758
+      },
+      "30d": {
+        "videos_count": 105,
+        "total_views": 2093570,
+        "avg_views": 19938.761904761905,
+        "engagement_rate": 17.572949555066227
+      },
+      "changes": {
+        "views_change": -11.37723527827513,
+        "engagement_change": 7.733620212349199
+      }
+    },
+    {
+      "channel_name": "Fernando Ulrich",
+      "tag": "Ancap",
+      "7d": {
+        "videos_count": 5,
+        "total_views": 213839,
+        "avg_views": 42767.8,
+        "engagement_rate": 14.014281772735563
+      },
+      "30d": {
+        "videos_count": 18,
+        "total_views": 1308830,
+        "avg_views": 72712.77777777778,
+        "engagement_rate": 10.611691357930365
+      },
+      "changes": {
+        "views_change": -41.18255235592094,
+        "engagement_change": 32.064543719153335
+      }
+    },
+    {
+      "channel_name": "ANCAPSU",
+      "tag": "Ancap",
+      "7d": {
+        "videos_count": 47,
+        "total_views": 3103420,
+        "avg_views": 66030.21276595745,
+        "engagement_rate": 18.968718381656366
+      },
+      "30d": {
+        "videos_count": 215,
+        "total_views": 27446808,
+        "avg_views": 127659.57209302325,
+        "engagement_rate": 16.205950068947907
+      },
+      "changes": {
+        "views_change": -48.27633237103254,
+        "engagement_change": 17.047863907727187
+      }
+    },
+    {
+      "channel_name": "O Antagonista",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 36,
+        "total_views": 64849,
+        "avg_views": 1801.361111111111,
+        "engagement_rate": 13.207605360144335
+      },
+      "30d": {
+        "videos_count": 193,
+        "total_views": 1336940,
+        "avg_views": 6927.150259067357,
+        "engagement_rate": 9.770296348377638
+      },
+      "changes": {
+        "views_change": -73.99563971124775,
+        "engagement_change": 35.18121548419014
+      }
+    },
+    {
+      "channel_name": "Movimento Brasil Patriota",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 20,
+        "total_views": 822718,
+        "avg_views": 41135.9,
+        "engagement_rate": 9.693844063214856
+      },
+      "30d": {
+        "videos_count": 73,
+        "total_views": 3665713,
+        "avg_views": 50215.24657534246,
+        "engagement_rate": 7.24672116993338
+      },
+      "changes": {
+        "views_change": -18.080856302716544,
+        "engagement_change": 33.768691190087175
+      }
+    },
+    {
+      "channel_name": "Descendo o Sarrafo",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 9,
+        "total_views": 126815,
+        "avg_views": 14090.555555555555,
+        "engagement_rate": 11.129598233647439
+      },
+      "30d": {
+        "videos_count": 38,
+        "total_views": 822062,
+        "avg_views": 21633.21052631579,
+        "engagement_rate": 12.707435692198398
+      },
+      "changes": {
+        "views_change": -34.86609147350065,
+        "engagement_change": -12.41664720380727
+      }
+    },
+    {
+      "channel_name": "Epoch Times Brasil",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 30,
+        "total_views": 833817,
+        "avg_views": 27793.9,
+        "engagement_rate": 7.890460376797307
+      },
+      "30d": {
+        "videos_count": 106,
+        "total_views": 4103568,
+        "avg_views": 38712.90566037736,
+        "engagement_rate": 8.173131284774616
+      },
+      "changes": {
+        "views_change": -28.205079092146146,
+        "engagement_change": -3.45853869377927
+      }
+    },
+    {
+      "channel_name": "Desmascarando",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 9,
+        "total_views": 1010440,
+        "avg_views": 112271.11111111111,
+        "engagement_rate": 23.381101302402914
+      },
+      "30d": {
+        "videos_count": 49,
+        "total_views": 9350926,
+        "avg_views": 190835.22448979592,
+        "engagement_rate": 19.342234127400857
+      },
+      "changes": {
+        "views_change": -41.16855972933114,
+        "engagement_change": 20.881078930176233
+      }
+    },
+    {
+      "channel_name": "Nando Moura",
+      "tag": "sem_tag",
+      "7d": {
+        "videos_count": 7,
+        "total_views": 603466,
+        "avg_views": 86209.42857142857,
+        "engagement_rate": 20.73074539410671
+      },
+      "30d": {
+        "videos_count": 30,
+        "total_views": 6483941,
+        "avg_views": 216131.36666666667,
+        "engagement_rate": 13.759455861797631
+      },
+      "changes": {
+        "views_change": -60.11248626193766,
+        "engagement_change": 50.66544492987166
+      }
+    },
+    {
+      "channel_name": "Opera Mundi",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 30,
+        "total_views": 42812,
+        "avg_views": 1427.0666666666666,
+        "engagement_rate": 18.27057834252079
+      },
+      "30d": {
+        "videos_count": 162,
+        "total_views": 1070780,
+        "avg_views": 6609.753086419753,
+        "engagement_rate": 12.39012682343712
+      },
+      "changes": {
+        "views_change": -78.4096826612376,
+        "engagement_change": 47.4607855341741
+      }
+    },
+    {
+      "channel_name": "Brasil de Fato",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 29,
+        "total_views": 23780,
+        "avg_views": 820.0,
+        "engagement_rate": 10.2228763666947
+      },
+      "30d": {
+        "videos_count": 184,
+        "total_views": 1011339,
+        "avg_views": 5496.407608695652,
+        "engagement_rate": 7.000916606597787
+      },
+      "changes": {
+        "views_change": -85.08116467376419,
+        "engagement_change": 46.0219702811555
+      }
+    },
+    {
+      "channel_name": "Jovem Pan News",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 373,
+        "total_views": 3933191,
+        "avg_views": 10544.74798927614,
+        "engagement_rate": 3.010329272084676
+      },
+      "30d": {
+        "videos_count": 630,
+        "total_views": 6291148,
+        "avg_views": 9985.949206349207,
+        "engagement_rate": 2.8009037460253676
+      },
+      "changes": {
+        "views_change": 5.5958504432572225,
+        "engagement_change": 7.477069726387227
+      }
+    },
+    {
+      "channel_name": "Renato Battista",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 11,
+        "total_views": 49173,
+        "avg_views": 4470.272727272727,
+        "engagement_rate": 14.35340532405995
+      },
+      "30d": {
+        "videos_count": 54,
+        "total_views": 429271,
+        "avg_views": 7949.462962962963,
+        "engagement_rate": 10.828124890803245
+      },
+      "changes": {
+        "views_change": -43.76635568842823,
+        "engagement_change": 32.5567027422344
+      }
+    },
+    {
+      "channel_name": "TV GGN",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 25,
+        "total_views": 53241,
+        "avg_views": 2129.64,
+        "engagement_rate": 22.093875021130334
+      },
+      "30d": {
+        "videos_count": 154,
+        "total_views": 1591406,
+        "avg_views": 10333.805194805194,
+        "engagement_rate": 12.769840003116741
+      },
+      "changes": {
+        "views_change": -79.39152171099016,
+        "engagement_change": 73.01606766989931
+      }
+    },
+    {
+      "channel_name": "CORTES DO FIGUEIREDO",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 13,
+        "total_views": 223271,
+        "avg_views": 17174.69230769231,
+        "engagement_rate": 13.987933945743066
+      },
+      "30d": {
+        "videos_count": 52,
+        "total_views": 2352088,
+        "avg_views": 45232.46153846154,
+        "engagement_rate": 12.169060001156419
+      },
+      "changes": {
+        "views_change": -62.0301621367908,
+        "engagement_change": 14.94670865632843
+      }
+    },
+    {
+      "channel_name": "Orientação Marxista - Gustavo Machado",
+      "tag": "Comunistas",
+      "7d": {
+        "videos_count": 1,
+        "total_views": 2695,
+        "avg_views": 2695.0,
+        "engagement_rate": 27.940630797773654
+      },
+      "30d": {
+        "videos_count": 3,
+        "total_views": 17040,
+        "avg_views": 5680.0,
+        "engagement_rate": 21.889671361502348
+      },
+      "changes": {
+        "views_change": -52.55281690140845,
+        "engagement_change": 27.642988952831914
+      }
+    },
+    {
+      "channel_name": "BARRACA DOS DRONES TV📺🌎",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 53,
+        "total_views": 605902,
+        "avg_views": 11432.11320754717,
+        "engagement_rate": 0.5877188060115333
+      },
+      "30d": {
+        "videos_count": 261,
+        "total_views": 2855010,
+        "avg_views": 10938.735632183909,
+        "engagement_rate": 1.103078448061478
+      },
+      "changes": {
+        "views_change": 4.510371143001646,
+        "engagement_change": -46.72012611212055
+      }
+    },
+    {
+      "channel_name": "TV 247",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 125,
+        "total_views": 789879,
+        "avg_views": 6319.032,
+        "engagement_rate": 17.65650181863298
+      },
+      "30d": {
+        "videos_count": 257,
+        "total_views": 1908273,
+        "avg_views": 7425.186770428016,
+        "engagement_rate": 16.734031241861096
+      },
+      "changes": {
+        "views_change": -14.897332614358639,
+        "engagement_change": 5.512542455784782
+      }
+    },
+    {
+      "channel_name": "Política News ",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 21,
+        "total_views": 1013058,
+        "avg_views": 48240.857142857145,
+        "engagement_rate": 8.560121927865927
+      },
+      "30d": {
+        "videos_count": 41,
+        "total_views": 2141222,
+        "avg_views": 52224.92682926829,
+        "engagement_rate": 8.486882723977242
+      },
+      "changes": {
+        "views_change": -7.628674520570822,
+        "engagement_change": 0.862969434958355
+      }
+    },
+    {
+      "channel_name": "O Jacaré de Tanga",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 17,
+        "total_views": 614906,
+        "avg_views": 36170.94117647059,
+        "engagement_rate": 28.096326918260676
+      },
+      "30d": {
+        "videos_count": 77,
+        "total_views": 3589149,
+        "avg_views": 46612.32467532468,
+        "engagement_rate": 24.864612753608167
+      },
+      "changes": {
+        "views_change": -22.40047792420334,
+        "engagement_change": 12.997243096752218
+      }
+    },
+    {
+      "channel_name": "Mundial Telenoticias",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 5,
+        "total_views": 183263,
+        "avg_views": 36652.6,
+        "engagement_rate": 15.414459001544229
+      },
+      "30d": {
+        "videos_count": 34,
+        "total_views": 6337373,
+        "avg_views": 186393.32352941178,
+        "engagement_rate": 12.113315722461026
+      },
+      "changes": {
+        "views_change": -80.33588365399986,
+        "engagement_change": 27.25218556767312
+      }
+    },
+    {
+      "channel_name": "Revista Valete",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 3,
+        "total_views": 2032,
+        "avg_views": 677.3333333333334,
+        "engagement_rate": 19.83267716535433
+      },
+      "30d": {
+        "videos_count": 10,
+        "total_views": 19068,
+        "avg_views": 1906.8,
+        "engagement_rate": 15.64925529683239
+      },
+      "changes": {
+        "views_change": -64.47800853087196,
+        "engagement_change": 26.73240220810199
+      }
+    },
+    {
+      "channel_name": "Visão Libertária",
+      "tag": "Ancap",
+      "7d": {
+        "videos_count": 26,
+        "total_views": 44847,
+        "avg_views": 1724.8846153846155,
+        "engagement_rate": 25.01839587932303
+      },
+      "30d": {
+        "videos_count": 83,
+        "total_views": 368163,
+        "avg_views": 4435.698795180723,
+        "engagement_rate": 18.256859054277587
+      },
+      "changes": {
+        "views_change": -61.11357657425568,
+        "engagement_change": 37.03559744282089
+      }
+    },
+    {
+      "channel_name": "oiluiz TV",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 12,
+        "total_views": 3076416,
+        "avg_views": 256368.0,
+        "engagement_rate": 25.457675424910025
+      },
+      "30d": {
+        "videos_count": 30,
+        "total_views": 13076785,
+        "avg_views": 435892.8333333333,
+        "engagement_rate": 22.285187070063476
+      },
+      "changes": {
+        "views_change": -41.18554369441724,
+        "engagement_change": 14.235861448559579
+      }
+    },
+    {
+      "channel_name": "ICL Notícias ",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 22,
+        "total_views": 80255,
+        "avg_views": 3647.9545454545455,
+        "engagement_rate": 15.152949971964363
+      },
+      "30d": {
+        "videos_count": 172,
+        "total_views": 1109779,
+        "avg_views": 6452.203488372093,
+        "engagement_rate": 11.943278796949663
+      },
+      "changes": {
+        "views_change": -43.46188008439682,
+        "engagement_change": 26.874288288693855
+      }
+    },
+    {
+      "channel_name": "Jefferson Pereira",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 7,
+        "total_views": 30840,
+        "avg_views": 4405.714285714285,
+        "engagement_rate": 10.917639429312581
+      },
+      "30d": {
+        "videos_count": 15,
+        "total_views": 480645,
+        "avg_views": 32043.0,
+        "engagement_rate": 9.62040591288789
+      },
+      "changes": {
+        "views_change": -86.25061858841467,
+        "engagement_change": 13.484186926945199
+      }
+    },
+    {
+      "channel_name": "MyNews",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 25,
+        "total_views": 123775,
+        "avg_views": 4951.0,
+        "engagement_rate": 9.648151888507373
+      },
+      "30d": {
+        "videos_count": 156,
+        "total_views": 778455,
+        "avg_views": 4990.096153846154,
+        "engagement_rate": 7.290851751225183
+      },
+      "changes": {
+        "views_change": -0.783474960016965,
+        "engagement_change": 32.33230104954554
+      }
+    },
+    {
+      "channel_name": "André Marsiglia",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 21,
+        "total_views": 1098655,
+        "avg_views": 52316.90476190476,
+        "engagement_rate": 14.653735704110936
+      },
+      "30d": {
+        "videos_count": 47,
+        "total_views": 2532725,
+        "avg_views": 53887.765957446805,
+        "engagement_rate": 15.580412401662242
+      },
+      "changes": {
+        "views_change": -2.9150609004323793,
+        "engagement_change": -5.947703267805934
+      }
+    },
+    {
+      "channel_name": "Professor Leonardo",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 10,
+        "total_views": 201725,
+        "avg_views": 20172.5,
+        "engagement_rate": 23.896393605155534
+      },
+      "30d": {
+        "videos_count": 75,
+        "total_views": 2222648,
+        "avg_views": 29635.306666666667,
+        "engagement_rate": 20.923646029420762
+      },
+      "changes": {
+        "views_change": -31.930854548268556,
+        "engagement_change": 14.207598291209802
+      }
+    },
+    {
+      "channel_name": "CLEITON BASSO Notícias, Reflexões e Evangelismo",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 13,
+        "total_views": 1217616,
+        "avg_views": 93662.76923076923,
+        "engagement_rate": 15.631200641253072
+      },
+      "30d": {
+        "videos_count": 43,
+        "total_views": 5653854,
+        "avg_views": 131484.97674418605,
+        "engagement_rate": 16.615215037388655
+      },
+      "changes": {
+        "views_change": -28.765421305129614,
+        "engagement_change": -5.9223693098240915
+      }
+    },
+    {
+      "channel_name": "Portal da Fabi",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 6,
+        "total_views": 67707,
+        "avg_views": 11284.5,
+        "engagement_rate": 17.90213714977772
+      },
+      "30d": {
+        "videos_count": 30,
+        "total_views": 455991,
+        "avg_views": 15199.7,
+        "engagement_rate": 16.122686631973
+      },
+      "changes": {
+        "views_change": -25.758403126377498,
+        "engagement_change": 11.03693545885758
+      }
+    },
+    {
+      "channel_name": "Clayson",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 9,
+        "total_views": 544075,
+        "avg_views": 60452.77777777778,
+        "engagement_rate": 21.284381748839774
+      },
+      "30d": {
+        "videos_count": 35,
+        "total_views": 4147176,
+        "avg_views": 118490.74285714286,
+        "engagement_rate": 17.176290564953113
+      },
+      "changes": {
+        "views_change": -48.98101208576095,
+        "engagement_change": 23.91721989303617
+      }
+    },
+    {
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 191,
+        "total_views": 26531010,
+        "avg_views": 138905.8115183246,
+        "engagement_rate": 0.7375708651875673
+      },
+      "30d": {
+        "videos_count": 787,
+        "total_views": 182899280,
+        "avg_views": 232400.60991105463,
+        "engagement_rate": 0.649949524131533
+      },
+      "changes": {
+        "views_change": -40.23001421059642,
+        "engagement_change": 13.481253205487704
+      }
+    },
+    {
+      "channel_name": "Gazeta do Povo",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 38,
+        "total_views": 1328742,
+        "avg_views": 34966.89473684211,
+        "engagement_rate": 11.924813093888806
+      },
+      "30d": {
+        "videos_count": 197,
+        "total_views": 15062043,
+        "avg_views": 76457.07106598985,
+        "engagement_rate": 9.05128208703162
+      },
+      "changes": {
+        "views_change": -54.265976646342764,
+        "engagement_change": 31.747226295977317
+      }
+    },
+    {
+      "channel_name": "Rádio BandNews FM",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 169,
+        "total_views": 972360,
+        "avg_views": 5753.609467455622,
+        "engagement_rate": 8.33446460158789
+      },
+      "30d": {
+        "videos_count": 345,
+        "total_views": 2459938,
+        "avg_views": 7130.255072463769,
+        "engagement_rate": 7.49209939437498
+      },
+      "changes": {
+        "views_change": -19.307101793939957,
+        "engagement_change": 11.243380031041118
+      }
+    },
+    {
+      "channel_name": "Ana Paula Henkel",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 34,
+        "total_views": 575216,
+        "avg_views": 16918.117647058825,
+        "engagement_rate": 17.360087341103167
+      },
+      "30d": {
+        "videos_count": 130,
+        "total_views": 4995317,
+        "avg_views": 38425.515384615384,
+        "engagement_rate": 13.536218021799217
+      },
+      "changes": {
+        "views_change": -55.97165717175412,
+        "engagement_change": 28.24917058181135
+      }
+    },
+    {
+      "channel_name": "Te atualizei",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 2,
+        "total_views": 263412,
+        "avg_views": 131706.0,
+        "engagement_rate": 39.679285681745704
+      },
+      "30d": {
+        "videos_count": 10,
+        "total_views": 5238942,
+        "avg_views": 523894.2,
+        "engagement_rate": 22.96681276486741
+      },
+      "changes": {
+        "views_change": -74.86019123708566,
+        "engagement_change": 72.76792425653224
+      }
+    },
+    {
+      "channel_name": "Folha Política",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 25,
+        "total_views": 376450,
+        "avg_views": 15058.0,
+        "engagement_rate": 7.55345995484128
+      },
+      "30d": {
+        "videos_count": 175,
+        "total_views": 8402031,
+        "avg_views": 48011.60571428572,
+        "engagement_rate": 5.506561449249592
+      },
+      "changes": {
+        "views_change": -68.6367498525059,
+        "engagement_change": 37.171990623488455
+      }
+    },
+    {
+      "channel_name": "JD NEWS BRASIL",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 6,
+        "total_views": 2045298,
+        "avg_views": 340883.0,
+        "engagement_rate": 6.203643674418104
+      },
+      "30d": {
+        "videos_count": 7,
+        "total_views": 3118125,
+        "avg_views": 445446.4285714286,
+        "engagement_rate": 5.6319743435558225
+      },
+      "changes": {
+        "views_change": -23.473850471036283,
+        "engagement_change": 10.150424984027012
+      }
+    },
+    {
+      "channel_name": "MBLiveTV - Lives do MBL",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 16,
+        "total_views": 254245,
+        "avg_views": 15890.3125,
+        "engagement_rate": 19.374618969891248
+      },
+      "30d": {
+        "videos_count": 90,
+        "total_views": 2656554,
+        "avg_views": 29517.266666666666,
+        "engagement_rate": 15.086875704389973
+      },
+      "changes": {
+        "views_change": -46.16604349092847,
+        "engagement_change": 28.420352560163465
+      }
+    },
+    {
+      "channel_name": "Papo Libertário",
+      "tag": "Ancap",
+      "7d": {
+        "videos_count": 9,
+        "total_views": 22043,
+        "avg_views": 2449.222222222222,
+        "engagement_rate": 22.837181871796034
+      },
+      "30d": {
+        "videos_count": 53,
+        "total_views": 377363,
+        "avg_views": 7120.056603773585,
+        "engagement_rate": 15.190678471392268
+      },
+      "changes": {
+        "views_change": -65.60108495592367,
+        "engagement_change": 50.33681290012153
+      }
+    },
+    {
+      "channel_name": "Thiago dos Reis",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 37,
+        "total_views": 182013,
+        "avg_views": 4919.27027027027,
+        "engagement_rate": 26.5706295704153
+      },
+      "30d": {
+        "videos_count": 196,
+        "total_views": 2741694,
+        "avg_views": 13988.234693877552,
+        "engagement_rate": 17.538645815324394
+      },
+      "changes": {
+        "views_change": -64.83280143688636,
+        "engagement_change": 51.4976119034185
+      }
+    },
+    {
+      "channel_name": "Cortes do MBL",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 13,
+        "total_views": 106264,
+        "avg_views": 8174.153846153846,
+        "engagement_rate": 10.842806594895732
+      },
+      "30d": {
+        "videos_count": 86,
+        "total_views": 2519076,
+        "avg_views": 29291.581395348836,
+        "engagement_rate": 7.3796106191317765
+      },
+      "changes": {
+        "views_change": -72.09384588757025,
+        "engagement_change": 46.92925080336293
+      }
+    },
+    {
+      "channel_name": "Nanda Guardian",
+      "tag": "Ancap",
+      "7d": {
+        "videos_count": 7,
+        "total_views": 67570,
+        "avg_views": 9652.857142857143,
+        "engagement_rate": 16.26461447387894
+      },
+      "30d": {
+        "videos_count": 21,
+        "total_views": 1337362,
+        "avg_views": 63683.90476190476,
+        "engagement_rate": 13.938185771690836
+      },
+      "changes": {
+        "views_change": -84.84254824049135,
+        "engagement_change": 16.69104387253324
+      }
+    },
+    {
+      "channel_name": "ESPECTRO CINZA",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 7,
+        "total_views": 22886,
+        "avg_views": 3269.4285714285716,
+        "engagement_rate": 12.584112557895656
+      },
+      "30d": {
+        "videos_count": 15,
+        "total_views": 175645,
+        "avg_views": 11709.666666666666,
+        "engagement_rate": 8.631045574881153
+      },
+      "changes": {
+        "views_change": -72.07923449490247,
+        "engagement_change": 45.80055740313868
+      }
+    },
+    {
+      "channel_name": "Instituto Conhecimento Liberta",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 51,
+        "total_views": 537399,
+        "avg_views": 10537.235294117647,
+        "engagement_rate": 12.228158221358804
+      },
+      "30d": {
+        "videos_count": 211,
+        "total_views": 3646520,
+        "avg_views": 17282.08530805687,
+        "engagement_rate": 9.03859021752246
+      },
+      "changes": {
+        "views_change": -39.02798703808498,
+        "engagement_change": 35.28833509514526
+      }
+    },
+    {
+      "channel_name": "Cesar Mello",
+      "tag": "Ancap",
+      "7d": {
+        "videos_count": 5,
+        "total_views": 8519,
+        "avg_views": 1703.8,
+        "engagement_rate": 39.17126423289118
+      },
+      "30d": {
+        "videos_count": 23,
+        "total_views": 167369,
+        "avg_views": 7276.913043478261,
+        "engagement_rate": 19.963673081633996
+      },
+      "changes": {
+        "views_change": -76.5862256451314,
+        "engagement_change": 96.21271132178386
+      }
+    },
+    {
+      "channel_name": "Instituto Mises Brasil",
+      "tag": "Ancap",
+      "7d": {
+        "videos_count": 7,
+        "total_views": 1180,
+        "avg_views": 168.57142857142858,
+        "engagement_rate": 17.28813559322034
+      },
+      "30d": {
+        "videos_count": 17,
+        "total_views": 5990,
+        "avg_views": 352.3529411764706,
+        "engagement_rate": 13.23873121869783
+      },
+      "changes": {
+        "views_change": -52.15835917004531,
+        "engagement_change": 30.58755637249664
+      }
+    },
+    {
+      "channel_name": "Gustavo Gayer Deputado Federal",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 19,
+        "total_views": 5472508,
+        "avg_views": 288026.7368421053,
+        "engagement_rate": 19.36212793110581
+      },
+      "30d": {
+        "videos_count": 118,
+        "total_views": 61963943,
+        "avg_views": 525118.1610169491,
+        "engagement_rate": 16.08677162458819
+      },
+      "changes": {
+        "views_change": -45.15010939931885,
+        "engagement_change": 20.360557002694847
+      }
+    },
+    {
+      "channel_name": "TV Afiada",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 15,
+        "total_views": 440653,
+        "avg_views": 29376.866666666665,
+        "engagement_rate": 12.688668861893598
+      },
+      "30d": {
+        "videos_count": 60,
+        "total_views": 3935193,
+        "avg_views": 65586.55,
+        "engagement_rate": 9.281628626601034
+      },
+      "changes": {
+        "views_change": -55.2090075378768,
+        "engagement_change": 36.70735355138029
+      }
+    },
+    {
+      "channel_name": "Daniel Alvarenga",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 5,
+        "total_views": 106550,
+        "avg_views": 21310.0,
+        "engagement_rate": 13.941811356170811
+      },
+      "30d": {
+        "videos_count": 18,
+        "total_views": 990076,
+        "avg_views": 55004.22222222222,
+        "engagement_rate": 9.78015829087868
+      },
+      "changes": {
+        "views_change": -61.25751962475607,
+        "engagement_change": 42.5520011181561
+      }
+    },
+    {
+      "channel_name": "AVRAHAM  DOC📝",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 13,
+        "total_views": 370167,
+        "avg_views": 28474.384615384617,
+        "engagement_rate": 0.3857718273103761
+      },
+      "30d": {
+        "videos_count": 50,
+        "total_views": 2838386,
+        "avg_views": 56767.72,
+        "engagement_rate": 0.4790398487027487
+      },
+      "changes": {
+        "views_change": -49.84053505163742,
+        "engagement_change": -19.469783493992114
+      }
+    },
+    {
+      "channel_name": "Jornal Matilha News",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 38,
+        "total_views": 2974284,
+        "avg_views": 78270.63157894737,
+        "engagement_rate": 5.816963006895105
+      },
+      "30d": {
+        "videos_count": 65,
+        "total_views": 7852993,
+        "avg_views": 120815.27692307692,
+        "engagement_rate": 5.759192705252635
+      },
+      "changes": {
+        "views_change": -35.214623868484544,
+        "engagement_change": 1.0030972151666608
+      }
+    },
+    {
+      "channel_name": "Brasil Online",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 9,
+        "total_views": 392416,
+        "avg_views": 43601.77777777778,
+        "engagement_rate": 9.6035839517247
+      },
+      "30d": {
+        "videos_count": 33,
+        "total_views": 1095634,
+        "avg_views": 33201.030303030304,
+        "engagement_rate": 11.443146160122815
+      },
+      "changes": {
+        "views_change": 31.326580469998806,
+        "engagement_change": -16.075668200487026
+      }
+    },
+    {
+      "channel_name": "TV Resistência Contemporânea",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 37,
+        "total_views": 664543,
+        "avg_views": 17960.62162162162,
+        "engagement_rate": 14.819206582568773
+      },
+      "30d": {
+        "videos_count": 154,
+        "total_views": 2667544,
+        "avg_views": 17321.714285714286,
+        "engagement_rate": 13.810306409191377
+      },
+      "changes": {
+        "views_change": 3.68847635614368,
+        "engagement_change": 7.305414836458142
+      }
+    },
+    {
+      "channel_name": "Crônicas do Brasil",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 15,
+        "total_views": 816892,
+        "avg_views": 54459.46666666667,
+        "engagement_rate": 11.297454253438643
+      },
+      "30d": {
+        "videos_count": 54,
+        "total_views": 3455167,
+        "avg_views": 63984.57407407407,
+        "engagement_rate": 8.979479139503242
+      },
+      "changes": {
+        "views_change": -14.886568435042355,
+        "engagement_change": 25.81413774589641
+      }
+    },
+    {
+      "channel_name": "Curiosa News",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 10,
+        "total_views": 514432,
+        "avg_views": 51443.2,
+        "engagement_rate": 0.9194606867379945
+      },
+      "30d": {
+        "videos_count": 40,
+        "total_views": 4253313,
+        "avg_views": 106332.825,
+        "engagement_rate": 0.6103007232244606
+      },
+      "changes": {
+        "views_change": -51.62058376611361,
+        "engagement_change": 50.65698789936203
+      }
+    },
+    {
+      "channel_name": "Política & Cia",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 15,
+        "total_views": 304318,
+        "avg_views": 20287.866666666665,
+        "engagement_rate": 20.248884390670284
+      },
+      "30d": {
+        "videos_count": 74,
+        "total_views": 1854429,
+        "avg_views": 25059.85135135135,
+        "engagement_rate": 19.806581972132662
+      },
+      "changes": {
+        "views_change": -19.042350322749844,
+        "engagement_change": 2.233108262495416
+      }
+    },
+    {
+      "channel_name": "Floriano Investe",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 41,
+        "total_views": 1344291,
+        "avg_views": 32787.58536585366,
+        "engagement_rate": 9.775413210383764
+      },
+      "30d": {
+        "videos_count": 184,
+        "total_views": 5965802,
+        "avg_views": 32422.83695652174,
+        "engagement_rate": 9.352673789710085
+      },
+      "changes": {
+        "views_change": 1.1249737640818942,
+        "engagement_change": 4.519984660844063
+      }
+    },
+    {
+      "channel_name": "Jeffrey Chiquini ",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 24,
+        "total_views": 2094475,
+        "avg_views": 87269.79166666667,
+        "engagement_rate": 18.247770921113883
+      },
+      "30d": {
+        "videos_count": 96,
+        "total_views": 19194266,
+        "avg_views": 199940.27083333334,
+        "engagement_rate": 14.69127290410584
+      },
+      "changes": {
+        "views_change": -56.35206889390821,
+        "engagement_change": 24.208236006657334
+      }
+    },
+    {
+      "channel_name": "Expresso Notícia Nacional",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 21,
+        "total_views": 484849,
+        "avg_views": 23088.04761904762,
+        "engagement_rate": 14.828121745120646
+      },
+      "30d": {
+        "videos_count": 81,
+        "total_views": 2913493,
+        "avg_views": 35969.049382716046,
+        "engagement_rate": 13.277018341900941
+      },
+      "changes": {
+        "views_change": -35.81134888112457,
+        "engagement_change": 11.682618516271662
+      }
+    },
+    {
+      "channel_name": "Paulo Figueiredo Show",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 15,
+        "total_views": 1303134,
+        "avg_views": 86875.6,
+        "engagement_rate": 22.99026807680561
+      },
+      "30d": {
+        "videos_count": 78,
+        "total_views": 15192333,
+        "avg_views": 194773.5,
+        "engagement_rate": 16.286491350604283
+      },
+      "changes": {
+        "views_change": -55.396601693762236,
+        "engagement_change": 41.16157729671218
+      }
+    },
+    {
+      "channel_name": "Ricardo Mello",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 25,
+        "total_views": 1865405,
+        "avg_views": 74616.2,
+        "engagement_rate": 13.132965763466915
+      },
+      "30d": {
+        "videos_count": 89,
+        "total_views": 7896603,
+        "avg_views": 88725.87640449438,
+        "engagement_rate": 12.132596763443724
+      },
+      "changes": {
+        "views_change": -15.9025494886852,
+        "engagement_change": 8.245299992474537
+      }
+    },
+    {
+      "channel_name": "Giovani Cherini",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 38,
+        "total_views": 2798369,
+        "avg_views": 73641.28947368421,
+        "engagement_rate": 3.5841949364076005
+      },
+      "30d": {
+        "videos_count": 194,
+        "total_views": 12914544,
+        "avg_views": 66569.81443298969,
+        "engagement_rate": 3.9247301337159097
+      },
+      "changes": {
+        "views_change": 10.62264496442722,
+        "engagement_change": -8.676652552054394
+      }
+    },
+    {
+      "channel_name": "Mão Direita",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 5,
+        "total_views": 309799,
+        "avg_views": 61959.8,
+        "engagement_rate": 8.327657610256972
+      },
+      "30d": {
+        "videos_count": 24,
+        "total_views": 3016141,
+        "avg_views": 125672.54166666667,
+        "engagement_rate": 8.097300490925324
+      },
+      "changes": {
+        "views_change": -50.69742429150361,
+        "engagement_change": 2.844863168778414
+      }
+    },
+    {
+      "channel_name": "POVO BRASILEIRO EM ALERTA",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 31,
+        "total_views": 344512,
+        "avg_views": 11113.290322580646,
+        "engagement_rate": 14.382372747538547
+      },
+      "30d": {
+        "videos_count": 85,
+        "total_views": 2162974,
+        "avg_views": 25446.75294117647,
+        "engagement_rate": 10.90091697819761
+      },
+      "changes": {
+        "views_change": -56.327275435610645,
+        "engagement_change": 31.937274417409334
+      }
+    },
+    {
+      "channel_name": "MARCOS EDUARDO 🎙",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 71,
+        "total_views": 2513001,
+        "avg_views": 35394.380281690144,
+        "engagement_rate": 9.361755128629078
+      },
+      "30d": {
+        "videos_count": 71,
+        "total_views": 2513001,
+        "avg_views": 35394.380281690144,
+        "engagement_rate": 9.361755128629078
+      },
+      "changes": {
+        "views_change": 0.0,
+        "engagement_change": 0.0
+      }
+    },
+    {
+      "channel_name": "Alexandre Garcia",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 7,
+        "total_views": 266730,
+        "avg_views": 38104.28571428572,
+        "engagement_rate": 30.108724178007723
+      },
+      "30d": {
+        "videos_count": 39,
+        "total_views": 8775806,
+        "avg_views": 225020.66666666666,
+        "engagement_rate": 19.827272845365997
+      },
+      "changes": {
+        "views_change": -83.06631729487705,
+        "engagement_change": 51.855095820929776
+      }
+    },
+    {
+      "channel_name": "Conectado",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 25,
+        "total_views": 1747410,
+        "avg_views": 69896.4,
+        "engagement_rate": 11.025689448955884
+      },
+      "30d": {
+        "videos_count": 112,
+        "total_views": 9903532,
+        "avg_views": 88424.39285714286,
+        "engagement_rate": 10.745923777496756
+      },
+      "changes": {
+        "views_change": -20.953486089609246,
+        "engagement_change": 2.6034585509064403
+      }
+    },
+    {
+      "channel_name": "POLIBIO BRAGA",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 6,
+        "total_views": 32318,
+        "avg_views": 5386.333333333333,
+        "engagement_rate": 19.781545887740577
+      },
+      "30d": {
+        "videos_count": 18,
+        "total_views": 128211,
+        "avg_views": 7122.833333333333,
+        "engagement_rate": 23.730413147077865
+      },
+      "changes": {
+        "views_change": -24.379343426071088,
+        "engagement_change": -16.640533120358025
+      }
+    },
+    {
+      "channel_name": "Veio a Tona",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 6,
+        "total_views": 79964,
+        "avg_views": 13327.333333333334,
+        "engagement_rate": 5.583762693211946
+      },
+      "30d": {
+        "videos_count": 12,
+        "total_views": 158980,
+        "avg_views": 13248.333333333334,
+        "engagement_rate": 5.106931689520694
+      },
+      "changes": {
+        "views_change": 0.5963014215624607,
+        "engagement_change": 9.336937180297472
+      }
+    },
+    {
+      "channel_name": "Meteoro Brasil",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 23,
+        "total_views": 194142,
+        "avg_views": 8440.95652173913,
+        "engagement_rate": 16.01611191808058
+      },
+      "30d": {
+        "videos_count": 182,
+        "total_views": 5221087,
+        "avg_views": 28687.29120879121,
+        "engagement_rate": 12.66245898603107
+      },
+      "changes": {
+        "views_change": -70.57597226484596,
+        "engagement_change": 26.485005288065942
+      }
+    },
+    {
+      "channel_name": "EDUARDO BOLSONARO",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 7,
+        "total_views": 715427,
+        "avg_views": 102203.85714285714,
+        "engagement_rate": 27.828555533967826
+      },
+      "30d": {
+        "videos_count": 38,
+        "total_views": 9582615,
+        "avg_views": 252174.07894736843,
+        "engagement_rate": 17.897567626373384
+      },
+      "changes": {
+        "views_change": -59.4709109003276,
+        "engagement_change": 55.487919447558895
+      }
+    },
+    {
+      "channel_name": "Mamaefalei",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 8,
+        "total_views": 258567,
+        "avg_views": 32320.875,
+        "engagement_rate": 14.706052976597942
+      },
+      "30d": {
+        "videos_count": 34,
+        "total_views": 4494391,
+        "avg_views": 132187.9705882353,
+        "engagement_rate": 8.503332264593801
+      },
+      "changes": {
+        "views_change": -75.54930690275945,
+        "engagement_change": 72.94458829782585
+      }
+    },
+    {
+      "channel_name": "Ronny Teles",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 29,
+        "total_views": 519408,
+        "avg_views": 17910.620689655174,
+        "engagement_rate": 16.247728182854328
+      },
+      "30d": {
+        "videos_count": 160,
+        "total_views": 12980381,
+        "avg_views": 81127.38125,
+        "engagement_rate": 10.640373344973463
+      },
+      "changes": {
+        "views_change": -77.92284132226298,
+        "engagement_change": 52.69885422328523
+      }
+    },
+    {
+      "channel_name": "GeoEconome",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 10,
+        "total_views": 668451,
+        "avg_views": 66845.1,
+        "engagement_rate": 8.566372105060804
+      },
+      "30d": {
+        "videos_count": 48,
+        "total_views": 3452012,
+        "avg_views": 71916.91666666667,
+        "engagement_rate": 6.508349333663962
+      },
+      "changes": {
+        "views_change": -7.052327743935999,
+        "engagement_change": 31.621270861289965
+      }
+    },
+    {
+      "channel_name": "JosemideDeus- Oficial",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 13,
+        "total_views": 139100,
+        "avg_views": 10700.0,
+        "engagement_rate": 16.02803738317757
+      },
+      "30d": {
+        "videos_count": 62,
+        "total_views": 557654,
+        "avg_views": 8994.41935483871,
+        "engagement_rate": 14.785512163456193
+      },
+      "changes": {
+        "views_change": 18.962654262320356,
+        "engagement_change": 8.403667089682532
+      }
+    },
+    {
+      "channel_name": "NoticiasBrasil",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 17,
+        "total_views": 1086541,
+        "avg_views": 63914.17647058824,
+        "engagement_rate": 8.918761464132508
+      },
+      "30d": {
+        "videos_count": 71,
+        "total_views": 2859260,
+        "avg_views": 40271.2676056338,
+        "engagement_rate": 10.064841952113484
+      },
+      "changes": {
+        "views_change": 58.70912506773658,
+        "engagement_change": -11.38696954640519
+      }
+    },
+    {
+      "channel_name": "Rede TVT",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 93,
+        "total_views": 218458,
+        "avg_views": 2349.010752688172,
+        "engagement_rate": 8.565033095606479
+      },
+      "30d": {
+        "videos_count": 246,
+        "total_views": 660806,
+        "avg_views": 2686.20325203252,
+        "engagement_rate": 8.682124556980416
+      },
+      "changes": {
+        "views_change": -12.552754490532719,
+        "engagement_change": -1.3486498679611236
+      }
+    },
+    {
+      "channel_name": "Márcio Couth / Show Político",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 46,
+        "total_views": 4881584,
+        "avg_views": 106121.39130434782,
+        "engagement_rate": 8.654137673345373
+      },
+      "30d": {
+        "videos_count": 178,
+        "total_views": 29038630,
+        "avg_views": 163138.37078651684,
+        "engagement_rate": 9.49642941144262
+      },
+      "changes": {
+        "views_change": -34.9500728781836,
+        "engagement_change": -8.86956245978448
+      }
+    },
+    {
+      "channel_name": "NARRAPODER",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 21,
+        "total_views": 1884327,
+        "avg_views": 89729.85714285714,
+        "engagement_rate": 7.057586077151153
+      },
+      "30d": {
+        "videos_count": 100,
+        "total_views": 5144223,
+        "avg_views": 51442.23,
+        "engagement_rate": 6.760865537905336
+      },
+      "changes": {
+        "views_change": 74.428396947133,
+        "engagement_change": 4.388795156215266
+      }
+    },
+    {
+      "channel_name": "Kim Kataguiri",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 14,
+        "total_views": 471200,
+        "avg_views": 33657.142857142855,
+        "engagement_rate": 11.070246179966045
+      },
+      "30d": {
+        "videos_count": 86,
+        "total_views": 7940807,
+        "avg_views": 92334.96511627907,
+        "engagement_rate": 9.735018115916933
+      },
+      "changes": {
+        "views_change": -63.54886492375037,
+        "engagement_change": 13.71572243780409
+      }
+    },
+    {
+      "channel_name": "DIDI RED PILL",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 27,
+        "total_views": 738086,
+        "avg_views": 27336.51851851852,
+        "engagement_rate": 24.19663833211848
+      },
+      "30d": {
+        "videos_count": 123,
+        "total_views": 4775476,
+        "avg_views": 38825.0081300813,
+        "engagement_rate": 21.375837717538523
+      },
+      "changes": {
+        "views_change": -29.590437104536228,
+        "engagement_change": 13.19621084260728
+      }
+    },
+    {
+      "channel_name": "Daniel Lopez",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 5,
+        "total_views": 407208,
+        "avg_views": 81441.6,
+        "engagement_rate": 23.732588750712168
+      },
+      "30d": {
+        "videos_count": 21,
+        "total_views": 3624081,
+        "avg_views": 172575.2857142857,
+        "engagement_rate": 15.392178044585648
+      },
+      "changes": {
+        "views_change": -52.808074653960546,
+        "engagement_change": 54.18603320444531
+      }
+    },
+    {
+      "channel_name": "Washington Lisboa | Notícias de Agora",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 24,
+        "total_views": 2751312,
+        "avg_views": 114638.0,
+        "engagement_rate": 0.2672906598742709
+      },
+      "30d": {
+        "videos_count": 43,
+        "total_views": 5111600,
+        "avg_views": 118874.41860465116,
+        "engagement_rate": 0.2464785976993505
+      },
+      "changes": {
+        "views_change": -3.5637765083339836,
+        "engagement_change": 8.44376037886525
+      }
+    },
+    {
+      "channel_name": "Marco Feliciano",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 9,
+        "total_views": 93920,
+        "avg_views": 10435.555555555555,
+        "engagement_rate": 7.640545144804088
+      },
+      "30d": {
+        "videos_count": 21,
+        "total_views": 491598,
+        "avg_views": 23409.428571428572,
+        "engagement_rate": 6.063694319342226
+      },
+      "changes": {
+        "views_change": -55.42157074140525,
+        "engagement_change": 26.004787550585405
+      }
+    },
+    {
+      "channel_name": "Carlos Heinar",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 10,
+        "total_views": 596091,
+        "avg_views": 59609.1,
+        "engagement_rate": 16.458896376559956
+      },
+      "30d": {
+        "videos_count": 36,
+        "total_views": 2349078,
+        "avg_views": 65252.166666666664,
+        "engagement_rate": 13.936446554775959
+      },
+      "changes": {
+        "views_change": -8.64809086799161,
+        "engagement_change": 18.0996627215534
+      }
+    },
+    {
+      "channel_name": "Gazeta do Povo - Extras",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 17,
+        "total_views": 456422,
+        "avg_views": 26848.352941176472,
+        "engagement_rate": 9.021475739556813
+      },
+      "30d": {
+        "videos_count": 65,
+        "total_views": 4453436,
+        "avg_views": 68514.4,
+        "engagement_rate": 7.58717538547764
+      },
+      "changes": {
+        "views_change": -60.81356190643648,
+        "engagement_change": 18.904273081976186
+      }
+    },
+    {
+      "channel_name": "Programa 4 por 4",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 11,
+        "total_views": 269561,
+        "avg_views": 24505.545454545456,
+        "engagement_rate": 18.930780046074915
+      },
+      "30d": {
+        "videos_count": 58,
+        "total_views": 1696676,
+        "avg_views": 29253.03448275862,
+        "engagement_rate": 17.995362697415416
+      },
+      "changes": {
+        "views_change": -16.22904807024815,
+        "engagement_change": 5.19810222437944
+      }
+    },
+    {
+      "channel_name": "O BARBA RUIVA ",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 13,
+        "total_views": 174358,
+        "avg_views": 13412.153846153846,
+        "engagement_rate": 18.175822159006184
+      },
+      "30d": {
+        "videos_count": 52,
+        "total_views": 818631,
+        "avg_views": 15742.903846153846,
+        "engagement_rate": 18.111456810211195
+      },
+      "changes": {
+        "views_change": -14.805083120477969,
+        "engagement_change": 0.355384712944244
+      }
+    },
+    {
+      "channel_name": "SEM MIMIMI | o canal do Pavivi",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 25,
+        "total_views": 524851,
+        "avg_views": 20994.04,
+        "engagement_rate": 11.846981333749959
+      },
+      "30d": {
+        "videos_count": 107,
+        "total_views": 6680089,
+        "avg_views": 62430.73831775701,
+        "engagement_rate": 11.602794513665911
+      },
+      "changes": {
+        "views_change": -66.37227018981335,
+        "engagement_change": 2.1045517939358627
+      }
+    },
+    {
+      "channel_name": "Canal do Conde",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 41,
+        "total_views": 96721,
+        "avg_views": 2359.048780487805,
+        "engagement_rate": 18.2121772934523
+      },
+      "30d": {
+        "videos_count": 195,
+        "total_views": 876629,
+        "avg_views": 4495.533333333334,
+        "engagement_rate": 12.23984148368352
+      },
+      "changes": {
+        "views_change": -47.52460708063253,
+        "engagement_change": 48.794225135433976
+      }
+    },
+    {
+      "channel_name": "Cortes Te Atualizei",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 5,
+        "total_views": 203863,
+        "avg_views": 40772.6,
+        "engagement_rate": 18.361350514806514
+      },
+      "30d": {
+        "videos_count": 21,
+        "total_views": 768869,
+        "avg_views": 36612.80952380953,
+        "engagement_rate": 17.613403583705416
+      },
+      "changes": {
+        "views_change": 11.361571347004485,
+        "engagement_change": 4.246464503845475
+      }
+    },
+    {
+      "channel_name": "Cabo Elson",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 58,
+        "total_views": 216132,
+        "avg_views": 3726.4137931034484,
+        "engagement_rate": 16.042973738271055
+      },
+      "30d": {
+        "videos_count": 58,
+        "total_views": 216132,
+        "avg_views": 3726.4137931034484,
+        "engagement_rate": 16.042973738271055
+      },
+      "changes": {
+        "views_change": 0.0,
+        "engagement_change": 0.0
+      }
+    },
+    {
+      "channel_name": "Luan Amâncio",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 9,
+        "total_views": 271450,
+        "avg_views": 30161.11111111111,
+        "engagement_rate": 20.5010130779149
+      },
+      "30d": {
+        "videos_count": 50,
+        "total_views": 3709457,
+        "avg_views": 74189.14,
+        "engagement_rate": 13.333514851365038
+      },
+      "changes": {
+        "views_change": -59.345652057550325,
+        "engagement_change": 53.75550487961605
+      }
+    },
+    {
+      "channel_name": "Renato IMPERA",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 9,
+        "total_views": 45158,
+        "avg_views": 5017.555555555556,
+        "engagement_rate": 15.835510872935028
+      },
+      "30d": {
+        "videos_count": 47,
+        "total_views": 564761,
+        "avg_views": 12016.191489361701,
+        "engagement_rate": 13.265257338945148
+      },
+      "changes": {
+        "views_change": -58.24337886094983,
+        "engagement_change": 19.375828665184926
+      }
+    },
+    {
+      "channel_name": "Bradock Show",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 19,
+        "total_views": 810775,
+        "avg_views": 42672.36842105263,
+        "engagement_rate": 15.130584934167926
+      },
+      "30d": {
+        "videos_count": 98,
+        "total_views": 9346251,
+        "avg_views": 95369.90816326531,
+        "engagement_rate": 12.458952792943395
+      },
+      "changes": {
+        "views_change": -55.255940534197535,
+        "engagement_change": 21.443472702920204
+      }
+    },
+    {
+      "channel_name": "Meio",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 30,
+        "total_views": 214846,
+        "avg_views": 7161.533333333334,
+        "engagement_rate": 7.817227223220353
+      },
+      "30d": {
+        "videos_count": 122,
+        "total_views": 1286664,
+        "avg_views": 10546.426229508197,
+        "engagement_rate": 8.2984368879521
+      },
+      "changes": {
+        "views_change": -32.09516496407247,
+        "engagement_change": -5.798798872958596
+      }
+    },
+    {
+      "channel_name": "KiM PAiM",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 7,
+        "total_views": 692366,
+        "avg_views": 98909.42857142857,
+        "engagement_rate": 30.711069001077465
+      },
+      "30d": {
+        "videos_count": 30,
+        "total_views": 4332973,
+        "avg_views": 144432.43333333332,
+        "engagement_rate": 24.263386824704423
+      },
+      "changes": {
+        "views_change": -31.518547262056394,
+        "engagement_change": 26.57371051681936
+      }
+    },
+    {
+      "channel_name": "DCM TV",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 44,
+        "total_views": 376618,
+        "avg_views": 8559.5,
+        "engagement_rate": 14.634457195354445
+      },
+      "30d": {
+        "videos_count": 201,
+        "total_views": 2874797,
+        "avg_views": 14302.47263681592,
+        "engagement_rate": 11.684024993764778
+      },
+      "changes": {
+        "views_change": -40.153704765936524,
+        "engagement_change": 25.251847742230744
+      }
+    },
+    {
+      "channel_name": "Charles Wicz",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 18,
+        "total_views": 69140,
+        "avg_views": 3841.1111111111113,
+        "engagement_rate": 17.933179056985825
+      },
+      "30d": {
+        "videos_count": 79,
+        "total_views": 934790,
+        "avg_views": 11832.784810126583,
+        "engagement_rate": 13.21334203403973
+      },
+      "changes": {
+        "views_change": -67.53840137594777,
+        "engagement_change": 35.72023649116948
+      }
+    },
+    {
+      "channel_name": "Direto Ao Ponto",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 24,
+        "total_views": 332377,
+        "avg_views": 13849.041666666666,
+        "engagement_rate": 0.0
+      },
+      "30d": {
+        "videos_count": 86,
+        "total_views": 2005901,
+        "avg_views": 23324.43023255814,
+        "engagement_rate": 0.0
+      },
+      "changes": {
+        "views_change": -40.62430881018888,
+        "engagement_change": 0.0
+      }
+    },
+    {
+      "channel_name": "André Guedes",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 3,
+        "total_views": 160376,
+        "avg_views": 53458.666666666664,
+        "engagement_rate": 17.941587269915697
+      },
+      "30d": {
+        "videos_count": 12,
+        "total_views": 2130340,
+        "avg_views": 177528.33333333334,
+        "engagement_rate": 12.80865965057221
+      },
+      "changes": {
+        "views_change": -69.88724804491304,
+        "engagement_change": 40.07388563185204
+      }
+    },
+    {
+      "channel_name": "Dois Pesos, Duas Medidas",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 44,
+        "total_views": 444488,
+        "avg_views": 10102.0,
+        "engagement_rate": 12.336890984683501
+      },
+      "30d": {
+        "videos_count": 44,
+        "total_views": 444488,
+        "avg_views": 10102.0,
+        "engagement_rate": 12.336890984683501
+      },
+      "changes": {
+        "views_change": 0.0,
+        "engagement_change": 0.0
+      }
+    },
+    {
+      "channel_name": "Mídia NINJA",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 45,
+        "total_views": 848928,
+        "avg_views": 18865.066666666666,
+        "engagement_rate": 12.157450337366654
+      },
+      "30d": {
+        "videos_count": 207,
+        "total_views": 7773168,
+        "avg_views": 37551.536231884056,
+        "engagement_rate": 10.115206567000739
+      },
+      "changes": {
+        "views_change": -49.76219734347694,
+        "engagement_change": 20.18983751679786
+      }
+    },
+    {
+      "channel_name": "A Voz Trabalhadora",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 72,
+        "total_views": 781349,
+        "avg_views": 10852.069444444445,
+        "engagement_rate": 10.289512113025037
+      },
+      "30d": {
+        "videos_count": 311,
+        "total_views": 4180986,
+        "avg_views": 13443.684887459807,
+        "engagement_rate": 9.537678432790734
+      },
+      "changes": {
+        "views_change": -19.27756760672668,
+        "engagement_change": 7.882774466892095
+      }
+    },
+    {
+      "channel_name": "Mauro Fagundes",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 9,
+        "total_views": 354790,
+        "avg_views": 39421.11111111111,
+        "engagement_rate": 27.2135629527326
+      },
+      "30d": {
+        "videos_count": 19,
+        "total_views": 1489740,
+        "avg_views": 78407.36842105263,
+        "engagement_rate": 21.785076590546
+      },
+      "changes": {
+        "views_change": -49.72269583208405,
+        "engagement_change": 24.918371710211858
+      }
+    },
+    {
+      "channel_name": "CNB  CANAL NOTICIA BRASIL ",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 13,
+        "total_views": 567461,
+        "avg_views": 43650.846153846156,
+        "engagement_rate": 10.296037965604684
+      },
+      "30d": {
+        "videos_count": 63,
+        "total_views": 4338904,
+        "avg_views": 68871.49206349206,
+        "engagement_rate": 10.341482549510198
+      },
+      "changes": {
+        "views_change": -36.61986281115443,
+        "engagement_change": -0.4394397388183608
+      }
+    },
+    {
+      "channel_name": "Bolsonaro Democracia em Foco",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 45,
+        "total_views": 2083625,
+        "avg_views": 46302.77777777778,
+        "engagement_rate": 7.897198392225088
+      },
+      "30d": {
+        "videos_count": 221,
+        "total_views": 16750085,
+        "avg_views": 75792.23981900452,
+        "engagement_rate": 5.960327962514817
+      },
+      "changes": {
+        "views_change": -38.90828680040197,
+        "engagement_change": 32.496037833680816
+      }
+    },
+    {
+      "channel_name": "PHVox Geopolítica Descomplicada",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 15,
+        "total_views": 578310,
+        "avg_views": 38554.0,
+        "engagement_rate": 19.103249122442982
+      },
+      "30d": {
+        "videos_count": 72,
+        "total_views": 3654161,
+        "avg_views": 50752.23611111111,
+        "engagement_rate": 16.199368336534707
+      },
+      "changes": {
+        "views_change": -24.034874215996503,
+        "engagement_change": 17.92588899506102
+      }
+    },
+    {
+      "channel_name": "O Liberal",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 57,
+        "total_views": 85855,
+        "avg_views": 1506.2280701754387,
+        "engagement_rate": 2.734843631704618
+      },
+      "30d": {
+        "videos_count": 57,
+        "total_views": 85855,
+        "avg_views": 1506.2280701754387,
+        "engagement_rate": 2.734843631704618
+      },
+      "changes": {
+        "views_change": 0.0,
+        "engagement_change": 0.0
+      }
+    },
+    {
+      "channel_name": "Fabiana Cardoso",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 17,
+        "total_views": 2633657,
+        "avg_views": 154921.0,
+        "engagement_rate": 13.03392962713064
+      },
+      "30d": {
+        "videos_count": 77,
+        "total_views": 16734230,
+        "avg_views": 217327.66233766233,
+        "engagement_rate": 11.618658283052163
+      },
+      "changes": {
+        "views_change": -28.715471222757184,
+        "engagement_change": 12.181022193783738
+      }
+    },
+    {
+      "channel_name": "Novos Clássicos Show",
+      "tag": "MBL",
+      "7d": {
+        "videos_count": 7,
+        "total_views": 25747,
+        "avg_views": 3678.1428571428573,
+        "engagement_rate": 17.722453101332196
+      },
+      "30d": {
+        "videos_count": 32,
+        "total_views": 271302,
+        "avg_views": 8478.1875,
+        "engagement_rate": 14.228793005580497
+      },
+      "changes": {
+        "views_change": -56.61640112178626,
+        "engagement_change": 24.55345365120916
+      }
+    },
+    {
+      "channel_name": "Junior Japa",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 20,
+        "total_views": 488890,
+        "avg_views": 24444.5,
+        "engagement_rate": 24.72928470617112
+      },
+      "30d": {
+        "videos_count": 91,
+        "total_views": 2919417,
+        "avg_views": 32081.505494505494,
+        "engagement_rate": 21.51857716797566
+      },
+      "changes": {
+        "views_change": -23.805009698854256,
+        "engagement_change": 14.920631197557496
+      }
+    },
+    {
+      "channel_name": "PASTOR SANDRO ROCHA",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 25,
+        "total_views": 772352,
+        "avg_views": 30894.08,
+        "engagement_rate": 23.877195889956912
+      },
+      "30d": {
+        "videos_count": 101,
+        "total_views": 5829123,
+        "avg_views": 57714.08910891089,
+        "engagement_rate": 20.247316791908492
+      },
+      "changes": {
+        "views_change": -46.47047111546625,
+        "engagement_change": 17.927704373643433
+      }
+    },
+    {
+      "channel_name": "Leonardo Stoppa",
+      "tag": "Petistas",
+      "7d": {
+        "videos_count": 13,
+        "total_views": 261036,
+        "avg_views": 20079.69230769231,
+        "engagement_rate": 15.127798464579598
+      },
+      "30d": {
+        "videos_count": 101,
+        "total_views": 4340391,
+        "avg_views": 42974.16831683168,
+        "engagement_rate": 10.914016732593907
+      },
+      "changes": {
+        "views_change": -53.27497170008593,
+        "engagement_change": 38.60889931936371
+      }
+    },
+    {
+      "channel_name": "Os Pingos nos Is",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 51,
+        "total_views": 1646586,
+        "avg_views": 32286.0,
+        "engagement_rate": 5.1870962099762785
+      },
+      "30d": {
+        "videos_count": 211,
+        "total_views": 11533682,
+        "avg_views": 54662.0,
+        "engagement_rate": 4.530756093327352
+      },
+      "changes": {
+        "views_change": -40.935201785518274,
+        "engagement_change": 14.486326412837533
+      }
+    },
+    {
+      "channel_name": "Dr. Marcelo Suave- Advogado",
+      "tag": "Bolsonaristas",
+      "7d": {
+        "videos_count": 29,
+        "total_views": 2794524,
+        "avg_views": 96362.89655172414,
+        "engagement_rate": 17.68719824914726
+      },
+      "30d": {
+        "videos_count": 159,
+        "total_views": 20529098,
+        "avg_views": 129113.82389937107,
+        "engagement_rate": 16.331818377992057
+      },
+      "changes": {
+        "views_change": -25.365933994157274,
+        "engagement_change": 8.299013862299903
+      }
+    }
+  ]
+}

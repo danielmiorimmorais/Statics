@@ -1,0 +1,30 @@
+{
+  "youtube_api_key": "AIzaSyD_62Pqnzc9MzA1MEz9jssPQuMkf7K47FI",
+  "max_retries": 3,
+  "request_delay": 1,
+  "database_path": "youtube_analytics.db",
+  "cache_ttl": 300,
+  "quota_limit": 10000,
+  "quota_used": 2292,
+  "export_formats": [
+    "csv",
+    "json",
+    "html"
+  ],
+  "youtube_api_keys": [
+    "AIzaSyBIRXZrNZqvt2AlWz-y6lWZmtmFzfqfzTg"
+  ],
+  "active_api_index": 0,
+  "quota_timezone": "America/Sao_Paulo",
+  "last_quota_reset_date": "2025-08-23",
+  "quota_used_by_key": [
+    2292
+  ],
+  "http_timeout_sec": 10,
+  "economy_mode": true,
+  "web_export_enabled": true,
+  "web_export_path": "data",
+  "max_title_length": 500,
+  "max_description_length": 2000,
+  "max_url_length": 500
+}

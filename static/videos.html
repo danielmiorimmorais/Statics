@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos - Diário da Política</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 font-sans">
+    <!-- Header -->
+    <header class="bg-white dark:bg-gray-800 shadow-sm border-b border-gray-200 dark:border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center">
+                    <h1 class="text-2xl font-bold text-gray-900 dark:text-white">
+                        🎥 Vídeos - Diário da Política
+                    </h1>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <button id="themeToggle" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors">
+                        🌙
+                    </button>
+                    <span id="lastUpdate" class="text-sm text-gray-500 dark:text-gray-400">
+                        Última atualização: Carregando...
+                    </span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav class="bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex space-x-8 overflow-x-auto">
+                <a href="dashboard.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    📈 Dashboard Principal
+                </a>
+                <a href="rankings.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    🏆 Rankings
+                </a>
+                <a href="benchmark.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    ⚖️ Benchmark
+                </a>
+                <a href="analytics.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    📊 Analytics
+                </a>
+                <a href="channels.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    📺 Canais
+                </a>
+                <a href="videos.html" class="tab-link active py-4 px-1 border-b-2 border-blue-500 text-blue-600 dark:text-blue-400 font-medium">
+                    🎥 Vídeos
+                </a>
+                <a href="test.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    🧪 Testes
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <!-- Videos Content -->
+        <div id="videos-content">
+            <!-- Period Selector -->
+            <div class="mb-8">
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+                    <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">📅 Período</h2>
+                    <div class="flex space-x-4">
+                        <button id="period24h" class="period-btn active px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors">
+                            24h
+                        </button>
+                        <button id="period7d" class="period-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors">
+                            7 dias
+                        </button>
+                        <button id="period30d" class="period-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors">
+                            30 dias
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Search and Filter -->
+            <div class="mb-8">
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+                    <div class="flex flex-col md:flex-row gap-4">
+                        <div class="flex-1">
+                            <input type="text" id="videoSearch" placeholder="Buscar vídeos..." class="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-blue-500">
+                        </div>
+                        <div class="flex gap-2">
+                            <select id="channelFilter" class="px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-blue-500">
+                                <option value="">Todos os canais</option>
+                            </select>
+                            <select id="sortBy" class="px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-blue-500">
+                                <option value="views">Ordenar por Views</option>
+                                <option value="likes">Ordenar por Likes</option>
+                                <option value="date">Ordenar por Data</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Videos Grid -->
+            <div id="videosGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Loading placeholder -->
+                <div class="col-span-full flex items-center justify-center py-12">
+                    <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500"></div>
+                    <span class="ml-3 text-gray-500 dark:text-gray-400">Carregando vídeos...</span>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Scripts -->
+    <script src="js/error-handler.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/data-store.js"></script>
+    <script src="js/components.js"></script>
+    <script src="js/features.js"></script>
+    <script src="js/tab-renderers.js"></script>
+    <script src="js/app.js"></script>
+
+    <script>
+        let currentPeriod = '24h';
+        let allVideos = [];
+        let filteredVideos = [];
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Theme toggle
+            const themeToggle = document.getElementById('themeToggle');
+            themeToggle.addEventListener('click', function() {
+                document.documentElement.classList.toggle('dark');
+                const isDark = document.documentElement.classList.contains('dark');
+                themeToggle.textContent = isDark ? '☀️' : '🌙';
+            });
+
+            // Period buttons
+            const periodBtns = document.querySelectorAll('.period-btn');
+            periodBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    // Remove active class from all buttons
+                    periodBtns.forEach(b => {
+                        b.classList.remove('active', 'bg-blue-500', 'text-white');
+                        b.classList.add('bg-gray-200', 'dark:bg-gray-700', 'text-gray-700', 'dark:text-gray-300');
+                    });
+                    
+                    // Add active class to clicked button
+                    this.classList.add('active', 'bg-blue-500', 'text-white');
+                    this.classList.remove('bg-gray-200', 'dark:bg-gray-700', 'text-gray-700', 'dark:text-gray-300');
+                    
+                    // Update period
+                    if (this.id === 'period24h') currentPeriod = '24h';
+                    else if (this.id === 'period7d') currentPeriod = '7d';
+                    else if (this.id === 'period30d') currentPeriod = '30d';
+                    
+                    // Reload videos
+                    loadVideos();
+                });
+            });
+
+            // Initialize videos
+            initializeVideos();
+        });
+
+        async function initializeVideos() {
+            try {
+                // Load data
+                await DataStore.loadAll();
+                
+                // Load videos
+                loadVideos();
+                
+                // Setup filters
+                setupFilters();
+                
+                // Update last update time
+                const lastUpdate = document.getElementById('lastUpdate');
+                if (lastUpdate) {
+                    lastUpdate.textContent = `Última atualização: ${new Date().toLocaleString('pt-BR')}`;
+                }
+                
+            } catch (error) {
+                console.error('Erro ao inicializar vídeos:', error);
+                showError('Erro ao carregar dados dos vídeos');
+            }
+        }
+
+        function loadVideos() {
+            // Get videos based on current period
+            if (currentPeriod === '24h' && DataStore.videos24) {
+                allVideos = DataStore.videos24 || [];
+            } else if (currentPeriod === '7d' && DataStore.videos7d) {
+                allVideos = DataStore.videos7d || [];
+            } else if (currentPeriod === '30d' && DataStore.videos30d) {
+                allVideos = DataStore.videos30d || [];
+            } else {
+                allVideos = [];
+            }
+
+            filteredVideos = [...allVideos];
+            renderVideos();
+        }
+
+        function setupFilters() {
+            // Populate channel filter
+            const channels = DataStore.channelsSummary?.channels || [];
+            const channelFilter = document.getElementById('channelFilter');
+            if (channelFilter) {
+                channels.forEach(channel => {
+                    const option = document.createElement('option');
+                    option.value = channel.name;
+                    option.textContent = channel.name;
+                    channelFilter.appendChild(option);
+                });
+            }
+
+            // Search functionality
+            const searchInput = document.getElementById('videoSearch');
+            if (searchInput) {
+                searchInput.addEventListener('input', filterVideos);
+            }
+
+            // Channel filter
+            if (channelFilter) {
+                channelFilter.addEventListener('change', filterVideos);
+            }
+
+            // Sort functionality
+            const sortSelect = document.getElementById('sortBy');
+            if (sortSelect) {
+                sortSelect.addEventListener('change', filterVideos);
+            }
+        }
+
+        function filterVideos() {
+            const searchTerm = document.getElementById('videoSearch')?.value.toLowerCase() || '';
+            const channelFilter = document.getElementById('channelFilter')?.value || '';
+            const sortBy = document.getElementById('sortBy')?.value || 'views';
+
+            // Filter by search term
+            let filtered = allVideos.filter(video => 
+                video.title.toLowerCase().includes(searchTerm) ||
+                video.channel_name.toLowerCase().includes(searchTerm)
+            );
+
+            // Filter by channel
+            if (channelFilter) {
+                filtered = filtered.filter(video => 
+                    video.channel_name === channelFilter
+                );
+            }
+
+            // Sort
+            filtered.sort((a, b) => {
+                switch (sortBy) {
+                    case 'views':
+                        return (b.views || 0) - (a.views || 0);
+                    case 'likes':
+                        return (b.likes || 0) - (a.likes || 0);
+                    case 'date':
+                        return new Date(b.published_at) - new Date(a.published_at);
+                    default:
+                        return 0;
+                }
+            });
+
+            filteredVideos = filtered;
+            renderVideos();
+        }
+
+        function renderVideos() {
+            const container = document.getElementById('videosGrid');
+            if (!container) return;
+
+            if (filteredVideos.length === 0) {
+                container.innerHTML = `
+                    <div class="col-span-full text-center py-12">
+                        <div class="text-gray-500 dark:text-gray-400 text-6xl mb-4">🎥</div>
+                        <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">Nenhum vídeo encontrado</h3>
+                        <p class="text-gray-500 dark:text-gray-400">Tente ajustar os filtros de busca</p>
+                    </div>
+                `;
+                return;
+            }
+
+            container.innerHTML = filteredVideos.map(video => `
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow overflow-hidden hover:shadow-lg transition-shadow">
+                    <div class="aspect-video bg-gray-200 dark:bg-gray-700 relative">
+                        <img src="${video.thumbnail || 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDMyMCAxODAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIzMjAiIGhlaWdodD0iMTgwIiBmaWxsPSIjRjNGNEY2Ii8+Cjx0ZXh0IHg9IjE2MCIgeT0iOTAiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzlDQTBBNiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+5p2l5Lq65Y2g5L2N5L2N5Y2gPC90ZXh0Pgo8L3N2Zz4K'}" alt="${video.title}" class="w-full h-full object-cover">
+                        <div class="absolute top-2 right-2 bg-black bg-opacity-75 text-white text-xs px-2 py-1 rounded">
+                            ${formatDuration(video.duration)}
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <h3 class="text-sm font-semibold text-gray-900 dark:text-white mb-2 line-clamp-2">${video.title}</h3>
+                        <p class="text-xs text-gray-500 dark:text-gray-400 mb-3">${video.channel_name}</p>
+                        
+                        <div class="grid grid-cols-3 gap-2 text-xs">
+                            <div>
+                                <p class="text-gray-500 dark:text-gray-400">Views</p>
+                                <p class="font-semibold text-gray-900 dark:text-white">${(video.views || 0).toLocaleString('pt-BR')}</p>
+                            </div>
+                            <div>
+                                <p class="text-gray-500 dark:text-gray-400">Likes</p>
+                                <p class="font-semibold text-gray-900 dark:text-white">${(video.likes || 0).toLocaleString('pt-BR')}</p>
+                            </div>
+                            <div>
+                                <p class="text-gray-500 dark:text-gray-400">Data</p>
+                                <p class="font-semibold text-gray-900 dark:text-white">${formatDate(video.published_at)}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function formatDuration(duration) {
+            if (!duration) return 'N/A';
+            // Convert ISO 8601 duration to readable format
+            const match = duration.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+            if (!match) return duration;
+            
+            const hours = match[1] || 0;
+            const minutes = match[2] || 0;
+            const seconds = match[3] || 0;
+            
+            if (hours > 0) {
+                return `${hours}:${minutes.padStart(2, '0')}:${seconds.padStart(2, '0')}`;
+            } else {
+                return `${minutes}:${seconds.padStart(2, '0')}`;
+            }
+        }
+
+        function formatDate(dateString) {
+            if (!dateString) return 'N/A';
+            const date = new Date(dateString);
+            return date.toLocaleDateString('pt-BR');
+        }
+
+        function showError(message) {
+            const videosContent = document.getElementById('videos-content');
+            if (videosContent) {
+                videosContent.innerHTML = `
+                    <div class="text-center py-12">
+                        <div class="text-red-500 text-6xl mb-4">❌</div>
+                        <h2 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Erro</h2>
+                        <p class="text-gray-500 dark:text-gray-400">${message}</p>
+                        <button onclick="location.reload()" class="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors">
+                            Tentar Novamente
+                        </button>
+                    </div>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>

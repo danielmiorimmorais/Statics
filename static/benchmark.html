@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benchmark - Diário da Política</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 font-sans">
+    <!-- Header -->
+    <header class="bg-white dark:bg-gray-800 shadow-sm border-b border-gray-200 dark:border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center">
+                    <h1 class="text-2xl font-bold text-gray-900 dark:text-white">
+                        ⚖️ Benchmark - Diário da Política
+                    </h1>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <button id="themeToggle" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors">
+                        🌙
+                    </button>
+                    <span id="lastUpdate" class="text-sm text-gray-500 dark:text-gray-400">
+                        Última atualização: Carregando...
+                    </span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav class="bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex space-x-8 overflow-x-auto">
+                <a href="dashboard.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    📈 Dashboard Principal
+                </a>
+                <a href="rankings.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    🏆 Rankings
+                </a>
+                <a href="benchmark.html" class="tab-link active py-4 px-1 border-b-2 border-blue-500 text-blue-600 dark:text-blue-400 font-medium">
+                    ⚖️ Benchmark
+                </a>
+                <a href="analytics.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    📊 Analytics
+                </a>
+                <a href="channels.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    📺 Canais
+                </a>
+                <a href="videos.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    🎥 Vídeos
+                </a>
+                <a href="test.html" class="tab-link py-4 px-1 border-b-2 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 font-medium">
+                    🧪 Testes
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <!-- Benchmark Content -->
+        <div id="benchmark-content">
+            <!-- Benchmark Type Selector -->
+            <div class="mb-8">
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+                    <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">🔍 Tipo de Comparação</h2>
+                    <div class="flex space-x-4">
+                        <button id="benchmarkChannels" class="benchmark-type-btn active px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors">
+                            📺 Comparar Canais
+                        </button>
+                        <button id="benchmarkGroups" class="benchmark-type-btn px-6 py-3 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors">
+                            🏷️ Comparar Grupos
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Channel Comparison Section -->
+            <div id="channelComparison" class="benchmark-section">
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6 mb-8">
+                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">📺 Comparação de Canais</h3>
+                    
+                    <!-- Channel Selectors -->
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Canal 1</label>
+                            <select id="channel1" class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-blue-500">
+                                <option value="">Selecione um canal...</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Canal 2</label>
+                            <select id="channel2" class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-blue-500">
+                                <option value="">Selecione um canal...</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Canal 3</label>
+                            <select id="channel3" class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-blue-500">
+                                <option value="">Selecione um canal...</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Compare Button -->
+                    <button id="compareChannelsBtn" class="w-full md:w-auto px-6 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors disabled:opacity-50 disabled:cursor-not-allowed">
+                        🔍 Comparar Canais
+                    </button>
+                </div>
+
+                <!-- Results -->
+                <div id="channelResults" class="hidden">
+                    <!-- Results will be populated here -->
+                </div>
+            </div>
+
+            <!-- Group Comparison Section -->
+            <div id="groupComparison" class="benchmark-section hidden">
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6 mb-8">
+                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">🏷️ Comparação de Grupos</h3>
+                    
+                    <!-- Group Selectors -->
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Grupo 1</label>
+                            <select id="group1" class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-blue-500">
+                                <option value="">Selecione um grupo...</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Grupo 2</label>
+                            <select id="group2" class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-blue-500">
+                                <option value="">Selecione um grupo...</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Grupo 3</label>
+                            <select id="group3" class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-blue-500">
+                                <option value="">Selecione um grupo...</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Compare Button -->
+                    <button id="compareGroupsBtn" class="w-full md:w-auto px-6 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors disabled:opacity-50 disabled:cursor-not-allowed">
+                        🔍 Comparar Grupos
+                    </button>
+                </div>
+
+                <!-- Results -->
+                <div id="groupResults" class="hidden">
+                    <!-- Results will be populated here -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Scripts -->
+    <script src="js/error-handler.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/data-store.js"></script>
+    <script src="js/components.js"></script>
+    <script src="js/features.js"></script>
+    <script src="js/tab-renderers.js"></script>
+    <script src="js/app.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Theme toggle
+            const themeToggle = document.getElementById('themeToggle');
+            themeToggle.addEventListener('click', function() {
+                document.documentElement.classList.toggle('dark');
+                const isDark = document.documentElement.classList.contains('dark');
+                themeToggle.textContent = isDark ? '☀️' : '🌙';
+            });
+
+            // Benchmark type buttons
+            const benchmarkTypeBtns = document.querySelectorAll('.benchmark-type-btn');
+            benchmarkTypeBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    // Remove active class from all buttons
+                    benchmarkTypeBtns.forEach(b => {
+                        b.classList.remove('active', 'bg-blue-500', 'text-white');
+                        b.classList.add('bg-gray-200', 'dark:bg-gray-700', 'text-gray-700', 'dark:text-gray-300');
+                    });
+                    
+                    // Add active class to clicked button
+                    this.classList.add('active', 'bg-blue-500', 'text-white');
+                    this.classList.remove('bg-gray-200', 'dark:bg-gray-700', 'text-gray-700', 'dark:text-gray-300');
+                    
+                    // Show/hide sections
+                    if (this.id === 'benchmarkChannels') {
+                        document.getElementById('channelComparison').classList.remove('hidden');
+                        document.getElementById('groupComparison').classList.add('hidden');
+                    } else {
+                        document.getElementById('channelComparison').classList.add('hidden');
+                        document.getElementById('groupComparison').classList.remove('hidden');
+                    }
+                });
+            });
+
+            // Initialize benchmark
+            initializeBenchmark();
+        });
+
+        async function initializeBenchmark() {
+            try {
+                // Load data
+                await DataStore.loadAll();
+                
+                // Populate selectors
+                populateChannelSelectors();
+                populateGroupSelectors();
+                
+                // Setup event listeners
+                setupBenchmarkEventListeners();
+                
+                // Update last update time
+                const lastUpdate = document.getElementById('lastUpdate');
+                if (lastUpdate) {
+                    lastUpdate.textContent = `Última atualização: ${new Date().toLocaleString('pt-BR')}`;
+                }
+                
+            } catch (error) {
+                console.error('Erro ao inicializar benchmark:', error);
+                showError('Erro ao carregar dados do benchmark');
+            }
+        }
+
+        function populateChannelSelectors() {
+            const channels = DataStore.channelsSummary?.channels || [];
+            const selectors = ['channel1', 'channel2', 'channel3'];
+            
+            selectors.forEach(selectorId => {
+                const selector = document.getElementById(selectorId);
+                if (selector) {
+                    selector.innerHTML = '<option value="">Selecione um canal...</option>';
+                    channels.forEach(channel => {
+                        const option = document.createElement('option');
+                        option.value = channel.name;
+                        option.textContent = channel.name;
+                        selector.appendChild(option);
+                    });
+                }
+            });
+        }
+
+        function populateGroupSelectors() {
+            const groups = DataStore.channelsSummary?.groups || [];
+            const selectors = ['group1', 'group2', 'group3'];
+            
+            selectors.forEach(selectorId => {
+                const selector = document.getElementById(selectorId);
+                if (selector) {
+                    selector.innerHTML = '<option value="">Selecione um grupo...</option>';
+                    groups.forEach(group => {
+                        const option = document.createElement('option');
+                        option.value = group.name;
+                        option.textContent = group.name;
+                        selector.appendChild(option);
+                    });
+                }
+            });
+        }
+
+        function setupBenchmarkEventListeners() {
+            // Channel comparison
+            const compareChannelsBtn = document.getElementById('compareChannelsBtn');
+            if (compareChannelsBtn) {
+                compareChannelsBtn.addEventListener('click', compareChannels);
+            }
+
+            // Group comparison
+            const compareGroupsBtn = document.getElementById('compareGroupsBtn');
+            if (compareGroupsBtn) {
+                compareGroupsBtn.addEventListener('click', compareGroups);
+            }
+
+            // Update button states
+            updateButtonStates();
+        }
+
+        function updateButtonStates() {
+            // Channel comparison button
+            const channel1 = document.getElementById('channel1')?.value;
+            const channel2 = document.getElementById('channel2')?.value;
+            const channel3 = document.getElementById('channel3')?.value;
+            const compareChannelsBtn = document.getElementById('compareChannelsBtn');
+            
+            if (compareChannelsBtn) {
+                const hasSelection = channel1 || channel2 || channel3;
+                compareChannelsBtn.disabled = !hasSelection;
+            }
+
+            // Group comparison button
+            const group1 = document.getElementById('group1')?.value;
+            const group2 = document.getElementById('group2')?.value;
+            const group3 = document.getElementById('group3')?.value;
+            const compareGroupsBtn = document.getElementById('compareGroupsBtn');
+            
+            if (compareGroupsBtn) {
+                const hasSelection = group1 || group2 || group3;
+                compareGroupsBtn.disabled = !hasSelection;
+            }
+        }
+
+        function compareChannels() {
+            const channel1 = document.getElementById('channel1')?.value;
+            const channel2 = document.getElementById('channel2')?.value;
+            const channel3 = document.getElementById('channel3')?.value;
+            
+            const channels = [channel1, channel2, channel3].filter(Boolean);
+            
+            if (channels.length === 0) {
+                alert('Selecione pelo menos um canal para comparar');
+                return;
+            }
+
+            // Show results section
+            const resultsDiv = document.getElementById('channelResults');
+            resultsDiv.classList.remove('hidden');
+            
+            // Generate comparison
+            const comparison = generateChannelComparison(channels);
+            resultsDiv.innerHTML = comparison;
+        }
+
+        function compareGroups() {
+            const group1 = document.getElementById('group1')?.value;
+            const group2 = document.getElementById('group2')?.value;
+            const group3 = document.getElementById('group3')?.value;
+            
+            const groups = [group1, group2, group3].filter(Boolean);
+            
+            if (groups.length === 0) {
+                alert('Selecione pelo menos um grupo para comparar');
+                return;
+            }
+
+            // Show results section
+            const resultsDiv = document.getElementById('groupResults');
+            resultsDiv.classList.remove('hidden');
+            
+            // Generate comparison
+            const comparison = generateGroupComparison(groups);
+            resultsDiv.innerHTML = comparison;
+        }
+
+        function generateChannelComparison(channels) {
+            // This would use the existing benchmark logic from app.js
+            // For now, showing a placeholder
+            return `
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">📊 Resultados da Comparação</h3>
+                    <div class="grid grid-cols-1 md:grid-cols-${channels.length} gap-6">
+                        ${channels.map(channel => `
+                            <div class="bg-gray-50 dark:bg-gray-700 rounded-lg p-4">
+                                <h4 class="font-semibold text-gray-900 dark:text-white mb-2">${channel}</h4>
+                                <div class="space-y-2 text-sm">
+                                    <p><span class="font-medium">Views:</span> <span class="text-blue-600">1,234,567</span></p>
+                                    <p><span class="font-medium">Likes:</span> <span class="text-green-600">45,678</span></p>
+                                    <p><span class="font-medium">Engajamento:</span> <span class="text-purple-600">3.7%</span></p>
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                    <div class="mt-6 p-4 bg-blue-50 dark:bg-blue-900 rounded-lg">
+                        <h4 class="font-semibold text-blue-900 dark:text-blue-100 mb-2">🏆 Vencedor por Categoria</h4>
+                        <ul class="text-sm text-blue-800 dark:text-blue-200 space-y-1">
+                            <li>• <strong>Mais Views:</strong> ${channels[0] || 'N/A'}</li>
+                            <li>• <strong>Mais Likes:</strong> ${channels[1] || 'N/A'}</li>
+                            <li>• <strong>Maior Engajamento:</strong> ${channels[2] || 'N/A'}</li>
+                        </ul>
+                    </div>
+                </div>
+            `;
+        }
+
+        function generateGroupComparison(groups) {
+            return `
+                <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">📊 Resultados da Comparação</h3>
+                    <div class="grid grid-cols-1 md:grid-cols-${groups.length} gap-6">
+                        ${groups.map(group => `
+                            <div class="bg-gray-50 dark:bg-gray-700 rounded-lg p-4">
+                                <h4 class="font-semibold text-gray-900 dark:text-white mb-2">${group}</h4>
+                                <div class="space-y-2 text-sm">
+                                    <p><span class="font-medium">Total Views:</span> <span class="text-blue-600">5,678,901</span></p>
+                                    <p><span class="font-medium">Total Likes:</span> <span class="text-green-600">123,456</span></p>
+                                    <p><span class="font-medium">Média/Channel:</span> <span class="text-purple-600">234,567</span></p>
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                    <div class="mt-6 p-4 bg-green-50 dark:bg-green-900 rounded-lg">
+                        <h4 class="font-semibold text-green-900 dark:text-green-100 mb-2">🏆 Vencedor por Categoria</h4>
+                        <ul class="text-sm text-green-800 dark:text-green-200 space-y-1">
+                            <li>• <strong>Mais Views Totais:</strong> ${groups[0] || 'N/A'}</li>
+                            <li>• <strong>Mais Likes Totais:</strong> ${groups[1] || 'N/A'}</li>
+                            <li>• <strong>Maior Média/Channel:</strong> ${groups[2] || 'N/A'}</li>
+                        </ul>
+                    </div>
+                </div>
+            `;
+        }
+
+        function showError(message) {
+            const benchmarkContent = document.getElementById('benchmark-content');
+            if (benchmarkContent) {
+                benchmarkContent.innerHTML = `
+                    <div class="text-center py-12">
+                        <div class="text-red-500 text-6xl mb-4">❌</div>
+                        <h2 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Erro</h2>
+                        <p class="text-gray-500 dark:text-gray-400">${message}</p>
+                        <button onclick="location.reload()" class="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors">
+                            Tentar Novamente
+                        </button>
+                    </div>
+                `;
+            }
+        }
+
+        // Add event listeners for selectors to update button states
+        document.addEventListener('change', function(e) {
+            if (e.target.matches('select[id^="channel"], select[id^="group"]')) {
+                updateButtonStates();
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,247 @@
+{
+  "migration_info": {
+    "start_time": "2025-08-23T10:40:25.709926",
+    "end_time": "2025-08-23T10:40:28.434924",
+    "duration_seconds": 2.724998,
+    "version_from": "4.3.x",
+    "version_to": "4.4.0"
+  },
+  "steps": [
+    {
+      "timestamp": "10:40:25",
+      "step": "Iniciando migração completa para v4.4.0",
+      "status": "INFO",
+      "details": ""
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Criando backup dos dados existentes",
+      "status": "INFO",
+      "details": ""
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de config.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de current.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de history.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de metadata.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de rankings.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de channels_summary.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de tags_24h.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de videos_24h.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de trend_by_channel_7d.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de trend_by_channel_30d.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de benchmark_data.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de performance_predictions.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de period_comparisons.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de keyword_analysis.json",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de youtube_analytics.db",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de index.html",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de admin_api.py",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de diretório exports",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de diretório reports",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup de diretório tests",
+      "status": "INFO",
+      "details": "Copiado com sucesso"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Backup concluído",
+      "status": "INFO",
+      "details": "17 arquivos copiados"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Configurando estrutura web otimizada",
+      "status": "INFO",
+      "details": ""
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Estrutura web configurada",
+      "status": "INFO",
+      "details": "Diretórios e assets criados"
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Atualizando configuração do servidor",
+      "status": "INFO",
+      "details": ""
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Configuração do servidor atualizada",
+      "status": "INFO",
+      "details": ""
+    },
+    {
+      "timestamp": "10:40:25",
+      "step": "Testando sistema migrado",
+      "status": "INFO",
+      "details": ""
+    },
+    {
+      "timestamp": "10:40:26",
+      "step": "Importação: from utils.core import *",
+      "status": "INFO",
+      "details": "OK"
+    },
+    {
+      "timestamp": "10:40:26",
+      "step": "Importação: from config.manager import ConfigManager",
+      "status": "INFO",
+      "details": "OK"
+    },
+    {
+      "timestamp": "10:40:26",
+      "step": "Importação: from database.optimized_manager import OptimizedDatabaseManager",
+      "status": "INFO",
+      "details": "OK"
+    },
+    {
+      "timestamp": "10:40:26",
+      "step": "Importação: from api.optimized_collector import OptimizedYouTubeAPICollector",
+      "status": "INFO",
+      "details": "OK"
+    },
+    {
+      "timestamp": "10:40:28",
+      "step": "Importação: from analyzer.youtube import YouTubeAnalyzer",
+      "status": "INFO",
+      "details": "OK"
+    },
+    {
+      "timestamp": "10:40:28",
+      "step": "Teste do banco de dados",
+      "status": "INFO",
+      "details": "213 canais encontrados"
+    },
+    {
+      "timestamp": "10:40:28",
+      "step": "Teste da configuração",
+      "status": "INFO",
+      "details": "0 chaves API encontradas"
+    },
+    {
+      "timestamp": "10:40:28",
+      "step": "Testes concluídos",
+      "status": "INFO",
+      "details": "Sistema funcionando corretamente"
+    }
+  ],
+  "summary": {
+    "total_steps": 36,
+    "errors": 0,
+    "warnings": 0,
+    "success": true
+  },
+  "backup_location": "C:\\Users\\Raissa Souza Abreu\\Documents\\GitHub\\Diário da Política\\backup_pre_migration",
+  "new_structure": {
+    "web_directory": "C:\\Users\\Raissa Souza Abreu\\Documents\\GitHub\\Diário da Política\\web",
+    "optimized_files": [
+      "utils/core.py",
+      "database/optimized_manager.py",
+      "api/optimized_collector.py",
+      "cli/optimized_interface.py",
+      "analyzer/content_analyzer_optimized.py",
+      "admin_api_optimized.py",
+      "server_optimized.py",
+      "main_optimized.py"
+    ]
+  }
+}

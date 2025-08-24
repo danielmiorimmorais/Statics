@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste Completo - Dashboard</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <style>
+        .test-section { margin: 20px 0; padding: 15px; border: 1px solid #ddd; border-radius: 8px; }
+        .success { background-color: #d4edda; border-color: #c3e6cb; color: #155724; }
+        .error { background-color: #f8d7da; border-color: #f5c6cb; color: #721c24; }
+        .warning { background-color: #fff3cd; border-color: #ffeaa7; color: #856404; }
+        .info { background-color: #d1ecf1; border-color: #bee5eb; color: #0c5460; }
+        .log { font-family: monospace; font-size: 12px; background: #f8f9fa; padding: 10px; margin: 10px 0; border-radius: 4px; }
+    </style>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900">
+    <div class="container mx-auto p-4">
+        <h1 class="text-3xl font-bold mb-6 text-center">🧪 Teste Completo do Dashboard</h1>
+        
+        <!-- Status Geral -->
+        <div id="status-geral" class="test-section info">
+            <h2 class="text-xl font-semibold mb-2">📊 Status Geral</h2>
+            <div id="status-content">Carregando...</div>
+        </div>
+
+        <!-- Teste de CDNs -->
+        <div id="teste-cdns" class="test-section">
+            <h2 class="text-xl font-semibold mb-2">🌐 Teste de CDNs</h2>
+            <div id="cdns-content">Testando...</div>
+        </div>
+
+        <!-- Teste de Arquivos Locais -->
+        <div id="teste-arquivos" class="test-section">
+            <h2 class="text-xl font-semibold mb-2">📁 Teste de Arquivos Locais</h2>
+            <div id="arquivos-content">Testando...</div>
+        </div>
+
+        <!-- Teste de Funcionalidades -->
+        <div id="teste-funcionalidades" class="test-section">
+            <h2 class="text-xl font-semibold mb-2">⚙️ Teste de Funcionalidades</h2>
+            <div id="funcionalidades-content">Testando...</div>
+        </div>
+
+        <!-- Logs -->
+        <div id="logs" class="test-section">
+            <h2 class="text-xl font-semibold mb-2">📝 Logs de Teste</h2>
+            <div id="logs-content" class="log"></div>
+        </div>
+    </div>
+
+    <!-- Scripts de Teste -->
+    <script>
+        // Sistema de Logging
+        const logs = [];
+        function log(message, type = 'info') {
+            const timestamp = new Date().toLocaleTimeString();
+            const logEntry = `[${timestamp}] ${type.toUpperCase()}: ${message}`;
+            logs.push(logEntry);
+            console.log(logEntry);
+            
+            const logsContent = document.getElementById('logs-content');
+            logsContent.innerHTML = logs.join('\n');
+            logsContent.scrollTop = logsContent.scrollHeight;
+        }
+
+        // Função para atualizar status
+        function updateStatus(elementId, content, className) {
+            const element = document.getElementById(elementId);
+            element.innerHTML = content;
+            element.className = `test-section ${className}`;
+        }
+
+        // Teste de CDNs
+        async function testarCDNs() {
+            log('Iniciando teste de CDNs...');
+            const cdns = [
+                {
+                    name: 'Chart.js (Cloudflare CDN)',
+                    url: 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js',
+                    test: () => typeof Chart !== 'undefined'
+                },
+                {
+                    name: 'Chart.js (jsDelivr CDN)',
+                    url: 'https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js',
+                    test: () => typeof Chart !== 'undefined'
+                },
+                {
+                    name: 'Chart.js (unpkg CDN)',
+                    url: 'https://unpkg.com/chart.js@4.4.1/dist/chart.umd.min.js',
+                    test: () => typeof Chart !== 'undefined'
+                }
+            ];
+
+            let cdnsContent = '<div class="grid grid-cols-1 md:grid-cols-2 gap-4">';
+            
+            for (const cdn of cdns) {
+                try {
+                    log(`Testando ${cdn.name}...`);
+                    
+                    // Criar script temporário
+                    const script = document.createElement('script');
+                    script.src = cdn.url;
+                    script.async = false;
+                    
+                    await new Promise((resolve, reject) => {
+                        script.onload = resolve;
+                        script.onerror = reject;
+                        document.head.appendChild(script);
+                    });
+                    
+                    // Aguardar um pouco para carregar
+                    await new Promise(resolve => setTimeout(resolve, 1000));
+                    
+                    const isWorking = cdn.test();
+                    const status = isWorking ? '✅ Funcionando' : '❌ Não funcionando';
+                    const className = isWorking ? 'success' : 'error';
+                    
+                    cdnsContent += `
+                        <div class="p-3 border rounded ${className}">
+                            <strong>${cdn.name}</strong><br>
+                            <small>${cdn.url}</small><br>
+                            <span class="font-bold">${status}</span>
+                        </div>
+                    `;
+                    
+                    log(`${cdn.name}: ${status}`, isWorking ? 'success' : 'error');
+                    
+                } catch (error) {
+                    cdnsContent += `
+                        <div class="p-3 border rounded error">
+                            <strong>${cdn.name}</strong><br>
+                            <small>${cdn.url}</small><br>
+                            <span class="font-bold">❌ Erro: ${error.message}</span>
+                        </div>
+                    `;
+                    log(`${cdn.name}: Erro - ${error.message}`, 'error');
+                }
+            }
+            
+            cdnsContent += '</div>';
+            updateStatus('teste-cdns', cdnsContent, 'info');
+        }
+
+        // Teste de arquivos locais
+        async function testarArquivosLocais() {
+            log('Iniciando teste de arquivos locais...');
+            const arquivos = [
+                'js/utils.js',
+                'js/data-store.js',
+                'js/components.js',
+                'js/features.js',
+                'js/tab-renderers.js',
+                'js/app.js'
+            ];
+
+            let arquivosContent = '<div class="grid grid-cols-1 md:grid-cols-2 gap-4">';
+            
+            for (const arquivo of arquivos) {
+                try {
+                    log(`Testando ${arquivo}...`);
+                    const response = await fetch(arquivo);
+                    
+                    if (response.ok) {
+                        const size = response.headers.get('content-length') || 'N/A';
+                        const sizeKB = size !== 'N/A' ? Math.round(size / 1024) : 'N/A';
+                        const statusText = sizeKB !== 'N/A' ? `(${sizeKB} KB)` : '(Tamanho não disponível)';
+                        
+                        arquivosContent += `
+                            <div class="p-3 border rounded success">
+                                <strong>${arquivo}</strong><br>
+                                <span class="font-bold">✅ Disponível</span><br>
+                                <small>${statusText}</small>
+                            </div>
+                        `;
+                        log(`${arquivo}: Disponível ${statusText}`, 'success');
+                    } else {
+                        arquivosContent += `
+                            <div class="p-3 border rounded error">
+                                <strong>${arquivo}</strong><br>
+                                <span class="font-bold">❌ Não encontrado</span><br>
+                                <small>Status: ${response.status}</small>
+                            </div>
+                        `;
+                        log(`${arquivo}: Não encontrado (Status: ${response.status})`, 'error');
+                    }
+                } catch (error) {
+                    arquivosContent += `
+                        <div class="p-3 border rounded error">
+                            <strong>${arquivo}</strong><br>
+                            <span class="font-bold">❌ Erro de rede</span><br>
+                            <small>${error.message}</small>
+                        </div>
+                    `;
+                    log(`${arquivo}: Erro de rede - ${error.message}`, 'error');
+                }
+            }
+            
+            arquivosContent += '</div>';
+            updateStatus('teste-arquivos', arquivosContent, 'info');
+        }
+
+        // Teste de funcionalidades
+        async function testarFuncionalidades() {
+            log('Iniciando teste de funcionalidades...');
+            let funcionalidadesContent = '<div class="grid grid-cols-1 md:grid-cols-2 gap-4">';
+            
+            // Teste 1: Chart.js - Aguardar carregamento
+            try {
+                // Aguardar um pouco para o Chart.js carregar
+                await new Promise(resolve => setTimeout(resolve, 2000));
+                
+                if (typeof Chart !== 'undefined') {
+                    funcionalidadesContent += `
+                        <div class="p-3 border rounded success">
+                            <strong>Chart.js</strong><br>
+                            <span class="font-bold">✅ Carregado</span><br>
+                            <small>Versão: ${Chart.version || 'N/A'}</small>
+                        </div>
+                    `;
+                    log('Chart.js: Carregado com sucesso', 'success');
+                } else {
+                    funcionalidadesContent += `
+                        <div class="p-3 border rounded error">
+                            <strong>Chart.js</strong><br>
+                            <span class="font-bold">❌ Não carregado</span><br>
+                            <small>Tente recarregar a página</small>
+                        </div>
+                    `;
+                    log('Chart.js: Não carregado', 'error');
+                }
+            } catch (error) {
+                funcionalidadesContent += `
+                    <div class="p-3 border rounded error">
+                        <strong>Chart.js</strong><br>
+                        <span class="font-bold">❌ Erro</span><br>
+                        <small>${error.message}</small>
+                    </div>
+                `;
+                log(`Chart.js: Erro - ${error.message}`, 'error');
+            }
+
+            // Teste 2: Console
+            try {
+                console.log('Teste de console');
+                funcionalidadesContent += `
+                    <div class="p-3 border rounded success">
+                        <strong>Console</strong><br>
+                        <span class="font-bold">✅ Funcionando</span>
+                    </div>
+                `;
+                log('Console: Funcionando', 'success');
+            } catch (error) {
+                funcionalidadesContent += `
+                    <div class="p-3 border rounded error">
+                        <strong>Console</strong><br>
+                        <span class="font-bold">❌ Erro</span><br>
+                        <small>${error.message}</small>
+                    </div>
+                `;
+                log(`Console: Erro - ${error.message}`, 'error');
+            }
+
+            // Teste 3: Fetch API
+            try {
+                const response = await fetch('js/utils.js');
+                if (response.ok) {
+                    funcionalidadesContent += `
+                        <div class="p-3 border rounded success">
+                            <strong>Fetch API</strong><br>
+                            <span class="font-bold">✅ Funcionando</span>
+                        </div>
+                    `;
+                    log('Fetch API: Funcionando', 'success');
+                } else {
+                    funcionalidadesContent += `
+                        <div class="p-3 border rounded warning">
+                            <strong>Fetch API</strong><br>
+                            <span class="font-bold">⚠️ Parcial</span><br>
+                            <small>Status: ${response.status}</small>
+                        </div>
+                    `;
+                    log(`Fetch API: Parcial (Status: ${response.status})`, 'warning');
+                }
+            } catch (error) {
+                funcionalidadesContent += `
+                    <div class="p-3 border rounded error">
+                        <strong>Fetch API</strong><br>
+                        <span class="font-bold">❌ Não suportado</span><br>
+                        <small>${error.message}</small>
+                    </div>
+                `;
+                log(`Fetch API: Não suportado - ${error.message}`, 'error');
+            }
+
+            // Teste 4: LocalStorage
+            try {
+                localStorage.setItem('test', 'value');
+                const testValue = localStorage.getItem('test');
+                localStorage.removeItem('test');
+                
+                if (testValue === 'value') {
+                    funcionalidadesContent += `
+                        <div class="p-3 border rounded success">
+                            <strong>LocalStorage</strong><br>
+                            <span class="font-bold">✅ Funcionando</span>
+                        </div>
+                    `;
+                    log('LocalStorage: Funcionando', 'success');
+                } else {
+                    funcionalidadesContent += `
+                        <div class="p-3 border rounded error">
+                            <strong>LocalStorage</strong><br>
+                            <span class="font-bold">❌ Não funcionando</span>
+                        </div>
+                    `;
+                    log('LocalStorage: Não funcionando', 'error');
+                }
+            } catch (error) {
+                funcionalidadesContent += `
+                    <div class="p-3 border rounded error">
+                        <strong>LocalStorage</strong><br>
+                        <span class="font-bold">❌ Não suportado</span><br>
+                        <small>${error.message}</small>
+                    </div>
+                `;
+                log(`LocalStorage: Não suportado - ${error.message}`, 'error');
+            }
+
+            funcionalidadesContent += '</div>';
+            updateStatus('teste-funcionalidades', funcionalidadesContent, 'info');
+        }
+
+        // Função principal
+        async function executarTestes() {
+            log('🚀 Iniciando testes completos...');
+            
+            // Atualizar status geral
+            updateStatus('status-geral', 'Executando testes...', 'info');
+            
+            try {
+                // Executar testes em paralelo
+                await Promise.all([
+                    testarCDNs(),
+                    testarArquivosLocais(),
+                    testarFuncionalidades()
+                ]);
+                
+                // Status final
+                const totalLogs = logs.length;
+                const successLogs = logs.filter(log => log.includes('SUCCESS')).length;
+                const errorLogs = logs.filter(log => log.includes('ERROR')).length;
+                const warningLogs = logs.filter(log => log.includes('WARNING')).length;
+                
+                const statusFinal = `
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
+                        <div class="p-3 bg-blue-100 rounded">
+                            <div class="text-2xl font-bold">${totalLogs}</div>
+                            <div class="text-sm">Total</div>
+                        </div>
+                        <div class="p-3 bg-green-100 rounded">
+                            <div class="text-2xl font-bold">${successLogs}</div>
+                            <div class="text-sm">Sucessos</div>
+                        </div>
+                        <div class="p-3 bg-yellow-100 rounded">
+                            <div class="text-2xl font-bold">${warningLogs}</div>
+                            <div class="text-sm">Avisos</div>
+                        </div>
+                        <div class="p-3 bg-red-100 rounded">
+                            <div class="text-2xl font-bold">${errorLogs}</div>
+                            <div class="text-sm">Erros</div>
+                        </div>
+                    </div>
+                    <div class="mt-4 text-center">
+                        <strong>Status: ${errorLogs === 0 ? '✅ Tudo OK' : errorLogs < 3 ? '⚠️ Parcial' : '❌ Problemas'}</strong>
+                    </div>
+                `;
+                
+                updateStatus('status-geral', statusFinal, errorLogs === 0 ? 'success' : errorLogs < 3 ? 'warning' : 'error');
+                
+                log('✅ Testes completos finalizados!', 'success');
+                
+            } catch (error) {
+                log(`❌ Erro durante os testes: ${error.message}`, 'error');
+                updateStatus('status-geral', `Erro: ${error.message}`, 'error');
+            }
+        }
+
+        // Executar testes quando a página carregar
+        window.addEventListener('load', executarTestes);
+    </script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+# Redirecionamentos para Cloudflare Pages
+# Redireciona a raiz para index.html
+
+/ /index.html 200
+
+# Fallback para SPA (Single Page Application)
+/* /index.html 200

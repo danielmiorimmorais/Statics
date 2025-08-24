@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.2",
+  "generated_at": "2025-08-24T00:59:59.580355+00:00",
+  "windows": {
+    "current": {
+      "window_start": "2025-08-23T00:59:59.580355+00:00",
+      "window_end": "2025-08-24T00:59:59.580355+00:00"
+    },
+    "history": {
+      "window_start": "2025-07-25T00:59:59.580355+00:00",
+      "window_end": "2025-08-24T00:59:59.580355+00:00"
+    },
+    "history_7d": {
+      "window_start": "2025-08-17T00:59:59.580355+00:00",
+      "window_end": "2025-08-24T00:59:59.580355+00:00"
+    },
+    "history_30d": {
+      "window_start": "2025-07-25T00:59:59.580355+00:00",
+      "window_end": "2025-08-24T00:59:59.580355+00:00"
+    }
+  },
+  "totals": {
+    "channels": 214,
+    "tags": 6,
+    "videos": 30042
+  },
+  "date_range": {
+    "start": "2020-01-16 21:16:26",
+    "end": "2025-08-24 00:30:06"
+  },
+  "last_update": "2025-08-24 00:59:52",
+  "notes": "horários em UTC; cálculos de janela usam datetime('now') do SQLite; history.json cobre 30 dias."
+}

@@ -1,0 +1,3549 @@
+{
+  "top_channels": [
+    {
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "subscriber_count": 221000,
+      "total_videos": 805,
+      "total_views": 187000151,
+      "engagement": 0.6470898518151464
+    },
+    {
+      "channel_name": "Tiago Santineli",
+      "tag": "Comunistas",
+      "subscriber_count": 989000,
+      "total_videos": 150,
+      "total_views": 108656264,
+      "engagement": 12.461821805321781
+    },
+    {
+      "channel_name": "Te atualizei",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 2250000,
+      "total_videos": 152,
+      "total_views": 95839614,
+      "engagement": 21.739926874079437
+    },
+    {
+      "channel_name": "Gustavo Gayer Deputado Federal",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 2210000,
+      "total_videos": 174,
+      "total_views": 84933254,
+      "engagement": 16.172146189053347
+    },
+    {
+      "channel_name": "oiluiz TV",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1280000,
+      "total_videos": 163,
+      "total_views": 71702469,
+      "engagement": 21.380828601592505
+    },
+    {
+      "channel_name": "EDUARDO BOLSONARO",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1750000,
+      "total_videos": 158,
+      "total_views": 44676938,
+      "engagement": 13.824121071144132
+    },
+    {
+      "channel_name": "Deltan Dallagnol",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1440000,
+      "total_videos": 208,
+      "total_views": 44232977,
+      "engagement": 13.008032446018724
+    },
+    {
+      "channel_name": "Nikolas Ferreira",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 2420000,
+      "total_videos": 150,
+      "total_views": 43271944,
+      "engagement": 17.658411648896568
+    },
+    {
+      "channel_name": "Renato Vicente Junior",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 812000,
+      "total_videos": 315,
+      "total_views": 41286881,
+      "engagement": 4.145387005620502
+    },
+    {
+      "channel_name": "Alexandre Garcia",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 3090000,
+      "total_videos": 158,
+      "total_views": 30919733,
+      "engagement": 20.91333712357736
+    },
+    {
+      "channel_name": "Márcio Couth / Show Político",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 470000,
+      "total_videos": 184,
+      "total_views": 30533797,
+      "engagement": 9.378470027818683
+    },
+    {
+      "channel_name": "Nando Moura",
+      "tag": "sem_tag",
+      "subscriber_count": 3500000,
+      "total_videos": 158,
+      "total_views": 30266722,
+      "engagement": 13.440596573358688
+    },
+    {
+      "channel_name": "Daniel Lopez",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1630000,
+      "total_videos": 155,
+      "total_views": 29310228,
+      "engagement": 14.370406808162667
+    },
+    {
+      "channel_name": "Tempero Drag",
+      "tag": "Comunistas",
+      "subscriber_count": 1360000,
+      "total_videos": 150,
+      "total_views": 28771801,
+      "engagement": 14.682247385208871
+    },
+    {
+      "channel_name": "Desmascarando",
+      "tag": "Petistas",
+      "subscriber_count": 571000,
+      "total_videos": 160,
+      "total_views": 27998596,
+      "engagement": 19.428688495665998
+    },
+    {
+      "channel_name": "André Guedes",
+      "tag": "MBL",
+      "subscriber_count": 1450000,
+      "total_videos": 154,
+      "total_views": 27766406,
+      "engagement": 12.766873753844845
+    },
+    {
+      "channel_name": "ANCAPSU",
+      "tag": "Ancap",
+      "subscriber_count": 832000,
+      "total_videos": 215,
+      "total_views": 27446808,
+      "engagement": 16.205950068947907
+    },
+    {
+      "channel_name": "Paulo Figueiredo Show",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 715000,
+      "total_videos": 168,
+      "total_views": 26009793,
+      "engagement": 15.533387751298136
+    },
+    {
+      "channel_name": "Mamaefalei",
+      "tag": "MBL",
+      "subscriber_count": 2660000,
+      "total_videos": 159,
+      "total_views": 25628864,
+      "engagement": 7.38426018414238
+    },
+    {
+      "channel_name": "Fernando Ulrich",
+      "tag": "Ancap",
+      "subscriber_count": 799000,
+      "total_videos": 156,
+      "total_views": 24037356,
+      "engagement": 7.744162877148385
+    },
+    {
+      "channel_name": "Plantão Brasil (Thiago dos Reis)",
+      "tag": "Petistas",
+      "subscriber_count": 1850000,
+      "total_videos": 212,
+      "total_views": 23049833,
+      "engagement": 13.913736381517385
+    },
+    {
+      "channel_name": "Dr. Marcelo Suave- Advogado",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1870000,
+      "total_videos": 166,
+      "total_views": 21406185,
+      "engagement": 16.277795412867825
+    },
+    {
+      "channel_name": "Clayson",
+      "tag": "Petistas",
+      "subscriber_count": 794000,
+      "total_videos": 159,
+      "total_views": 21250100,
+      "engagement": 16.541286864532402
+    },
+    {
+      "channel_name": "Jeffrey Chiquini ",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 440000,
+      "total_videos": 101,
+      "total_views": 20903586,
+      "engagement": 14.689895791085798
+    },
+    {
+      "channel_name": "A Verdade que muitos não conhecem",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 563000,
+      "total_videos": 121,
+      "total_views": 20665460,
+      "engagement": 1.2701870657609364
+    },
+    {
+      "channel_name": "CLAUDIO KAMARO 3D",
+      "tag": "Petistas",
+      "subscriber_count": 319000,
+      "total_videos": 274,
+      "total_views": 20464353,
+      "engagement": 6.227267483120527
+    },
+    {
+      "channel_name": "Kim Kataguiri",
+      "tag": "MBL",
+      "subscriber_count": 1890000,
+      "total_videos": 167,
+      "total_views": 19185666,
+      "engagement": 9.71615997067811
+    },
+    {
+      "channel_name": "Mundial Telenoticias",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 695000,
+      "total_videos": 155,
+      "total_views": 18663739,
+      "engagement": 14.044109811008395
+    },
+    {
+      "channel_name": "KiM PAiM",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 849000,
+      "total_videos": 158,
+      "total_views": 18406824,
+      "engagement": 24.855309096235178
+    },
+    {
+      "channel_name": "Cortes do Mamãe Falei",
+      "tag": "MBL",
+      "subscriber_count": 212000,
+      "total_videos": 167,
+      "total_views": 18211103,
+      "engagement": 5.557988442545188
+    },
+    {
+      "channel_name": "Daniel Alvarenga",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1530000,
+      "total_videos": 156,
+      "total_views": 17713637,
+      "engagement": 10.505442783997436
+    },
+    {
+      "channel_name": "Quadrinhos na Sarjeta",
+      "tag": "Petistas",
+      "subscriber_count": 405000,
+      "total_videos": 156,
+      "total_views": 17639631,
+      "engagement": 13.19393812716377
+    },
+    {
+      "channel_name": "Revista Oeste",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 3180000,
+      "total_videos": 314,
+      "total_views": 17603050,
+      "engagement": 10.43331695359611
+    },
+    {
+      "channel_name": "Fabiana Cardoso",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1930000,
+      "total_videos": 81,
+      "total_views": 17602512,
+      "engagement": 11.617165777248156
+    },
+    {
+      "channel_name": "Andréa Gonçalves",
+      "tag": "Petistas",
+      "subscriber_count": 1290000,
+      "total_videos": 156,
+      "total_views": 17533783,
+      "engagement": 14.996592577882366
+    },
+    {
+      "channel_name": "Bolsonaro Democracia em Foco",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 176000,
+      "total_videos": 226,
+      "total_views": 16853685,
+      "engagement": 5.945447538624342
+    },
+    {
+      "channel_name": "Ronny Teles",
+      "tag": "Petistas",
+      "subscriber_count": 1110000,
+      "total_videos": 183,
+      "total_views": 15938011,
+      "engagement": 10.390280192428026
+    },
+    {
+      "channel_name": "Ian Neves",
+      "tag": "Comunistas",
+      "subscriber_count": 488000,
+      "total_videos": 155,
+      "total_views": 15355031,
+      "engagement": 12.420092150904807
+    },
+    {
+      "channel_name": "Gazeta do Povo",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1840000,
+      "total_videos": 197,
+      "total_views": 15062043,
+      "engagement": 9.05128208703162
+    },
+    {
+      "channel_name": "Abraham",
+      "tag": "Ancap",
+      "subscriber_count": 411000,
+      "total_videos": 50,
+      "total_views": 15021597,
+      "engagement": 10.560222058946197
+    },
+    {
+      "channel_name": "Bradock Show",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 696000,
+      "total_videos": 171,
+      "total_views": 14165264,
+      "engagement": 12.436259571300612
+    },
+    {
+      "channel_name": "Midia BH",
+      "tag": "MBL",
+      "subscriber_count": 354000,
+      "total_videos": 150,
+      "total_views": 14127594,
+      "engagement": 8.798660267275517
+    },
+    {
+      "channel_name": "Giovani Cherini",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 28400,
+      "total_videos": 207,
+      "total_views": 13453659,
+      "engagement": 3.8968432305293303
+    },
+    {
+      "channel_name": "Mauro Fagundes",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 693000,
+      "total_videos": 160,
+      "total_views": 13257697,
+      "engagement": 21.7335258152302
+    },
+    {
+      "channel_name": "DESCE A LETRA SHOW",
+      "tag": "Comunistas",
+      "subscriber_count": 393000,
+      "total_videos": 154,
+      "total_views": 13048880,
+      "engagement": 13.292619749740973
+    },
+    {
+      "channel_name": "luideverso",
+      "tag": "Comunistas",
+      "subscriber_count": 388000,
+      "total_videos": 159,
+      "total_views": 12734240,
+      "engagement": 8.283635301360741
+    },
+    {
+      "channel_name": "Paula Marisa",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 784000,
+      "total_videos": 153,
+      "total_views": 12692991,
+      "engagement": 24.839842713195022
+    },
+    {
+      "channel_name": "Galãs Feios",
+      "tag": "Petistas",
+      "subscriber_count": 1090000,
+      "total_videos": 187,
+      "total_views": 12664636,
+      "engagement": 13.816844005623217
+    },
+    {
+      "channel_name": "Portal do José",
+      "tag": "Petistas",
+      "subscriber_count": 1070000,
+      "total_videos": 67,
+      "total_views": 12648134,
+      "engagement": 24.096376588040577
+    },
+    {
+      "channel_name": "BRASIL REPÚBLICA",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 639000,
+      "total_videos": 69,
+      "total_views": 12410811,
+      "engagement": 8.889265979475475
+    },
+    {
+      "channel_name": "Conversa Timeline ",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 281000,
+      "total_videos": 157,
+      "total_views": 11581216,
+      "engagement": 20.678985695457197
+    },
+    {
+      "channel_name": "Os Pingos nos Is",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 5380000,
+      "total_videos": 211,
+      "total_views": 11533682,
+      "engagement": 4.530756093327352
+    },
+    {
+      "channel_name": "Podcast 3 irmãos",
+      "tag": "Comunistas",
+      "subscriber_count": 474000,
+      "total_videos": 154,
+      "total_views": 11435649,
+      "engagement": 9.30834795646491
+    },
+    {
+      "channel_name": "Conectado",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 700000,
+      "total_videos": 117,
+      "total_views": 10767980,
+      "engagement": 10.689915843082918
+    },
+    {
+      "channel_name": "Amanda Vettorazzo",
+      "tag": "MBL",
+      "subscriber_count": 445000,
+      "total_videos": 153,
+      "total_views": 10761310,
+      "engagement": 8.808304936852483
+    },
+    {
+      "channel_name": "Paulo Baltokoski",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 338000,
+      "total_videos": 151,
+      "total_views": 10407137,
+      "engagement": 10.869675300709503
+    },
+    {
+      "channel_name": "WAGNÃO",
+      "tag": "Petistas",
+      "subscriber_count": 1250000,
+      "total_videos": 151,
+      "total_views": 9968950,
+      "engagement": 13.554998269627193
+    },
+    {
+      "channel_name": "Pânico Jovem Pan",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 4130000,
+      "total_videos": 192,
+      "total_views": 9934337,
+      "engagement": 5.513855630224745
+    },
+    {
+      "channel_name": "Guto Zacarias",
+      "tag": "MBL",
+      "subscriber_count": 999000,
+      "total_videos": 159,
+      "total_views": 9851721,
+      "engagement": 10.285735862800012
+    },
+    {
+      "channel_name": "AVRAHAM  DOC📝",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 771000,
+      "total_videos": 161,
+      "total_views": 9773235,
+      "engagement": 0.4491041093353429
+    },
+    {
+      "channel_name": "MBL - Movimento Brasil Livre",
+      "tag": "MBL",
+      "subscriber_count": 1340000,
+      "total_videos": 152,
+      "total_views": 8648791,
+      "engagement": 11.61161138013394
+    },
+    {
+      "channel_name": "Folha Política",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 3270000,
+      "total_videos": 180,
+      "total_views": 8514254,
+      "engagement": 5.516091016312175
+    },
+    {
+      "channel_name": "Ideias Radicais",
+      "tag": "Ancap",
+      "subscriber_count": 809000,
+      "total_videos": 152,
+      "total_views": 8370897,
+      "engagement": 10.09969421437153
+    },
+    {
+      "channel_name": "Allan dos Panos",
+      "tag": "MBL",
+      "subscriber_count": 228000,
+      "total_videos": 155,
+      "total_views": 8197142,
+      "engagement": 14.087922351473233
+    },
+    {
+      "channel_name": "Ricardo Mello",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 380000,
+      "total_videos": 90,
+      "total_views": 8037153,
+      "engagement": 12.227924490177056
+    },
+    {
+      "channel_name": "Cortes Trezoitão",
+      "tag": "Ancap",
+      "subscriber_count": 311000,
+      "total_videos": 189,
+      "total_views": 7934252,
+      "engagement": 6.686981961248521
+    },
+    {
+      "channel_name": "Jornal Matilha News",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 104000,
+      "total_videos": 67,
+      "total_views": 7886703,
+      "engagement": 5.760670840527404
+    },
+    {
+      "channel_name": "Mídia NINJA",
+      "tag": "Petistas",
+      "subscriber_count": 1440000,
+      "total_videos": 207,
+      "total_views": 7773168,
+      "engagement": 10.115206567000739
+    },
+    {
+      "channel_name": "Curiosa News",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 45700,
+      "total_videos": 158,
+      "total_views": 7377318,
+      "engagement": 0.930419428849346
+    },
+    {
+      "channel_name": "Leonardo Stoppa",
+      "tag": "Petistas",
+      "subscriber_count": 476000,
+      "total_videos": 163,
+      "total_views": 7375583,
+      "engagement": 10.242919102123858
+    },
+    {
+      "channel_name": "SEM MIMIMI | o canal do Pavivi",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1460000,
+      "total_videos": 114,
+      "total_views": 7173309,
+      "engagement": 11.549467616688476
+    },
+    {
+      "channel_name": "Claudio Dantas",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 250000,
+      "total_videos": 109,
+      "total_views": 7102510,
+      "engagement": 10.584413115926623
+    },
+    {
+      "channel_name": "Cortes do Kim",
+      "tag": "MBL",
+      "subscriber_count": 198000,
+      "total_videos": 158,
+      "total_views": 7058841,
+      "engagement": 7.174945575343035
+    },
+    {
+      "channel_name": "DIDI RED PILL",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 445000,
+      "total_videos": 168,
+      "total_views": 6721465,
+      "engagement": 21.356832178699136
+    },
+    {
+      "channel_name": "O Historiador",
+      "tag": "Petistas",
+      "subscriber_count": 575000,
+      "total_videos": 157,
+      "total_views": 6600978,
+      "engagement": 19.291823120755744
+    },
+    {
+      "channel_name": "Floriano Investe",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 129000,
+      "total_videos": 199,
+      "total_views": 6457027,
+      "engagement": 9.269684020215495
+    },
+    {
+      "channel_name": "MBLiveTV - Lives do MBL",
+      "tag": "MBL",
+      "subscriber_count": 328000,
+      "total_videos": 171,
+      "total_views": 6321472,
+      "engagement": 14.765200257155296
+    },
+    {
+      "channel_name": "Jovem Pan News",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 8730000,
+      "total_videos": 630,
+      "total_views": 6291148,
+      "engagement": 2.8009037460253676
+    },
+    {
+      "channel_name": "Cortes do MBL",
+      "tag": "MBL",
+      "subscriber_count": 511000,
+      "total_videos": 165,
+      "total_views": 6286163,
+      "engagement": 7.016108236455211
+    },
+    {
+      "channel_name": "Brasil Paralelo",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 4580000,
+      "total_videos": 191,
+      "total_views": 6273849,
+      "engagement": 11.776438993032826
+    },
+    {
+      "channel_name": "CLEITON BASSO Notícias, Reflexões e Evangelismo",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1060000,
+      "total_videos": 46,
+      "total_views": 6142637,
+      "engagement": 16.584375733093133
+    },
+    {
+      "channel_name": "PASTOR SANDRO ROCHA",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 712000,
+      "total_videos": 105,
+      "total_views": 6130651,
+      "engagement": 20.263280359622495
+    },
+    {
+      "channel_name": "Brasil Acima de Tudo - Por Patriotas",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 482000,
+      "total_videos": 63,
+      "total_views": 5946717,
+      "engagement": 14.05699985386895
+    },
+    {
+      "channel_name": "Tese Onze",
+      "tag": "Comunistas",
+      "subscriber_count": 434000,
+      "total_videos": 150,
+      "total_views": 5927586,
+      "engagement": 18.523915131724788
+    },
+    {
+      "channel_name": "História Cabeluda",
+      "tag": "Comunistas",
+      "subscriber_count": 377000,
+      "total_videos": 150,
+      "total_views": 5837137,
+      "engagement": 10.475769199866305
+    },
+    {
+      "channel_name": "Marcelo Brigadeiro",
+      "tag": "MBL",
+      "subscriber_count": 582000,
+      "total_videos": 160,
+      "total_views": 5809638,
+      "engagement": 11.367110997277283
+    },
+    {
+      "channel_name": "Henry Bugalho",
+      "tag": "Petistas",
+      "subscriber_count": 729000,
+      "total_videos": 157,
+      "total_views": 5792328,
+      "engagement": 13.187495597624997
+    },
+    {
+      "channel_name": "Jones Manoel",
+      "tag": "Comunistas",
+      "subscriber_count": 554000,
+      "total_videos": 170,
+      "total_views": 5424995,
+      "engagement": 14.588787639435612
+    },
+    {
+      "channel_name": "Paralelo News",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 507000,
+      "total_videos": 70,
+      "total_views": 5378484,
+      "engagement": 15.680645326824436
+    },
+    {
+      "channel_name": "Diário do Trabalhador",
+      "tag": "Petistas",
+      "subscriber_count": 359000,
+      "total_videos": 77,
+      "total_views": 5371170,
+      "engagement": 8.227816285837164
+    },
+    {
+      "channel_name": "Fio Diário",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 494000,
+      "total_videos": 188,
+      "total_views": 5298401,
+      "engagement": 13.391511891984015
+    },
+    {
+      "channel_name": "VIDA GRINGA USA",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 507000,
+      "total_videos": 72,
+      "total_views": 5291925,
+      "engagement": 17.91548444091706
+    },
+    {
+      "channel_name": "Meteoro Brasil",
+      "tag": "Petistas",
+      "subscriber_count": 1770000,
+      "total_videos": 182,
+      "total_views": 5221087,
+      "engagement": 12.66245898603107
+    },
+    {
+      "channel_name": "Ana Paula Henkel",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 364000,
+      "total_videos": 138,
+      "total_views": 5171409,
+      "engagement": 13.536562279255035
+    },
+    {
+      "channel_name": "Professor Leonardo",
+      "tag": "Petistas",
+      "subscriber_count": 409000,
+      "total_videos": 164,
+      "total_views": 5152756,
+      "engagement": 21.96207233565882
+    },
+    {
+      "channel_name": "NARRAPODER",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 70300,
+      "total_videos": 100,
+      "total_views": 5144223,
+      "engagement": 6.760865537905336
+    },
+    {
+      "channel_name": "Washington Lisboa | Notícias de Agora",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1530000,
+      "total_videos": 43,
+      "total_views": 5111600,
+      "engagement": 0.2464785976993505
+    },
+    {
+      "channel_name": "VERDADEIROS PATRIOTAS.",
+      "tag": "Petistas",
+      "subscriber_count": 99200,
+      "total_videos": 152,
+      "total_views": 4959248,
+      "engagement": 8.495985681700128
+    },
+    {
+      "channel_name": "MADERADA BRASIL",
+      "tag": "Petistas",
+      "subscriber_count": 547000,
+      "total_videos": 139,
+      "total_views": 4942528,
+      "engagement": 9.994359161951131
+    },
+    {
+      "channel_name": "hubtnt by Davi Aragão",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 141000,
+      "total_videos": 98,
+      "total_views": 4635259,
+      "engagement": 8.765615901937734
+    },
+    {
+      "channel_name": "Gazeta do Povo - Extras",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 254000,
+      "total_videos": 68,
+      "total_views": 4631965,
+      "engagement": 7.633455779566556
+    },
+    {
+      "channel_name": "A Voz Trabalhadora",
+      "tag": "Petistas",
+      "subscriber_count": 486000,
+      "total_videos": 327,
+      "total_views": 4565146,
+      "engagement": 9.525084192268988
+    },
+    {
+      "channel_name": "André Roncaglia",
+      "tag": "Petistas",
+      "subscriber_count": 161000,
+      "total_videos": 150,
+      "total_views": 4538155,
+      "engagement": 11.035674189180405
+    },
+    {
+      "channel_name": "Chavoso da USP",
+      "tag": "Comunistas",
+      "subscriber_count": 432000,
+      "total_videos": 155,
+      "total_views": 4533272,
+      "engagement": 13.757458189140205
+    },
+    {
+      "channel_name": "CNB  CANAL NOTICIA BRASIL ",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 295000,
+      "total_videos": 64,
+      "total_views": 4397927,
+      "engagement": 10.36138162366042
+    },
+    {
+      "channel_name": "Silas Malafaia Oficial",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1940000,
+      "total_videos": 84,
+      "total_views": 4331147,
+      "engagement": 13.472551266442816
+    },
+    {
+      "channel_name": "Epoch Times Brasil",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 413000,
+      "total_videos": 116,
+      "total_views": 4228149,
+      "engagement": 8.236393750551365
+    },
+    {
+      "channel_name": "TV Afiada",
+      "tag": "Petistas",
+      "subscriber_count": 1190000,
+      "total_videos": 64,
+      "total_views": 4189453,
+      "engagement": 9.341243355636166
+    },
+    {
+      "channel_name": "Itatiaia",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 3020000,
+      "total_videos": 410,
+      "total_views": 4178109,
+      "engagement": 5.38351201464586
+    },
+    {
+      "channel_name": "TV NEWS NO AR",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 2300000,
+      "total_videos": 66,
+      "total_views": 4097552,
+      "engagement": 9.012429860560648
+    },
+    {
+      "channel_name": "Política Exposta",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 235000,
+      "total_videos": 262,
+      "total_views": 4074419,
+      "engagement": 8.201905596847059
+    },
+    {
+      "channel_name": "TV FLORIDA USA",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 410000,
+      "total_videos": 381,
+      "total_views": 4057558,
+      "engagement": 14.781107257123619
+    },
+    {
+      "channel_name": "Luan Amâncio",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 645000,
+      "total_videos": 54,
+      "total_views": 4043235,
+      "engagement": 12.940108601157242
+    },
+    {
+      "channel_name": "PHVox Geopolítica Descomplicada",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 287000,
+      "total_videos": 78,
+      "total_views": 3945100,
+      "engagement": 16.217484981369292
+    },
+    {
+      "channel_name": "ENZUH",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 391000,
+      "total_videos": 180,
+      "total_views": 3840205,
+      "engagement": 11.710025897054974
+    },
+    {
+      "channel_name": "O Jacaré de Tanga",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1380000,
+      "total_videos": 80,
+      "total_views": 3694048,
+      "engagement": 24.908934588830466
+    },
+    {
+      "channel_name": "Movimento Brasil Patriota",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 85700,
+      "total_videos": 76,
+      "total_views": 3683394,
+      "engagement": 7.310350182467583
+    },
+    {
+      "channel_name": "Instituto Conhecimento Liberta",
+      "tag": "Petistas",
+      "subscriber_count": 1150000,
+      "total_videos": 211,
+      "total_views": 3646520,
+      "engagement": 9.03859021752246
+    },
+    {
+      "channel_name": "GeoEconome",
+      "tag": "Petistas",
+      "subscriber_count": 58300,
+      "total_videos": 50,
+      "total_views": 3512204,
+      "engagement": 6.486183604369223
+    },
+    {
+      "channel_name": "Jovem Pan  - 3 em 1",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1230000,
+      "total_videos": 202,
+      "total_views": 3489629,
+      "engagement": 3.665575910791663
+    },
+    {
+      "channel_name": "Crônicas do Brasil",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 64100,
+      "total_videos": 54,
+      "total_views": 3455167,
+      "engagement": 8.979479139503242
+    },
+    {
+      "channel_name": "Eduardo Moreira",
+      "tag": "Petistas",
+      "subscriber_count": 1460000,
+      "total_videos": 172,
+      "total_views": 3442572,
+      "engagement": 8.640574547169965
+    },
+    {
+      "channel_name": "HFNew Atualidades",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 149000,
+      "total_videos": 59,
+      "total_views": 3418750,
+      "engagement": 1.5382230347349177
+    },
+    {
+      "channel_name": "Renato IMPERA",
+      "tag": "MBL",
+      "subscriber_count": 49200,
+      "total_videos": 161,
+      "total_views": 3394330,
+      "engagement": 11.37031461289857
+    },
+    {
+      "channel_name": "Mão Direita",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 141000,
+      "total_videos": 26,
+      "total_views": 3251209,
+      "engagement": 8.150598746497073
+    },
+    {
+      "channel_name": "Humberto Matos",
+      "tag": "Comunistas",
+      "subscriber_count": 259000,
+      "total_videos": 158,
+      "total_views": 3204470,
+      "engagement": 16.37727923806433
+    },
+    {
+      "channel_name": "Programa 4 por 4",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 977000,
+      "total_videos": 161,
+      "total_views": 3200893,
+      "engagement": 18.429856918053805
+    },
+    {
+      "channel_name": "Carlos Bolsonaro",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 470000,
+      "total_videos": 150,
+      "total_views": 3140518,
+      "engagement": 17.884533697944097
+    },
+    {
+      "channel_name": "JD NEWS BRASIL",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 112000,
+      "total_videos": 7,
+      "total_views": 3118125,
+      "engagement": 5.6319743435558225
+    },
+    {
+      "channel_name": "Expresso Notícia Nacional",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1240000,
+      "total_videos": 85,
+      "total_views": 3103303,
+      "engagement": 13.36214994153004
+    },
+    {
+      "channel_name": "Junior Japa",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 219000,
+      "total_videos": 96,
+      "total_views": 3054641,
+      "engagement": 21.535198407930753
+    },
+    {
+      "channel_name": "Alex Moretti",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 501000,
+      "total_videos": 31,
+      "total_views": 3041808,
+      "engagement": 9.438695670469668
+    },
+    {
+      "channel_name": "Fabio Ton",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 184000,
+      "total_videos": 85,
+      "total_views": 3000943,
+      "engagement": 22.030774993060515
+    },
+    {
+      "channel_name": "NoticiasBrasil",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 376000,
+      "total_videos": 74,
+      "total_views": 2960520,
+      "engagement": 10.108933565724941
+    },
+    {
+      "channel_name": "BARRACA DOS DRONES TV📺🌎",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 22600,
+      "total_videos": 277,
+      "total_views": 2950027,
+      "engagement": 1.1577521154891124
+    },
+    {
+      "channel_name": "ESPECTRO CINZA",
+      "tag": "MBL",
+      "subscriber_count": 72700,
+      "total_videos": 157,
+      "total_views": 2879131,
+      "engagement": 8.18712312847175
+    },
+    {
+      "channel_name": "DCM TV",
+      "tag": "Petistas",
+      "subscriber_count": 470000,
+      "total_videos": 201,
+      "total_views": 2874797,
+      "engagement": 11.684024993764778
+    },
+    {
+      "channel_name": "TV Resistência Contemporânea",
+      "tag": "Petistas",
+      "subscriber_count": 340000,
+      "total_videos": 160,
+      "total_views": 2767575,
+      "engagement": 13.835108352980498
+    },
+    {
+      "channel_name": "Thiago dos Reis",
+      "tag": "Petistas",
+      "subscriber_count": 367000,
+      "total_videos": 196,
+      "total_views": 2741694,
+      "engagement": 17.538645815324394
+    },
+    {
+      "channel_name": "Morning Show",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 2020000,
+      "total_videos": 199,
+      "total_views": 2708062,
+      "engagement": 3.805488943753873
+    },
+    {
+      "channel_name": "Dr. Amarildo Filho",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 126000,
+      "total_videos": 63,
+      "total_views": 2702207,
+      "engagement": 9.422076102978048
+    },
+    {
+      "channel_name": "Orientação Marxista - Gustavo Machado",
+      "tag": "Comunistas",
+      "subscriber_count": 98200,
+      "total_videos": 152,
+      "total_views": 2665882,
+      "engagement": 13.272567953120205
+    },
+    {
+      "channel_name": "Deycon Silva",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 251000,
+      "total_videos": 49,
+      "total_views": 2560454,
+      "engagement": 13.550096974989591
+    },
+    {
+      "channel_name": "Marco Antonio Costa",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 171000,
+      "total_videos": 181,
+      "total_views": 2549723,
+      "engagement": 13.22469146648479
+    },
+    {
+      "channel_name": "André Marsiglia",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 84400,
+      "total_videos": 47,
+      "total_views": 2532725,
+      "engagement": 15.580412401662242
+    },
+    {
+      "channel_name": "MARCOS EDUARDO 🎙",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 413000,
+      "total_videos": 71,
+      "total_views": 2513001,
+      "engagement": 9.361755128629078
+    },
+    {
+      "channel_name": "Rádio BandNews FM",
+      "tag": "Petistas",
+      "subscriber_count": 2600000,
+      "total_videos": 345,
+      "total_views": 2459938,
+      "engagement": 7.49209939437498
+    },
+    {
+      "channel_name": "Carlos Heinar",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1420000,
+      "total_videos": 37,
+      "total_views": 2444061,
+      "engagement": 13.948260702167417
+    },
+    {
+      "channel_name": "CORTES DO FIGUEIREDO",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 99200,
+      "total_videos": 55,
+      "total_views": 2443789,
+      "engagement": 12.16651683103574
+    },
+    {
+      "channel_name": "APOIO A DIREITA- Dr. MARCELO SUAVE ",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 162000,
+      "total_videos": 85,
+      "total_views": 2366048,
+      "engagement": 27.258576326431246
+    },
+    {
+      "channel_name": "Política Oculta",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 101000,
+      "total_videos": 31,
+      "total_views": 2267676,
+      "engagement": 11.598438224861047
+    },
+    {
+      "channel_name": "CartaCapital",
+      "tag": "Petistas",
+      "subscriber_count": 647000,
+      "total_videos": 174,
+      "total_views": 2217346,
+      "engagement": 5.741413383387166
+    },
+    {
+      "channel_name": "POVO BRASILEIRO EM ALERTA",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 289000,
+      "total_videos": 86,
+      "total_views": 2182573,
+      "engagement": 10.89319807401631
+    },
+    {
+      "channel_name": "Estúdio 5° Elemento ",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 273000,
+      "total_videos": 162,
+      "total_views": 2155421,
+      "engagement": 14.638857095667158
+    },
+    {
+      "channel_name": "Política News ",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 25300,
+      "total_videos": 41,
+      "total_views": 2141222,
+      "engagement": 8.486882723977242
+    },
+    {
+      "channel_name": "Ivan Kleber Fonseca",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 76600,
+      "total_videos": 80,
+      "total_views": 2132930,
+      "engagement": 25.92213527870113
+    },
+    {
+      "channel_name": "AuriVerde Brasil",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 2370000,
+      "total_videos": 105,
+      "total_views": 2093570,
+      "engagement": 17.572949555066227
+    },
+    {
+      "channel_name": "Guizão Tocamente a Frente",
+      "tag": "Petistas",
+      "subscriber_count": 354000,
+      "total_videos": 80,
+      "total_views": 2080843,
+      "engagement": 14.648293984697547
+    },
+    {
+      "channel_name": "Política & Cia",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 221000,
+      "total_videos": 77,
+      "total_views": 2069189,
+      "engagement": 19.137401175049742
+    },
+    {
+      "channel_name": "Alessandro Santana Oficial",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 766000,
+      "total_videos": 168,
+      "total_views": 2031591,
+      "engagement": 11.873551320122997
+    },
+    {
+      "channel_name": "Direto Ao Ponto",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 132000,
+      "total_videos": 88,
+      "total_views": 2023445,
+      "engagement": 0.0
+    },
+    {
+      "channel_name": "TV 247",
+      "tag": "Petistas",
+      "subscriber_count": 1400000,
+      "total_videos": 257,
+      "total_views": 1908273,
+      "engagement": 16.734031241861096
+    },
+    {
+      "channel_name": "Julien Jubert",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 195000,
+      "total_videos": 19,
+      "total_views": 1892633,
+      "engagement": 11.258918131513083
+    },
+    {
+      "channel_name": "TV Fórum",
+      "tag": "Petistas",
+      "subscriber_count": 894000,
+      "total_videos": 206,
+      "total_views": 1845858,
+      "engagement": 13.832212445377705
+    },
+    {
+      "channel_name": "TV GGN",
+      "tag": "Petistas",
+      "subscriber_count": 444000,
+      "total_videos": 175,
+      "total_views": 1801659,
+      "engagement": 12.88584576770632
+    },
+    {
+      "channel_name": "POLIBIO BRAGA",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 190000,
+      "total_videos": 152,
+      "total_views": 1791274,
+      "engagement": 16.862579370883516
+    },
+    {
+      "channel_name": "GIGANTE PATRIA",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 484000,
+      "total_videos": 100,
+      "total_views": 1789962,
+      "engagement": 14.308404312493785
+    },
+    {
+      "channel_name": "Papo Libertário",
+      "tag": "Ancap",
+      "subscriber_count": 56000,
+      "total_videos": 160,
+      "total_views": 1786252,
+      "engagement": 13.851573014333924
+    },
+    {
+      "channel_name": "Economia News",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 194000,
+      "total_videos": 90,
+      "total_views": 1706953,
+      "engagement": 10.503276891630877
+    },
+    {
+      "channel_name": "Renato Battista",
+      "tag": "MBL",
+      "subscriber_count": 218000,
+      "total_videos": 162,
+      "total_views": 1661643,
+      "engagement": 11.835815515125692
+    },
+    {
+      "channel_name": "Rotina do Trezoitão",
+      "tag": "Ancap",
+      "subscriber_count": 58800,
+      "total_videos": 26,
+      "total_views": 1526640,
+      "engagement": 11.095477650264634
+    },
+    {
+      "channel_name": "Novos Clássicos Show",
+      "tag": "MBL",
+      "subscriber_count": 27000,
+      "total_videos": 158,
+      "total_views": 1485309,
+      "engagement": 13.187895582670004
+    },
+    {
+      "channel_name": "Lucas Pavanato",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1110000,
+      "total_videos": 8,
+      "total_views": 1375810,
+      "engagement": 6.219972234538199
+    },
+    {
+      "channel_name": "Meio",
+      "tag": "Petistas",
+      "subscriber_count": 341000,
+      "total_videos": 130,
+      "total_views": 1365295,
+      "engagement": 8.302747757810582
+    },
+    {
+      "channel_name": "Nanda Guardian",
+      "tag": "Ancap",
+      "subscriber_count": 393000,
+      "total_videos": 22,
+      "total_views": 1357825,
+      "engagement": 13.878445307753209
+    },
+    {
+      "channel_name": "O Antagonista",
+      "tag": "MBL",
+      "subscriber_count": 1400000,
+      "total_videos": 193,
+      "total_views": 1336940,
+      "engagement": 9.770296348377638
+    },
+    {
+      "channel_name": "João Carvalho",
+      "tag": "Comunistas",
+      "subscriber_count": 238000,
+      "total_videos": 165,
+      "total_views": 1335005,
+      "engagement": 15.042190853217779
+    },
+    {
+      "channel_name": "VLOG Silvano Silva",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 300000,
+      "total_videos": 62,
+      "total_views": 1333238,
+      "engagement": 17.296236680922686
+    },
+    {
+      "channel_name": "Opera Mundi",
+      "tag": "Petistas",
+      "subscriber_count": 407000,
+      "total_videos": 180,
+      "total_views": 1290996,
+      "engagement": 12.264948923157004
+    },
+    {
+      "channel_name": "Ocidente em Fúria - com Paulo Kogos",
+      "tag": "Ancap",
+      "subscriber_count": 192000,
+      "total_videos": 150,
+      "total_views": 1272748,
+      "engagement": 12.947653423929953
+    },
+    {
+      "channel_name": "Cesar Mello",
+      "tag": "Ancap",
+      "subscriber_count": 88700,
+      "total_videos": 155,
+      "total_views": 1248482,
+      "engagement": 17.718797707936517
+    },
+    {
+      "channel_name": "Charles Wicz",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 160000,
+      "total_videos": 84,
+      "total_views": 1173179,
+      "engagement": 12.816032336071478
+    },
+    {
+      "channel_name": "Revista Valete",
+      "tag": "MBL",
+      "subscriber_count": 32700,
+      "total_videos": 153,
+      "total_views": 1147434,
+      "engagement": 15.437663517030174
+    },
+    {
+      "channel_name": "Engenheiro Leo",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 2530000,
+      "total_videos": 117,
+      "total_views": 1140170,
+      "engagement": 6.931510213389231
+    },
+    {
+      "channel_name": "DIREITA NOTICIAS - DR MARCELO SUAVE",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 112000,
+      "total_videos": 157,
+      "total_views": 1139166,
+      "engagement": 31.32765549533606
+    },
+    {
+      "channel_name": "Brasil Online",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 85800,
+      "total_videos": 40,
+      "total_views": 1112804,
+      "engagement": 11.374240207619671
+    },
+    {
+      "channel_name": "ICL Notícias ",
+      "tag": "Petistas",
+      "subscriber_count": 198000,
+      "total_videos": 172,
+      "total_views": 1109779,
+      "engagement": 11.943278796949663
+    },
+    {
+      "channel_name": "Canal O Verbo de Deus",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 217000,
+      "total_videos": 36,
+      "total_views": 1078638,
+      "engagement": 13.984302425837027
+    },
+    {
+      "channel_name": "Brasil de Fato",
+      "tag": "Petistas",
+      "subscriber_count": 815000,
+      "total_videos": 184,
+      "total_views": 1011339,
+      "engagement": 7.000916606597787
+    },
+    {
+      "channel_name": "Cortes Te Atualizei",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 295000,
+      "total_videos": 25,
+      "total_views": 940077,
+      "engagement": 18.37030370916425
+    },
+    {
+      "channel_name": "MyNews",
+      "tag": "Petistas",
+      "subscriber_count": 1130000,
+      "total_videos": 179,
+      "total_views": 916180,
+      "engagement": 7.422777183522888
+    },
+    {
+      "channel_name": "Boletim da Fabiana",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 257000,
+      "total_videos": 30,
+      "total_views": 899727,
+      "engagement": 14.568752521598219
+    },
+    {
+      "channel_name": "Canal do Conde",
+      "tag": "Petistas",
+      "subscriber_count": 110000,
+      "total_videos": 195,
+      "total_views": 876629,
+      "engagement": 12.23984148368352
+    },
+    {
+      "channel_name": "Descendo o Sarrafo",
+      "tag": "Petistas",
+      "subscriber_count": 83100,
+      "total_videos": 41,
+      "total_views": 835120,
+      "engagement": 12.77445157582144
+    },
+    {
+      "channel_name": "O BARBA RUIVA ",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 406000,
+      "total_videos": 52,
+      "total_views": 818631,
+      "engagement": 18.111456810211195
+    },
+    {
+      "channel_name": "Visão Libertária",
+      "tag": "Ancap",
+      "subscriber_count": 484000,
+      "total_videos": 180,
+      "total_views": 750775,
+      "engagement": 18.454397122972928
+    },
+    {
+      "channel_name": "Rede TVT",
+      "tag": "Petistas",
+      "subscriber_count": 1110000,
+      "total_videos": 246,
+      "total_views": 660806,
+      "engagement": 8.682124556980416
+    },
+    {
+      "channel_name": "JosemideDeus- Oficial",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 345000,
+      "total_videos": 65,
+      "total_views": 580606,
+      "engagement": 14.633848082865144
+    },
+    {
+      "channel_name": "Marcos Serrano",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 902000,
+      "total_videos": 36,
+      "total_views": 575416,
+      "engagement": 9.510858231262253
+    },
+    {
+      "channel_name": "O INVESTIDOR",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 429000,
+      "total_videos": 58,
+      "total_views": 570818,
+      "engagement": 0.0
+    },
+    {
+      "channel_name": "Marco Feliciano",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 397000,
+      "total_videos": 21,
+      "total_views": 491598,
+      "engagement": 6.063694319342226
+    },
+    {
+      "channel_name": "Jefferson Pereira",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 342000,
+      "total_videos": 15,
+      "total_views": 480645,
+      "engagement": 9.62040591288789
+    },
+    {
+      "channel_name": "Portal da Fabi",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 250000,
+      "total_videos": 31,
+      "total_views": 467583,
+      "engagement": 16.128687313268447
+    },
+    {
+      "channel_name": "Dois Pesos, Duas Medidas",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 111000,
+      "total_videos": 44,
+      "total_views": 444488,
+      "engagement": 12.336890984683501
+    },
+    {
+      "channel_name": "Filósofo Paulo Ghiraldelli",
+      "tag": "Petistas",
+      "subscriber_count": 575000,
+      "total_videos": 155,
+      "total_views": 437851,
+      "engagement": 16.947089306636276
+    },
+    {
+      "channel_name": "Jota",
+      "tag": "MBL",
+      "subscriber_count": 19400,
+      "total_videos": 162,
+      "total_views": 425671,
+      "engagement": 11.346321454832488
+    },
+    {
+      "channel_name": "O Cafezinho",
+      "tag": "Petistas",
+      "subscriber_count": 24700,
+      "total_videos": 150,
+      "total_views": 368964,
+      "engagement": 8.076126668184429
+    },
+    {
+      "channel_name": "Eduardo Bisotto",
+      "tag": "MBL",
+      "subscriber_count": 12700,
+      "total_videos": 163,
+      "total_views": 297584,
+      "engagement": 8.371417818162266
+    },
+    {
+      "channel_name": "Formação Alta Linguagem",
+      "tag": "Ancap",
+      "subscriber_count": 22500,
+      "total_videos": 57,
+      "total_views": 223568,
+      "engagement": 10.197344879410291
+    },
+    {
+      "channel_name": "Cabo Elson",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 388000,
+      "total_videos": 58,
+      "total_views": 216132,
+      "engagement": 16.042973738271055
+    },
+    {
+      "channel_name": "Fernando Holiday",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 154000,
+      "total_videos": 47,
+      "total_views": 167286,
+      "engagement": 10.11142594120249
+    },
+    {
+      "channel_name": "Veio a Tona",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 1950,
+      "total_videos": 12,
+      "total_views": 158980,
+      "engagement": 5.106931689520694
+    },
+    {
+      "channel_name": "Instituto Mises Brasil",
+      "tag": "Ancap",
+      "subscriber_count": 81700,
+      "total_videos": 158,
+      "total_views": 90357,
+      "engagement": 14.202552098896598
+    },
+    {
+      "channel_name": "O Liberal",
+      "tag": "Bolsonaristas",
+      "subscriber_count": 354000,
+      "total_videos": 57,
+      "total_views": 85855,
+      "engagement": 2.734843631704618
+    }
+  ],
+  "viral_videos": [
+    {
+      "video_id": "eZduyZlSpeU",
+      "title": "EMBATE DO ANO - Mendonça X Moraes no LIDE. Moraes ataca Mendonça e sai perdendo",
+      "channel_name": "Gustavo Gayer Deputado Federal",
+      "tag": "Bolsonaristas",
+      "views": 573353,
+      "likes": 84428,
+      "comments": 4177,
+      "published_at": "2025-08-23 14:51:44",
+      "views_per_hour": 56556.97856703273
+    },
+    {
+      "video_id": "3IhpiKZ2hlI",
+      "title": "Moraes expõe conversas de bastidores que implicam Gilmar Mendes",
+      "channel_name": "EDUARDO BOLSONARO",
+      "tag": "Bolsonaristas",
+      "views": 378150,
+      "likes": 82042,
+      "comments": 6880,
+      "published_at": "2025-08-23 15:03:58",
+      "views_per_hour": 38067.27819628031
+    },
+    {
+      "video_id": "Du-VXONH7Lk",
+      "title": "#estreladefamília #lula #sejacriador #noticias #eleições2022 #lulapresidente",
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "views": 405754,
+      "likes": 4420,
+      "comments": 45,
+      "published_at": "2025-08-23 13:11:47",
+      "views_per_hour": 34375.88002345733
+    },
+    {
+      "video_id": "6cUNGHkEkmY",
+      "title": "STF RECUA E ANISTIA APROVADA AGORA  DEPUTADO FAZ O QUE NINGUÉM ESTÁ FAZENDO!",
+      "channel_name": "Diário do Trabalhador",
+      "tag": "Petistas",
+      "views": 398534,
+      "likes": 31381,
+      "comments": 1855,
+      "published_at": "2025-08-23 12:55:08",
+      "views_per_hour": 32988.62934695658
+    },
+    {
+      "video_id": "Z3XbWIbcKPg",
+      "title": "Pai de Nikolas lidera corrida ao Senado em MG",
+      "channel_name": "HFNew Atualidades",
+      "tag": "Bolsonaristas",
+      "views": 327475,
+      "likes": 5543,
+      "comments": 60,
+      "published_at": "2025-08-23 14:39:30",
+      "views_per_hour": 31666.08388002481
+    },
+    {
+      "video_id": "PpUV8j6wwrA",
+      "title": "OESTE SEM FILTRO - 22/08/2025",
+      "channel_name": "Revista Oeste",
+      "tag": "Bolsonaristas",
+      "views": 688484,
+      "likes": 80107,
+      "comments": 122,
+      "published_at": "2025-08-23 01:25:03",
+      "views_per_hour": 29194.89822696904
+    },
+    {
+      "video_id": "mIe8Jq6L99s",
+      "title": "HAHAHA: Erika Hilton e Felipe Neto entram na mira de Trump pra perder o visto e somem das redes!",
+      "channel_name": "oiluiz TV",
+      "tag": "Bolsonaristas",
+      "views": 244220,
+      "likes": 63641,
+      "comments": 2969,
+      "published_at": "2025-08-23 16:27:27",
+      "views_per_hour": 28589.357925883523
+    },
+    {
+      "video_id": "kTU_8d5yV9M",
+      "title": "Reviravolta! PF SALVA E INOCENTA Bolsonaro!! O PLANO DEU CERTO! MORAES E LULA FURIOSOS SIGILO FOI RE",
+      "channel_name": "Fabiana Cardoso",
+      "tag": "Bolsonaristas",
+      "views": 137560,
+      "likes": 26358,
+      "comments": 2908,
+      "published_at": "2025-08-23 20:04:00",
+      "views_per_hour": 27884.691295046217
+    },
+    {
+      "video_id": "lA2WzAQyTR0",
+      "title": "#estreladefamília #lula #noticias #sejacriador #eleições2022 #lulapresidente",
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "views": 324936,
+      "likes": 1272,
+      "comments": 9,
+      "published_at": "2025-08-23 13:11:11",
+      "views_per_hour": 27505.59614697838
+    },
+    {
+      "video_id": "a06pk8lEmm0",
+      "title": "Jeffrey Chiquini detalha investigação contra ministro do STF",
+      "channel_name": "Revista Oeste",
+      "tag": "Bolsonaristas",
+      "views": 870685,
+      "likes": 62439,
+      "comments": 3154,
+      "published_at": "2025-08-22 14:23:25",
+      "views_per_hour": 25157.35415493748
+    },
+    {
+      "video_id": "UJsN2oRm5To",
+      "title": "NICOLAS MADURO FAZ AMEAÇA AO DONALD TRUMP",
+      "channel_name": "MARCOS EDUARDO 🎙",
+      "tag": "Bolsonaristas",
+      "views": 285767,
+      "likes": 17030,
+      "comments": 1259,
+      "published_at": "2025-08-23 11:01:00",
+      "views_per_hour": 20436.49210463263
+    },
+    {
+      "video_id": "zlfBROtc_9U",
+      "title": "Só PTista pode comentar… 😅 só que não 🫣",
+      "channel_name": "Jeffrey Chiquini ",
+      "tag": "Bolsonaristas",
+      "views": 110511,
+      "likes": 23066,
+      "comments": 1937,
+      "published_at": "2025-08-23 19:33:48",
+      "views_per_hour": 20327.577641928714
+    },
+    {
+      "video_id": "Wdzr5t95INU",
+      "title": "Aumentam chances de Bolsonaro ser preso antes do julgamento; Malafaia em transe",
+      "channel_name": "DCM TV",
+      "tag": "Petistas",
+      "views": 36884,
+      "likes": 4242,
+      "comments": 8,
+      "published_at": "2025-08-23 23:09:14",
+      "views_per_hour": 19981.033524724742
+    },
+    {
+      "video_id": "RBUVlPk_Y1M",
+      "title": "MARGINAIS BOLSONARISTAS MANIPULAM FALA DE LULA SOBRE NEGROS E VIRALIZAM; XANDÃO ARROMBOU MENDONÇA",
+      "channel_name": "Desmascarando",
+      "tag": "Petistas",
+      "views": 114440,
+      "likes": 27206,
+      "comments": 1794,
+      "published_at": "2025-08-23 18:56:27",
+      "views_per_hour": 18887.58618094584
+    },
+    {
+      "video_id": "1te8IHS5o60",
+      "title": "BOLSONARISTAS EM ALERTA! PF EM PRONTIDÃO! ADVS: SÓ MILAGRE! MORAES DESTROÇA MENDONÇA! DO VAL PIORA!",
+      "channel_name": "Portal do José",
+      "tag": "Petistas",
+      "views": 186340,
+      "likes": 44287,
+      "comments": 2652,
+      "published_at": "2025-08-23 14:47:06",
+      "views_per_hour": 18242.088003189867
+    },
+    {
+      "video_id": "VR6FmEk0ShM",
+      "title": "O duro peso da realidade...",
+      "channel_name": "Nando Moura",
+      "tag": "sem_tag",
+      "views": 180466,
+      "likes": 27556,
+      "comments": 2018,
+      "published_at": "2025-08-23 15:00:52",
+      "views_per_hour": 18072.995611201866
+    },
+    {
+      "video_id": "sjyjvktt2TQ",
+      "title": "GONET DENUNCIA e XANDÃO pede EXTRADIÇÃO de EDUARDO TAGLIAFERRO por \"TENTATIVA de GOLPE\"",
+      "channel_name": "ANCAPSU",
+      "tag": "Ancap",
+      "views": 46157,
+      "likes": 14243,
+      "comments": 451,
+      "published_at": "2025-08-23 22:21:31",
+      "views_per_hour": 17475.581098454997
+    },
+    {
+      "video_id": "OdkZ_gcAktc",
+      "title": "OLHA ONDE O LULA FOI SE ENFIAR",
+      "channel_name": "MARCOS EDUARDO 🎙",
+      "tag": "Bolsonaristas",
+      "views": 409320,
+      "likes": 20957,
+      "comments": 1130,
+      "published_at": "2025-08-23 01:00:20",
+      "views_per_hour": 17059.062979427643
+    },
+    {
+      "video_id": "PdESBKbv-t4",
+      "title": "PEDIDA PRISÃO PREVENTIVA DE BOLSONARO POR TENTATIVA DE FUGA E POR DESOBEDECER RESTRIÇÕES IMPOSTAS!",
+      "channel_name": "Plantão Brasil (Thiago dos Reis)",
+      "tag": "Petistas",
+      "views": 46567,
+      "likes": 15137,
+      "comments": 1033,
+      "published_at": "2025-08-23 22:00:32",
+      "views_per_hour": 15569.297856240588
+    },
+    {
+      "video_id": "Go2b1olpsN4",
+      "title": "MORAES E MENDONÇA DISCURSAM NO LIDE/ TRUMP AMEÇA INTERVENÇÃO EM CHICAGO | JORNAL DA MANHÃ - 23/08/25",
+      "channel_name": "Jovem Pan News",
+      "tag": "Bolsonaristas",
+      "views": 169588,
+      "likes": 2782,
+      "comments": 22,
+      "published_at": "2025-08-23 13:10:28",
+      "views_per_hour": 14341.00087235635
+    },
+    {
+      "video_id": "sou1FtvsUoo",
+      "title": "MAIS UMA FALA RACISTA do LULA que NÃO TEM DEFESA, mas a IMPRENSA VAI PASSAR PANO",
+      "channel_name": "ANCAPSU",
+      "tag": "Ancap",
+      "views": 24891,
+      "likes": 7804,
+      "comments": 349,
+      "published_at": "2025-08-23 23:15:02",
+      "views_per_hour": 14229.25125282807
+    },
+    {
+      "video_id": "VTMMle9KEOA",
+      "title": "OESTE SEM FILTRO - MORAES INFLAMA ATOS DE 7 DE SETEMBRO - 21/08/2025",
+      "channel_name": "Revista Oeste",
+      "tag": "Bolsonaristas",
+      "views": 651347,
+      "likes": 83849,
+      "comments": 28,
+      "published_at": "2025-08-22 01:22:00",
+      "views_per_hour": 13674.230834980606
+    },
+    {
+      "video_id": "3Ebq4niHPP8",
+      "title": "Magnitsky: Banco do Brasil bloqueia cartão internacional de Moraes e oferece bandeira Elo",
+      "channel_name": "Revista Oeste",
+      "tag": "Bolsonaristas",
+      "views": 415271,
+      "likes": 22371,
+      "comments": 1433,
+      "published_at": "2025-08-22 18:00:05",
+      "views_per_hour": 13396.50829690147
+    },
+    {
+      "video_id": "37ys6J59pyI",
+      "title": "Jeffrey Chiquini opina sobre STF, Bolsonaro e eleições 2026",
+      "channel_name": "Revista Oeste",
+      "tag": "Bolsonaristas",
+      "views": 169940,
+      "likes": 11293,
+      "comments": 519,
+      "published_at": "2025-08-23 12:01:44",
+      "views_per_hour": 13101.584134383584
+    },
+    {
+      "video_id": "OSmdg-GfMyc",
+      "title": "MORAES REBATE DECLARAÇÕES DE MENDONÇA SOBRE JUDICIÁRIO | JORNAL JOVEM PAN -  23/08/2025",
+      "channel_name": "Jovem Pan News",
+      "tag": "Bolsonaristas",
+      "views": 10631,
+      "likes": 435,
+      "comments": 0,
+      "published_at": "2025-08-24 00:09:25",
+      "views_per_hour": 12612.484336964048
+    },
+    {
+      "video_id": "TfBzvSxirkw",
+      "title": "🚨 PORQUE O FIM DE MADURO ESTÁ PRÓXIMO? #shorts",
+      "channel_name": "Márcio Couth / Show Político",
+      "tag": "Bolsonaristas",
+      "views": 153423,
+      "likes": 24764,
+      "comments": 486,
+      "published_at": "2025-08-23 12:39:26",
+      "views_per_hour": 12430.34578896016
+    },
+    {
+      "video_id": "5O8xeTCUl9s",
+      "title": "ADVOGADO DE TRUMP VAI AGIR CONTRA PF E MORAES? SITUAÇÃO DE MALAFAIA PREOCUPA ALIADOS, BOLSONARO",
+      "channel_name": "CLEITON BASSO Notícias, Reflexões e Evangelismo",
+      "tag": "Bolsonaristas",
+      "views": 131384,
+      "likes": 19097,
+      "comments": 773,
+      "published_at": "2025-08-23 14:25:06",
+      "views_per_hour": 12416.379924692794
+    },
+    {
+      "video_id": "qA66G16n5q8",
+      "title": "GMM despeja esquerdistas invasores..",
+      "channel_name": "Conectado",
+      "tag": "Bolsonaristas",
+      "views": 42560,
+      "likes": 6653,
+      "comments": 375,
+      "published_at": "2025-08-23 21:30:06",
+      "views_per_hour": 12166.35159206432
+    },
+    {
+      "video_id": "KaSbNqaXBTI",
+      "title": "#estreladefamília #eleições2022 #noticias #lula #lulapresidente #sejacriador",
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "views": 428614,
+      "likes": 2773,
+      "comments": 25,
+      "published_at": "2025-08-22 13:03:34",
+      "views_per_hour": 11925.689742258923
+    },
+    {
+      "video_id": "qv0KECB8ovQ",
+      "title": "#estreladefamília #eleições2022 #noticias #lula #lulapresidente #sejacriador",
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "views": 413260,
+      "likes": 3398,
+      "comments": 25,
+      "published_at": "2025-08-22 13:06:20",
+      "views_per_hour": 11513.253791157964
+    },
+    {
+      "video_id": "uqcboMu2ysM",
+      "title": "FULMINANTE: MORAES SURPREENDE DESTRÓI BOLSONARO E TRITURA TRUMP COM DISCURSO ACACHAPANTE!",
+      "channel_name": "Ricardo Mello",
+      "tag": "Bolsonaristas",
+      "views": 239932,
+      "likes": 30231,
+      "comments": 3986,
+      "published_at": "2025-08-23 04:07:41",
+      "views_per_hour": 11495.519559978004
+    },
+    {
+      "video_id": "8q6jC-GpM08",
+      "title": "🔴 AGORA: Trump chama imprensa para “anúncio” | Cobertura especial | Tradução simultanea",
+      "channel_name": "Epoch Times Brasil",
+      "tag": "Bolsonaristas",
+      "views": 348725,
+      "likes": 21350,
+      "comments": 145,
+      "published_at": "2025-08-22 18:22:53",
+      "views_per_hour": 11389.374500279167
+    },
+    {
+      "video_id": "w9TXF2zA-KI",
+      "title": "Bolsonaro saindo do avião e encontrando com Nikolas Ferreira anos atrás",
+      "channel_name": "Renato Vicente Junior",
+      "tag": "Bolsonaristas",
+      "views": 158932,
+      "likes": 6014,
+      "comments": 233,
+      "published_at": "2025-08-23 10:36:51",
+      "views_per_hour": 11047.936541633304
+    },
+    {
+      "video_id": "uRLRD81CF6s",
+      "title": "TRETAS VAZADAS, GOVERNADORES RATOS, MALAFAIA INVESTIGADO E OS PIORES VÍDEOS DA SEMANA | Galãs Feios",
+      "channel_name": "Galãs Feios",
+      "tag": "Petistas",
+      "views": 76041,
+      "likes": 13836,
+      "comments": 607,
+      "published_at": "2025-08-23 18:00:50",
+      "views_per_hour": 10884.846583837318
+    },
+    {
+      "video_id": "E_2sdzdK4bo",
+      "title": "A Magnitsky COMEÇA a Se Fazer VALER + Jair: Nem a GLOBO Achou o CRIME + E Se Fosse um Zé Ninguém?",
+      "channel_name": "KiM PAiM",
+      "tag": "Bolsonaristas",
+      "views": 147335,
+      "likes": 34051,
+      "comments": 2246,
+      "published_at": "2025-08-23 11:21:58",
+      "views_per_hour": 10806.655110260197
+    },
+    {
+      "video_id": "77WLjiR8_4w",
+      "title": "TENTE NÃO RIR: Xandão perde até o cartão Elo, vira meme e leva mais uma bronca dos EUA!",
+      "channel_name": "oiluiz TV",
+      "tag": "Bolsonaristas",
+      "views": 335388,
+      "likes": 77728,
+      "comments": 3526,
+      "published_at": "2025-08-22 17:36:26",
+      "views_per_hour": 10683.658440749454
+    },
+    {
+      "video_id": "ALLPq4XJk18",
+      "title": "STF está dividido após Dino tentar blindar Moraes de sanções? Bancada debate tensão no Judiciário",
+      "channel_name": "Os Pingos nos Is",
+      "tag": "Bolsonaristas",
+      "views": 37268,
+      "likes": 2806,
+      "comments": 116,
+      "published_at": "2025-08-23 21:30:01",
+      "views_per_hour": 10649.333711244308
+    },
+    {
+      "video_id": "iLSosnuluv4",
+      "title": "#estreladefamília #lula #sejacriador #eleições2022 #noticias #lulapresidente",
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "views": 241772,
+      "likes": 2646,
+      "comments": 21,
+      "published_at": "2025-08-23 02:09:50",
+      "views_per_hour": 10587.341192345504
+    },
+    {
+      "video_id": "HN3ZKPx0L2g",
+      "title": "TRUMP RECUA DE NOVO E PASSA HUMlLHAÇÃO MUNDIAL! LULA PISA NOS EUA E ANUNCIA MEGA-INVESTIMENTO CHINÊS",
+      "channel_name": "Plantão Brasil (Thiago dos Reis)",
+      "tag": "Petistas",
+      "views": 154722,
+      "likes": 31004,
+      "comments": 1129,
+      "published_at": "2025-08-23 10:15:02",
+      "views_per_hour": 10490.136414805464
+    },
+    {
+      "video_id": "1YxHE_aCQB4",
+      "title": "PAULO FIGUEIREDO AVISOU: NÃO IA ADIANTAR ALEXANDRE FAZER O \"ELO\"!",
+      "channel_name": "Paulo Figueiredo Show",
+      "tag": "Bolsonaristas",
+      "views": 113642,
+      "likes": 13565,
+      "comments": 415,
+      "published_at": "2025-08-23 13:45:00",
+      "views_per_hour": 10101.655275255791
+    },
+    {
+      "video_id": "NSlLVDeNRCY",
+      "title": "URGENTE! LULA PASSA MAL AO TENTAR HUMILHAR BOLSONARO COM TORNOZELEIRA ELETRÔNICA - ALEXANDRE GARCIA",
+      "channel_name": "BRASIL REPÚBLICA",
+      "tag": "Bolsonaristas",
+      "views": 118302,
+      "likes": 8894,
+      "comments": 710,
+      "published_at": "2025-08-23 13:13:59",
+      "views_per_hour": 10053.894171481108
+    },
+    {
+      "video_id": "ZpKvWJjH2qQ",
+      "title": "PADILHA disse que ESTADOS UNIDOS NÃO PODE IMPEDIR a IDA dele a ONU e VERDADE NÃO é BEM ESSA",
+      "channel_name": "ANCAPSU",
+      "tag": "Ancap",
+      "views": 5248,
+      "likes": 1264,
+      "comments": 41,
+      "published_at": "2025-08-24 00:27:40",
+      "views_per_hour": 9741.459108396893
+    },
+    {
+      "video_id": "WDVTL-hXjzs",
+      "title": "GLOBO TRISTE - Jornalistas de GLOBO em clime de funeral porque a CPMI vai investigar o PT",
+      "channel_name": "Gustavo Gayer Deputado Federal",
+      "tag": "Bolsonaristas",
+      "views": 349651,
+      "likes": 59779,
+      "comments": 5587,
+      "published_at": "2025-08-22 12:53:24",
+      "views_per_hour": 9682.984067287076
+    },
+    {
+      "video_id": "rVAyGwLKGVE",
+      "title": "Trump parou no meio do jardim para cumprimentar os funcionários",
+      "channel_name": "Renato Vicente Junior",
+      "tag": "Bolsonaristas",
+      "views": 104864,
+      "likes": 3680,
+      "comments": 101,
+      "published_at": "2025-08-23 13:46:38",
+      "views_per_hour": 9343.987946651294
+    },
+    {
+      "video_id": "bom0YHeZxyY",
+      "title": "Frota militar dos EUA em direção à Venezuela aumenta tensão com Maduro; especialista analisa",
+      "channel_name": "Jovem Pan News",
+      "tag": "Bolsonaristas",
+      "views": 122311,
+      "likes": 3940,
+      "comments": 597,
+      "published_at": "2025-08-23 11:50:18",
+      "views_per_hour": 9293.085382648003
+    },
+    {
+      "video_id": "9xXkQYdwE2g",
+      "title": "Ministro entrega Lula ao publicar vídeo com flagrante de detalhe nos pés do presidente",
+      "channel_name": "Paulo Baltokoski",
+      "tag": "Bolsonaristas",
+      "views": 276521,
+      "likes": 27682,
+      "comments": 2096,
+      "published_at": "2025-08-22 18:25:59",
+      "views_per_hour": 9046.453856380533
+    },
+    {
+      "video_id": "jRhbjpS4hJE",
+      "title": "🟥🤯 Em resposta ao STF, defesa de Bolsonaro critica PF e fala em perseguição",
+      "channel_name": "Washington Lisboa | Notícias de Agora",
+      "tag": "Bolsonaristas",
+      "views": 89661,
+      "likes": 599,
+      "comments": 7,
+      "published_at": "2025-08-23 14:59:11",
+      "views_per_hour": 8954.056293548689
+    },
+    {
+      "video_id": "WdUKCV7_gKk",
+      "title": "LULA IMPEDE INVESTIDA MILITAR DE TRUMP NA AMÉRICA LATINA EM \"JOGO DE XADREZ\"  COM JOGADA GENIAL!",
+      "channel_name": "Plantão Brasil (Thiago dos Reis)",
+      "tag": "Petistas",
+      "views": 8851,
+      "likes": 2284,
+      "comments": 99,
+      "published_at": "2025-08-24 00:00:37",
+      "views_per_hour": 8944.364263358908
+    },
+    {
+      "video_id": "t1FeR9f54zI",
+      "title": "EU DESPREZO VOCÊS🚨Paulo Figueiredo manda recado duro a Alexandre de Moraes e Polícia Federal",
+      "channel_name": "Paulo Figueiredo Show",
+      "tag": "Bolsonaristas",
+      "views": 17596,
+      "likes": 6776,
+      "comments": 177,
+      "published_at": "2025-08-23 23:00:51",
+      "views_per_hour": 8861.48022410117
+    },
+    {
+      "video_id": "JsVbn17e3pk",
+      "title": "🚨 ALLAN DOS SANTOS: MORAES QUER ABAFAR ISSO AQUI! #shorts",
+      "channel_name": "Márcio Couth / Show Político",
+      "tag": "Bolsonaristas",
+      "views": 319723,
+      "likes": 29033,
+      "comments": 727,
+      "published_at": "2025-08-22 12:54:23",
+      "views_per_hour": 8858.199897629067
+    },
+    {
+      "video_id": "Al0jVd9U7y4",
+      "title": "🚨É a denúncia mais grave que já fiz‼️",
+      "channel_name": "Jeffrey Chiquini ",
+      "tag": "Bolsonaristas",
+      "views": 284692,
+      "likes": 45849,
+      "comments": 2614,
+      "published_at": "2025-08-22 15:28:43",
+      "views_per_hour": 8492.886870018825
+    },
+    {
+      "video_id": "eg3_ryQbD2Y",
+      "title": "Barroso está com \"medinho\" após visto revogado - Cristina Graeml / CAFÉ COM A GAZETA DO POVO",
+      "channel_name": "Gazeta do Povo",
+      "tag": "Bolsonaristas",
+      "views": 100321,
+      "likes": 13149,
+      "comments": 356,
+      "published_at": "2025-08-23 13:01:18",
+      "views_per_hour": 8375.317494700435
+    },
+    {
+      "video_id": "UkBOMXt9fZA",
+      "title": "Os demagogos que usam o povo para dominar - Alexandre Garcia",
+      "channel_name": "Alexandre Garcia",
+      "tag": "Bolsonaristas",
+      "views": 52974,
+      "likes": 15577,
+      "comments": 550,
+      "published_at": "2025-08-23 18:32:17",
+      "views_per_hour": 8198.045757084945
+    },
+    {
+      "video_id": "8ygU8LhbJKs",
+      "title": "VAZA DECISÇÃO DE MORAES - VAI MANDAR PRENDER?",
+      "channel_name": "Dr. Marcelo Suave- Advogado",
+      "tag": "Bolsonaristas",
+      "views": 88720,
+      "likes": 16571,
+      "comments": 1593,
+      "published_at": "2025-08-23 14:07:46",
+      "views_per_hour": 8161.616938596808
+    },
+    {
+      "video_id": "sEoc84VkAqA",
+      "title": "BARROSO ACABA DE ANUNCIAR ANISTIA PARA BOLSONARO E TODOS",
+      "channel_name": "Dr. Marcelo Suave- Advogado",
+      "tag": "Bolsonaristas",
+      "views": 280163,
+      "likes": 41642,
+      "comments": 3095,
+      "published_at": "2025-08-22 14:40:20",
+      "views_per_hour": 8161.446167374318
+    },
+    {
+      "video_id": "a6A5nuWm-R0",
+      "title": "APÓS ESQUERDA PERDER ELEIÇÃO, SUPREMA CORTE da BOLÍVIA SOLTA TODOS os PRESOS POLÍTICOS da DIREITA",
+      "channel_name": "ANCAPSU",
+      "tag": "Ancap",
+      "views": 208598,
+      "likes": 30325,
+      "comments": 619,
+      "published_at": "2025-08-22 23:15:00",
+      "views_per_hour": 8100.943714852062
+    },
+    {
+      "video_id": "nZEzJH7C8XU",
+      "title": "#sejacriador #estreladefamília #noticias #eleições2022 #lula #lulapresidente",
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "views": 179842,
+      "likes": 741,
+      "comments": 1,
+      "published_at": "2025-08-23 02:08:26",
+      "views_per_hour": 7867.35056488172
+    },
+    {
+      "video_id": "E6HCVMAzfSg",
+      "title": "PEDIDA PRlSÃO DE MALAFAIA! MERVAL DEFENDE BOLSONARO E É HUMlLHADO AO VIVO POR MIRIAM LEITÃO NA GLOBO",
+      "channel_name": "Plantão Brasil (Thiago dos Reis)",
+      "tag": "Petistas",
+      "views": 211373,
+      "likes": 34559,
+      "comments": 1428,
+      "published_at": "2025-08-22 22:00:27",
+      "views_per_hour": 7830.8514326113
+    },
+    {
+      "video_id": "4WnAF0TCZAY",
+      "title": "#estreladefamília #lula #sejacriador #eleições2022 #noticias #sejacriador #lulapresidente",
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "views": 239012,
+      "likes": 943,
+      "comments": 9,
+      "published_at": "2025-08-22 17:02:13",
+      "views_per_hour": 7477.79573906376
+    },
+    {
+      "video_id": "mVCzqrKd0MY",
+      "title": "PRISÃO DE BOLSONARO: PRAZO ATÉ 20H34 FAZ MULTIDÃO DE JORNALISTAS TOMAREM A PORTA DO CONDOMÍNIO",
+      "channel_name": "Desmascarando",
+      "tag": "Petistas",
+      "views": 215389,
+      "likes": 36358,
+      "comments": 1427,
+      "published_at": "2025-08-22 20:08:01",
+      "views_per_hour": 7461.626006657015
+    },
+    {
+      "video_id": "RlNrPzSuVX4",
+      "title": "DZ6 & XANDE ABRÃO & ROBERTO MOTTA | PÂNICO - 22/08/2025",
+      "channel_name": "Pânico Jovem Pan",
+      "tag": "Bolsonaristas",
+      "views": 236392,
+      "likes": 11149,
+      "comments": 120,
+      "published_at": "2025-08-22 17:15:06",
+      "views_per_hour": 7445.845834214729
+    },
+    {
+      "video_id": "O89bBsVLZg4",
+      "title": "| Análise da Semana #259",
+      "channel_name": "PHVox Geopolítica Descomplicada",
+      "tag": "Bolsonaristas",
+      "views": 74819,
+      "likes": 12110,
+      "comments": 77,
+      "published_at": "2025-08-23 14:56:43",
+      "views_per_hour": 7441.299029152917
+    },
+    {
+      "video_id": "gI9YhjYyxso",
+      "title": "#estreladefamília #lula #sejacriador #eleições2022 #noticias #lulapresidente",
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "views": 244041,
+      "likes": 1219,
+      "comments": 5,
+      "published_at": "2025-08-22 16:06:26",
+      "views_per_hour": 7419.324474116848
+    },
+    {
+      "video_id": "XplPVrz7lh0",
+      "title": "BARROSO ACABA DE ANUNCIAR ANISTIA PARA BOLSONARO E TODOS",
+      "channel_name": "Economia News",
+      "tag": "Bolsonaristas",
+      "views": 160716,
+      "likes": 8964,
+      "comments": 611,
+      "published_at": "2025-08-23 03:00:16",
+      "views_per_hour": 7306.802173478484
+    },
+    {
+      "video_id": "9zOj593cbL0",
+      "title": "🔥Flavio Dino foi ao congresso e faz bolsonarista passar uma das maiores vergonhas na história🔥",
+      "channel_name": "Mídia NINJA",
+      "tag": "Petistas",
+      "views": 78621,
+      "likes": 6255,
+      "comments": 489,
+      "published_at": "2025-08-23 14:13:28",
+      "views_per_hour": 7296.345056324392
+    },
+    {
+      "video_id": "alx97AnUn4Y",
+      "title": "Após Washington, Trump sinaliza que pode intervir na segurança de outras cidades #shorts",
+      "channel_name": "Jovem Pan News",
+      "tag": "Bolsonaristas",
+      "views": 101879,
+      "likes": 7481,
+      "comments": 311,
+      "published_at": "2025-08-23 11:01:11",
+      "views_per_hour": 7287.421011317331
+    },
+    {
+      "video_id": "5V60Bv3rIxQ",
+      "title": "OTONI DE PAULA DIZ QUE SONHO DE MALAFAIA É SER PRESO #shorts",
+      "channel_name": "Galãs Feios",
+      "tag": "Petistas",
+      "views": 176546,
+      "likes": 14492,
+      "comments": 537,
+      "published_at": "2025-08-23 00:40:12",
+      "views_per_hour": 7256.356968338358
+    },
+    {
+      "video_id": "56bh1jPJesk",
+      "title": "LIVE 2023: A FRATURA EXPOSTA DA SUPREMA CORTE, BRIGAS, DESCONFIANÇAS E TRAIÇÕES PARA TODO LADO",
+      "channel_name": "DIDI RED PILL",
+      "tag": "Bolsonaristas",
+      "views": 75628,
+      "likes": 16924,
+      "comments": 51,
+      "published_at": "2025-08-23 14:34:36",
+      "views_per_hour": 7255.756155521478
+    },
+    {
+      "video_id": "Cp5LLkbPOO4",
+      "title": "Delegado que indiciou Bolsonaro já trabalhou para deputado do PT",
+      "channel_name": "MARCOS EDUARDO 🎙",
+      "tag": "Bolsonaristas",
+      "views": 79711,
+      "likes": 4965,
+      "comments": 87,
+      "published_at": "2025-08-23 14:00:25",
+      "views_per_hour": 7251.138121695814
+    },
+    {
+      "video_id": "p0b7ioC4qGo",
+      "title": "BOLSONARO QUEBRA MEDIDAS CAUTELARES!",
+      "channel_name": "Andréa Gonçalves",
+      "tag": "Petistas",
+      "views": 97665,
+      "likes": 12535,
+      "comments": 1021,
+      "published_at": "2025-08-23 11:30:06",
+      "views_per_hour": 7235.423757101111
+    },
+    {
+      "video_id": "Vy-mAHkkY1Y",
+      "title": "Cruzeiro x Internacional - AO VIVO - 23/08/2025 - Brasileirão",
+      "channel_name": "Jovem Pan News",
+      "tag": "Bolsonaristas",
+      "views": 9898,
+      "likes": 199,
+      "comments": 0,
+      "published_at": "2025-08-23 23:37:39",
+      "views_per_hour": 7212.501271566576
+    },
+    {
+      "video_id": "FeiGGTQupBc",
+      "title": "#sejacriador #lula #estreladefamília #noticias #eleições2022 #lulapresidente",
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "views": 11258,
+      "likes": 122,
+      "comments": 1,
+      "published_at": "2025-08-23 23:24:42",
+      "views_per_hour": 7088.649374985757
+    },
+    {
+      "video_id": "0dP03j2as1c",
+      "title": "BOLSONARO CORRUPTO: A VERDADE ESCANCARADA",
+      "channel_name": "Ronny Teles",
+      "tag": "Petistas",
+      "views": 76965,
+      "likes": 9312,
+      "comments": 368,
+      "published_at": "2025-08-23 14:07:56",
+      "views_per_hour": 7082.049215036685
+    },
+    {
+      "video_id": "fyjbMdQrytw",
+      "title": "GOIÁS X AMÉRICA AO VIVO NA ITATIAIA | REACT DA SÉRIE B DO BRASILEIRÃO",
+      "channel_name": "Itatiaia",
+      "tag": "Bolsonaristas",
+      "views": 8858,
+      "likes": 192,
+      "comments": 3,
+      "published_at": "2025-08-23 23:44:22",
+      "views_per_hour": 7027.955554391028
+    },
+    {
+      "video_id": "nf4ZubI4IVU",
+      "title": "Filmes infantis pesados para adultos! #anos80 #anos90 #depressão #filmeinfantil #fantasia #luto",
+      "channel_name": "Quadrinhos na Sarjeta",
+      "tag": "Petistas",
+      "views": 71852,
+      "likes": 15104,
+      "comments": 136,
+      "published_at": "2025-08-23 14:30:38",
+      "views_per_hour": 6850.038642407916
+    },
+    {
+      "video_id": "0Ev70Qun58U",
+      "title": "DESDOBRAMENTOS 22/08/2025 @CortesPastorSandroRocha",
+      "channel_name": "PASTOR SANDRO ROCHA",
+      "tag": "Bolsonaristas",
+      "views": 206922,
+      "likes": 42835,
+      "comments": 0,
+      "published_at": "2025-08-22 18:23:19",
+      "views_per_hour": 6759.6764749681515
+    },
+    {
+      "video_id": "og5bzeHMOT0",
+      "title": "CRUZEIRO X INTERNACIONAL AO VIVO NA ITATIAIA | REACT DO BRASILEIRÃO 2025",
+      "channel_name": "Itatiaia",
+      "tag": "Bolsonaristas",
+      "views": 41639,
+      "likes": 1428,
+      "comments": 0,
+      "published_at": "2025-08-23 18:44:57",
+      "views_per_hour": 6661.522929661867
+    },
+    {
+      "video_id": "gaqAnGUDYpg",
+      "title": "POR FAVOR, ALEXANDRE DE MORAES! Devolva meu passaporte e meus cadernos com anotações bíblicas",
+      "channel_name": "Silas Malafaia Oficial",
+      "tag": "Bolsonaristas",
+      "views": 196440,
+      "likes": 23421,
+      "comments": 2423,
+      "published_at": "2025-08-22 18:55:51",
+      "views_per_hour": 6532.972832427123
+    },
+    {
+      "video_id": "N7e-8Z0XFq8",
+      "title": "🔴 NOVA BOMBA! Moraes sentiu o golpe e pode cair a qualquer momento! ✅",
+      "channel_name": "VIDA GRINGA USA",
+      "tag": "Bolsonaristas",
+      "views": 102605,
+      "likes": 20724,
+      "comments": 1367,
+      "published_at": "2025-08-23 09:00:17",
+      "views_per_hour": 6414.770117546611
+    },
+    {
+      "video_id": "Djj09Nob7Kw",
+      "title": "Cerco Militar dos EUA à Venezuela; Colômbia e Brasil Vão Intervir? Um Inquérito Muito Louco",
+      "channel_name": "Claudio Dantas",
+      "tag": "Bolsonaristas",
+      "views": 221442,
+      "likes": 16971,
+      "comments": 82,
+      "published_at": "2025-08-22 14:16:58",
+      "views_per_hour": 6378.477595176966
+    },
+    {
+      "video_id": "G9jBJhox32c",
+      "title": "Deputado MARCEL Van Hatten faz DENÚNCIA Gravíssima sobre Moraes e André Mendonça no STF",
+      "channel_name": "Paralelo News",
+      "tag": "Bolsonaristas",
+      "views": 199813,
+      "likes": 15761,
+      "comments": 897,
+      "published_at": "2025-08-22T17:11:00Z",
+      "views_per_hour": 6280.1678893260505
+    },
+    {
+      "video_id": "Jzoag9GKl3E",
+      "title": "Facções dominam 61 milhões de brasileiros… E quem comanda o crime? | Conversa Timeline - 22/08/25",
+      "channel_name": "Conversa Timeline ",
+      "tag": "Bolsonaristas",
+      "views": 189074,
+      "likes": 38562,
+      "comments": 264,
+      "published_at": "2025-08-22 18:39:51",
+      "views_per_hour": 6232.728094272675
+    },
+    {
+      "video_id": "KXpRzcfl3Jg",
+      "title": "URGENTE! DEFESA de BOLSONARO apresenta JUSTIFICATIVA SOBRE FUGA e vira PIADA MUNDIAL!",
+      "channel_name": "Clayson",
+      "tag": "Petistas",
+      "views": 73692,
+      "likes": 13222,
+      "comments": 791,
+      "published_at": "2025-08-23 13:07:00",
+      "views_per_hour": 6201.37410990286
+    },
+    {
+      "video_id": "R14XXxAuK5c",
+      "title": "✅💥POR ESSA ELES NÃO ESPERAVAM! ACABAM DE SER DIVULGADAS CONVERSAS DE MORAES E GILMAR É INACREDITÁVEL",
+      "channel_name": "Expresso Notícia Nacional",
+      "tag": "Bolsonaristas",
+      "views": 13314,
+      "likes": 4122,
+      "comments": 122,
+      "published_at": "2025-08-23 22:49:30",
+      "views_per_hour": 6121.831226084215
+    },
+    {
+      "video_id": "4nJ2tBdfRhE",
+      "title": "Resposta de Bolsonaro \"Arrecadei mais dinheiro do que o Criança Esperança\".",
+      "channel_name": "Jornal Matilha News",
+      "tag": "Bolsonaristas",
+      "views": 65165,
+      "likes": 2890,
+      "comments": 47,
+      "published_at": "2025-08-23 14:09:44",
+      "views_per_hour": 6012.853069214933
+    },
+    {
+      "video_id": "VgoqT4RrtZU",
+      "title": "🚨 URGENTE! MORAES ENTREGA GILMAR E JOGA BOMBA NO SUPREMO? – PRESSÃO EXPLOSIVA NA CORTE!",
+      "channel_name": "NARRAPODER",
+      "tag": "Bolsonaristas",
+      "views": 168442,
+      "likes": 11047,
+      "comments": 156,
+      "published_at": "2025-08-22 20:35:42",
+      "views_per_hour": 5930.045839710577
+    },
+    {
+      "video_id": "LXTYVWvGFTs",
+      "title": "ASSUSTADOR! Estudo revela que o Brasil já um NARCOESTADO. Obrigado PT e STF",
+      "channel_name": "Gustavo Gayer Deputado Federal",
+      "tag": "Bolsonaristas",
+      "views": 154756,
+      "likes": 23812,
+      "comments": 992,
+      "published_at": "2025-08-22 22:47:56",
+      "views_per_hour": 5906.503264916636
+    },
+    {
+      "video_id": "y-OPlojwe5k",
+      "title": "#sejacriador #estreladefamília #noticias #eleições2022 #lula #lulapresidente",
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "views": 13658,
+      "likes": 313,
+      "comments": 3,
+      "published_at": "2025-08-23 22:39:47",
+      "views_per_hour": 5844.785245358696
+    },
+    {
+      "video_id": "_8H6oJ9l4oY",
+      "title": "#sejacriador #lula #estreladefamília #eleições2022 #noticias #lulapresidente",
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "views": 13488,
+      "likes": 210,
+      "comments": 5,
+      "published_at": "2025-08-23 22:41:10",
+      "views_per_hour": 5829.552151265523
+    },
+    {
+      "video_id": "BUt0D7PvQzA",
+      "title": "FORÇAS DOS EUA PODERÁ FAZER ATAQUES NO BRASIL E LULA JÁ ENTRA EM DESESPERO.",
+      "channel_name": "Cabo Elson",
+      "tag": "Bolsonaristas",
+      "views": 20425,
+      "likes": 5495,
+      "comments": 371,
+      "published_at": "2025-08-23 21:27:45",
+      "views_per_hour": 5774.113650920621
+    },
+    {
+      "video_id": "fYHCwZo0_sI",
+      "title": "BRENO ALTMAN vs GUSTAVO MACHADO - STALIN vs TROTSKY - PODCAST 3 IRMÃOS #809",
+      "channel_name": "Podcast 3 irmãos",
+      "tag": "Comunistas",
+      "views": 124648,
+      "likes": 14611,
+      "comments": 2322,
+      "published_at": "2025-08-23 03:16:59",
+      "views_per_hour": 5739.708080984881
+    },
+    {
+      "video_id": "SiTkFkAdUQs",
+      "title": "EDUARDO SURTA POR MIRIAM LEITÃO CRITICÁ-LO POR TER XINGADO O PAI |  Galãs Feios",
+      "channel_name": "Galãs Feios",
+      "tag": "Petistas",
+      "views": 143689,
+      "likes": 23204,
+      "comments": 1780,
+      "published_at": "2025-08-22 23:50:50",
+      "views_per_hour": 5712.685830828209
+    },
+    {
+      "video_id": "7Prl-BRS4Yw",
+      "title": "#sejacriador #lula #estreladefamília #eleições2022 #noticias #lulapresidente",
+      "channel_name": "poly_noticias1343",
+      "tag": "Petistas",
+      "views": 9340,
+      "likes": 84,
+      "comments": 1,
+      "published_at": "2025-08-23 23:21:19",
+      "views_per_hour": 5679.324884827664
+    },
+    {
+      "video_id": "uGyvYSHprBE",
+      "title": "PUDIM",
+      "channel_name": "Nando Moura",
+      "tag": "sem_tag",
+      "views": 190921,
+      "likes": 34534,
+      "comments": 3611,
+      "published_at": "2025-08-22 15:01:39",
+      "views_per_hour": 5619.89557105867
+    },
+    {
+      "video_id": "SVZnCcABsz4",
+      "title": "CLEITINHO PARABENIZA RATINHO JÚNIOR POR REDUÇÃO DE IPVA NO PARANÁ",
+      "channel_name": "Itatiaia",
+      "tag": "Bolsonaristas",
+      "views": 46968,
+      "likes": 3005,
+      "comments": 152,
+      "published_at": "2025-08-23 16:30:18",
+      "views_per_hour": 5529.00384814149
+    },
+    {
+      "video_id": "JsH6vsP2C2w",
+      "title": "Bom dia 247: o cerco ao anticristo Malafaia (23.8.25)",
+      "channel_name": "TV 247",
+      "tag": "Petistas",
+      "views": 57410,
+      "likes": 10307,
+      "comments": 369,
+      "published_at": "2025-08-23 14:35:27",
+      "views_per_hour": 5515.416108459945
+    },
+    {
+      "video_id": "ITAXajjlimU",
+      "title": "🚨 ALLAN DOS SANTOS REVELA QUE MÍRIAM LEITÃO TENTA DEFENDER MORAES E GAGUEJA AO VIVO NA GLOBO",
+      "channel_name": "Márcio Couth / Show Político",
+      "tag": "Bolsonaristas",
+      "views": 168687,
+      "likes": 13552,
+      "comments": 410,
+      "published_at": "2025-08-22 18:15:09",
+      "views_per_hour": 5486.230778978342
+    },
+    {
+      "video_id": "SG1LEb7GRf0",
+      "title": "ASILO NA ARGENTINA E DESCUMPRIMENTO DE MEDIDAS: PRAZO DE DEFESA DE JAIR BOLSONARO CHEGA AO FIM",
+      "channel_name": "Itatiaia",
+      "tag": "Bolsonaristas",
+      "views": 206941,
+      "likes": 3004,
+      "comments": 1620,
+      "published_at": "2025-08-22 11:00:56",
+      "views_per_hour": 5448.069011809042
+    },
+    {
+      "video_id": "xNpBxNKQ0RU",
+      "title": "MENDONÇA EM RISCO! VAI ACONTECER COM ELE TBM",
+      "channel_name": "Dr. Marcelo Suave- Advogado",
+      "tag": "Bolsonaristas",
+      "views": 123406,
+      "likes": 11521,
+      "comments": 1261,
+      "published_at": "2025-08-23 02:20:39",
+      "views_per_hour": 5447.024294204768
+    },
+    {
+      "video_id": "vvVSjXiYeno",
+      "title": "DESTROÇADO! CLÃ BOLSONARO EXPOSTO! LADRÃO DE JOIAS E OS 30 MILHÕES! PRÓXIMOS DIAS PRISÃO PODE SAIR!",
+      "channel_name": "Portal do José",
+      "tag": "Petistas",
+      "views": 184257,
+      "likes": 40491,
+      "comments": 1763,
+      "published_at": "2025-08-22 14:50:05",
+      "views_per_hour": 5393.1323817335715
+    }
+  ],
+  "top_channels_by_tag": {
+    "Ancap": [
+      {
+        "channel_name": "ANCAPSU",
+        "tag": "Ancap",
+        "subscriber_count": 832000,
+        "total_videos": 215,
+        "total_views": 27446808,
+        "engagement": 16.205950068947907
+      },
+      {
+        "channel_name": "Fernando Ulrich",
+        "tag": "Ancap",
+        "subscriber_count": 799000,
+        "total_videos": 156,
+        "total_views": 24037356,
+        "engagement": 7.744162877148385
+      },
+      {
+        "channel_name": "Abraham",
+        "tag": "Ancap",
+        "subscriber_count": 411000,
+        "total_videos": 50,
+        "total_views": 15021597,
+        "engagement": 10.560222058946197
+      },
+      {
+        "channel_name": "Ideias Radicais",
+        "tag": "Ancap",
+        "subscriber_count": 809000,
+        "total_videos": 152,
+        "total_views": 8370897,
+        "engagement": 10.09969421437153
+      },
+      {
+        "channel_name": "Cortes Trezoitão",
+        "tag": "Ancap",
+        "subscriber_count": 311000,
+        "total_videos": 189,
+        "total_views": 7934252,
+        "engagement": 6.686981961248521
+      },
+      {
+        "channel_name": "Papo Libertário",
+        "tag": "Ancap",
+        "subscriber_count": 56000,
+        "total_videos": 160,
+        "total_views": 1786252,
+        "engagement": 13.851573014333924
+      },
+      {
+        "channel_name": "Rotina do Trezoitão",
+        "tag": "Ancap",
+        "subscriber_count": 58800,
+        "total_videos": 26,
+        "total_views": 1526640,
+        "engagement": 11.095477650264634
+      },
+      {
+        "channel_name": "Nanda Guardian",
+        "tag": "Ancap",
+        "subscriber_count": 393000,
+        "total_videos": 22,
+        "total_views": 1357825,
+        "engagement": 13.878445307753209
+      },
+      {
+        "channel_name": "Ocidente em Fúria - com Paulo Kogos",
+        "tag": "Ancap",
+        "subscriber_count": 192000,
+        "total_videos": 150,
+        "total_views": 1272748,
+        "engagement": 12.947653423929953
+      },
+      {
+        "channel_name": "Cesar Mello",
+        "tag": "Ancap",
+        "subscriber_count": 88700,
+        "total_videos": 155,
+        "total_views": 1248482,
+        "engagement": 17.718797707936517
+      }
+    ],
+    "Bolsonaristas": [
+      {
+        "channel_name": "Te atualizei",
+        "tag": "Bolsonaristas",
+        "subscriber_count": 2250000,
+        "total_videos": 152,
+        "total_views": 95839614,
+        "engagement": 21.739926874079437
+      },
+      {
+        "channel_name": "Gustavo Gayer Deputado Federal",
+        "tag": "Bolsonaristas",
+        "subscriber_count": 2210000,
+        "total_videos": 174,
+        "total_views": 84933254,
+        "engagement": 16.172146189053347
+      },
+      {
+        "channel_name": "oiluiz TV",
+        "tag": "Bolsonaristas",
+        "subscriber_count": 1280000,
+        "total_videos": 163,
+        "total_views": 71702469,
+        "engagement": 21.380828601592505
+      },
+      {
+        "channel_name": "EDUARDO BOLSONARO",
+        "tag": "Bolsonaristas",
+        "subscriber_count": 1750000,
+        "total_videos": 158,
+        "total_views": 44676938,
+        "engagement": 13.824121071144132
+      },
+      {
+        "channel_name": "Deltan Dallagnol",
+        "tag": "Bolsonaristas",
+        "subscriber_count": 1440000,
+        "total_videos": 208,
+        "total_views": 44232977,
+        "engagement": 13.008032446018724
+      },
+      {
+        "channel_name": "Nikolas Ferreira",
+        "tag": "Bolsonaristas",
+        "subscriber_count": 2420000,
+        "total_videos": 150,
+        "total_views": 43271944,
+        "engagement": 17.658411648896568
+      },
+      {
+        "channel_name": "Renato Vicente Junior",
+        "tag": "Bolsonaristas",
+        "subscriber_count": 812000,
+        "total_videos": 315,
+        "total_views": 41286881,
+        "engagement": 4.145387005620502
+      },
+      {
+        "channel_name": "Alexandre Garcia",
+        "tag": "Bolsonaristas",
+        "subscriber_count": 3090000,
+        "total_videos": 158,
+        "total_views": 30919733,
+        "engagement": 20.91333712357736
+      },
+      {
+        "channel_name": "Márcio Couth / Show Político",
+        "tag": "Bolsonaristas",
+        "subscriber_count": 470000,
+        "total_videos": 184,
+        "total_views": 30533797,
+        "engagement": 9.378470027818683
+      },
+      {
+        "channel_name": "Daniel Lopez",
+        "tag": "Bolsonaristas",
+        "subscriber_count": 1630000,
+        "total_videos": 155,
+        "total_views": 29310228,
+        "engagement": 14.370406808162667
+      }
+    ],
+    "Comunistas": [
+      {
+        "channel_name": "Tiago Santineli",
+        "tag": "Comunistas",
+        "subscriber_count": 989000,
+        "total_videos": 150,
+        "total_views": 108656264,
+        "engagement": 12.461821805321781
+      },
+      {
+        "channel_name": "Tempero Drag",
+        "tag": "Comunistas",
+        "subscriber_count": 1360000,
+        "total_videos": 150,
+        "total_views": 28771801,
+        "engagement": 14.682247385208871
+      },
+      {
+        "channel_name": "Ian Neves",
+        "tag": "Comunistas",
+        "subscriber_count": 488000,
+        "total_videos": 155,
+        "total_views": 15355031,
+        "engagement": 12.420092150904807
+      },
+      {
+        "channel_name": "DESCE A LETRA SHOW",
+        "tag": "Comunistas",
+        "subscriber_count": 393000,
+        "total_videos": 154,
+        "total_views": 13048880,
+        "engagement": 13.292619749740973
+      },
+      {
+        "channel_name": "luideverso",
+        "tag": "Comunistas",
+        "subscriber_count": 388000,
+        "total_videos": 159,
+        "total_views": 12734240,
+        "engagement": 8.283635301360741
+      },
+      {
+        "channel_name": "Podcast 3 irmãos",
+        "tag": "Comunistas",
+        "subscriber_count": 474000,
+        "total_videos": 154,
+        "total_views": 11435649,
+        "engagement": 9.30834795646491
+      },
+      {
+        "channel_name": "Tese Onze",
+        "tag": "Comunistas",
+        "subscriber_count": 434000,
+        "total_videos": 150,
+        "total_views": 5927586,
+        "engagement": 18.523915131724788
+      },
+      {
+        "channel_name": "História Cabeluda",
+        "tag": "Comunistas",
+        "subscriber_count": 377000,
+        "total_videos": 150,
+        "total_views": 5837137,
+        "engagement": 10.475769199866305
+      },
+      {
+        "channel_name": "Jones Manoel",
+        "tag": "Comunistas",
+        "subscriber_count": 554000,
+        "total_videos": 170,
+        "total_views": 5424995,
+        "engagement": 14.588787639435612
+      },
+      {
+        "channel_name": "Chavoso da USP",
+        "tag": "Comunistas",
+        "subscriber_count": 432000,
+        "total_videos": 155,
+        "total_views": 4533272,
+        "engagement": 13.757458189140205
+      }
+    ],
+    "MBL": [
+      {
+        "channel_name": "André Guedes",
+        "tag": "MBL",
+        "subscriber_count": 1450000,
+        "total_videos": 154,
+        "total_views": 27766406,
+        "engagement": 12.766873753844845
+      },
+      {
+        "channel_name": "Mamaefalei",
+        "tag": "MBL",
+        "subscriber_count": 2660000,
+        "total_videos": 159,
+        "total_views": 25628864,
+        "engagement": 7.38426018414238
+      },
+      {
+        "channel_name": "Kim Kataguiri",
+        "tag": "MBL",
+        "subscriber_count": 1890000,
+        "total_videos": 167,
+        "total_views": 19185666,
+        "engagement": 9.71615997067811
+      },
+      {
+        "channel_name": "Cortes do Mamãe Falei",
+        "tag": "MBL",
+        "subscriber_count": 212000,
+        "total_videos": 167,
+        "total_views": 18211103,
+        "engagement": 5.557988442545188
+      },
+      {
+        "channel_name": "Midia BH",
+        "tag": "MBL",
+        "subscriber_count": 354000,
+        "total_videos": 150,
+        "total_views": 14127594,
+        "engagement": 8.798660267275517
+      },
+      {
+        "channel_name": "Amanda Vettorazzo",
+        "tag": "MBL",
+        "subscriber_count": 445000,
+        "total_videos": 153,
+        "total_views": 10761310,
+        "engagement": 8.808304936852483
+      },
+      {
+        "channel_name": "Guto Zacarias",
+        "tag": "MBL",
+        "subscriber_count": 999000,
+        "total_videos": 159,
+        "total_views": 9851721,
+        "engagement": 10.285735862800012
+      },
+      {
+        "channel_name": "MBL - Movimento Brasil Livre",
+        "tag": "MBL",
+        "subscriber_count": 1340000,
+        "total_videos": 152,
+        "total_views": 8648791,
+        "engagement": 11.61161138013394
+      },
+      {
+        "channel_name": "Allan dos Panos",
+        "tag": "MBL",
+        "subscriber_count": 228000,
+        "total_videos": 155,
+        "total_views": 8197142,
+        "engagement": 14.087922351473233
+      },
+      {
+        "channel_name": "Cortes do Kim",
+        "tag": "MBL",
+        "subscriber_count": 198000,
+        "total_videos": 158,
+        "total_views": 7058841,
+        "engagement": 7.174945575343035
+      }
+    ],
+    "Petistas": [
+      {
+        "channel_name": "poly_noticias1343",
+        "tag": "Petistas",
+        "subscriber_count": 221000,
+        "total_videos": 805,
+        "total_views": 187000151,
+        "engagement": 0.6470898518151464
+      },
+      {
+        "channel_name": "Desmascarando",
+        "tag": "Petistas",
+        "subscriber_count": 571000,
+        "total_videos": 160,
+        "total_views": 27998596,
+        "engagement": 19.428688495665998
+      },
+      {
+        "channel_name": "Plantão Brasil (Thiago dos Reis)",
+        "tag": "Petistas",
+        "subscriber_count": 1850000,
+        "total_videos": 212,
+        "total_views": 23049833,
+        "engagement": 13.913736381517385
+      },
+      {
+        "channel_name": "Clayson",
+        "tag": "Petistas",
+        "subscriber_count": 794000,
+        "total_videos": 159,
+        "total_views": 21250100,
+        "engagement": 16.541286864532402
+      },
+      {
+        "channel_name": "CLAUDIO KAMARO 3D",
+        "tag": "Petistas",
+        "subscriber_count": 319000,
+        "total_videos": 274,
+        "total_views": 20464353,
+        "engagement": 6.227267483120527
+      },
+      {
+        "channel_name": "Quadrinhos na Sarjeta",
+        "tag": "Petistas",
+        "subscriber_count": 405000,
+        "total_videos": 156,
+        "total_views": 17639631,
+        "engagement": 13.19393812716377
+      },
+      {
+        "channel_name": "Andréa Gonçalves",
+        "tag": "Petistas",
+        "subscriber_count": 1290000,
+        "total_videos": 156,
+        "total_views": 17533783,
+        "engagement": 14.996592577882366
+      },
+      {
+        "channel_name": "Ronny Teles",
+        "tag": "Petistas",
+        "subscriber_count": 1110000,
+        "total_videos": 183,
+        "total_views": 15938011,
+        "engagement": 10.390280192428026
+      },
+      {
+        "channel_name": "Galãs Feios",
+        "tag": "Petistas",
+        "subscriber_count": 1090000,
+        "total_videos": 187,
+        "total_views": 12664636,
+        "engagement": 13.816844005623217
+      },
+      {
+        "channel_name": "Portal do José",
+        "tag": "Petistas",
+        "subscriber_count": 1070000,
+        "total_videos": 67,
+        "total_views": 12648134,
+        "engagement": 24.096376588040577
+      }
+    ],
+    "sem_tag": [
+      {
+        "channel_name": "Nando Moura",
+        "tag": "sem_tag",
+        "subscriber_count": 3500000,
+        "total_videos": 158,
+        "total_views": 30266722,
+        "engagement": 13.440596573358688
+      }
+    ]
+  },
+  "viral_videos_by_tag": {
+    "Ancap": [
+      {
+        "video_id": "sjyjvktt2TQ",
+        "title": "GONET DENUNCIA e XANDÃO pede EXTRADIÇÃO de EDUARDO TAGLIAFERRO por \"TENTATIVA de GOLPE\"",
+        "channel_name": "ANCAPSU",
+        "tag": "Ancap",
+        "views": 46157,
+        "likes": 14243,
+        "comments": 451,
+        "published_at": "2025-08-23 22:21:31",
+        "views_per_hour": 17475.581098454997
+      },
+      {
+        "video_id": "sou1FtvsUoo",
+        "title": "MAIS UMA FALA RACISTA do LULA que NÃO TEM DEFESA, mas a IMPRENSA VAI PASSAR PANO",
+        "channel_name": "ANCAPSU",
+        "tag": "Ancap",
+        "views": 24891,
+        "likes": 7804,
+        "comments": 349,
+        "published_at": "2025-08-23 23:15:02",
+        "views_per_hour": 14229.25125282807
+      },
+      {
+        "video_id": "ZpKvWJjH2qQ",
+        "title": "PADILHA disse que ESTADOS UNIDOS NÃO PODE IMPEDIR a IDA dele a ONU e VERDADE NÃO é BEM ESSA",
+        "channel_name": "ANCAPSU",
+        "tag": "Ancap",
+        "views": 5248,
+        "likes": 1264,
+        "comments": 41,
+        "published_at": "2025-08-24 00:27:40",
+        "views_per_hour": 9741.459108396893
+      },
+      {
+        "video_id": "a6A5nuWm-R0",
+        "title": "APÓS ESQUERDA PERDER ELEIÇÃO, SUPREMA CORTE da BOLÍVIA SOLTA TODOS os PRESOS POLÍTICOS da DIREITA",
+        "channel_name": "ANCAPSU",
+        "tag": "Ancap",
+        "views": 208598,
+        "likes": 30325,
+        "comments": 619,
+        "published_at": "2025-08-22 23:15:00",
+        "views_per_hour": 8100.943714852062
+      }
+    ],
+    "Bolsonaristas": [
+      {
+        "video_id": "eZduyZlSpeU",
+        "title": "EMBATE DO ANO - Mendonça X Moraes no LIDE. Moraes ataca Mendonça e sai perdendo",
+        "channel_name": "Gustavo Gayer Deputado Federal",
+        "tag": "Bolsonaristas",
+        "views": 573353,
+        "likes": 84428,
+        "comments": 4177,
+        "published_at": "2025-08-23 14:51:44",
+        "views_per_hour": 56556.97856703273
+      },
+      {
+        "video_id": "3IhpiKZ2hlI",
+        "title": "Moraes expõe conversas de bastidores que implicam Gilmar Mendes",
+        "channel_name": "EDUARDO BOLSONARO",
+        "tag": "Bolsonaristas",
+        "views": 378150,
+        "likes": 82042,
+        "comments": 6880,
+        "published_at": "2025-08-23 15:03:58",
+        "views_per_hour": 38067.27819628031
+      },
+      {
+        "video_id": "Z3XbWIbcKPg",
+        "title": "Pai de Nikolas lidera corrida ao Senado em MG",
+        "channel_name": "HFNew Atualidades",
+        "tag": "Bolsonaristas",
+        "views": 327475,
+        "likes": 5543,
+        "comments": 60,
+        "published_at": "2025-08-23 14:39:30",
+        "views_per_hour": 31666.08388002481
+      },
+      {
+        "video_id": "PpUV8j6wwrA",
+        "title": "OESTE SEM FILTRO - 22/08/2025",
+        "channel_name": "Revista Oeste",
+        "tag": "Bolsonaristas",
+        "views": 688484,
+        "likes": 80107,
+        "comments": 122,
+        "published_at": "2025-08-23 01:25:03",
+        "views_per_hour": 29194.89822696904
+      },
+      {
+        "video_id": "mIe8Jq6L99s",
+        "title": "HAHAHA: Erika Hilton e Felipe Neto entram na mira de Trump pra perder o visto e somem das redes!",
+        "channel_name": "oiluiz TV",
+        "tag": "Bolsonaristas",
+        "views": 244220,
+        "likes": 63641,
+        "comments": 2969,
+        "published_at": "2025-08-23 16:27:27",
+        "views_per_hour": 28589.357925883523
+      },
+      {
+        "video_id": "kTU_8d5yV9M",
+        "title": "Reviravolta! PF SALVA E INOCENTA Bolsonaro!! O PLANO DEU CERTO! MORAES E LULA FURIOSOS SIGILO FOI RE",
+        "channel_name": "Fabiana Cardoso",
+        "tag": "Bolsonaristas",
+        "views": 137560,
+        "likes": 26358,
+        "comments": 2908,
+        "published_at": "2025-08-23 20:04:00",
+        "views_per_hour": 27884.691295046217
+      },
+      {
+        "video_id": "a06pk8lEmm0",
+        "title": "Jeffrey Chiquini detalha investigação contra ministro do STF",
+        "channel_name": "Revista Oeste",
+        "tag": "Bolsonaristas",
+        "views": 870685,
+        "likes": 62439,
+        "comments": 3154,
+        "published_at": "2025-08-22 14:23:25",
+        "views_per_hour": 25157.35415493748
+      },
+      {
+        "video_id": "UJsN2oRm5To",
+        "title": "NICOLAS MADURO FAZ AMEAÇA AO DONALD TRUMP",
+        "channel_name": "MARCOS EDUARDO 🎙",
+        "tag": "Bolsonaristas",
+        "views": 285767,
+        "likes": 17030,
+        "comments": 1259,
+        "published_at": "2025-08-23 11:01:00",
+        "views_per_hour": 20436.49210463263
+      },
+      {
+        "video_id": "zlfBROtc_9U",
+        "title": "Só PTista pode comentar… 😅 só que não 🫣",
+        "channel_name": "Jeffrey Chiquini ",
+        "tag": "Bolsonaristas",
+        "views": 110511,
+        "likes": 23066,
+        "comments": 1937,
+        "published_at": "2025-08-23 19:33:48",
+        "views_per_hour": 20327.577641928714
+      },
+      {
+        "video_id": "OdkZ_gcAktc",
+        "title": "OLHA ONDE O LULA FOI SE ENFIAR",
+        "channel_name": "MARCOS EDUARDO 🎙",
+        "tag": "Bolsonaristas",
+        "views": 409320,
+        "likes": 20957,
+        "comments": 1130,
+        "published_at": "2025-08-23 01:00:20",
+        "views_per_hour": 17059.062979427643
+      }
+    ],
+    "Comunistas": [
+      {
+        "video_id": "fYHCwZo0_sI",
+        "title": "BRENO ALTMAN vs GUSTAVO MACHADO - STALIN vs TROTSKY - PODCAST 3 IRMÃOS #809",
+        "channel_name": "Podcast 3 irmãos",
+        "tag": "Comunistas",
+        "views": 124648,
+        "likes": 14611,
+        "comments": 2322,
+        "published_at": "2025-08-23 03:16:59",
+        "views_per_hour": 5739.708080984881
+      }
+    ],
+    "Petistas": [
+      {
+        "video_id": "Du-VXONH7Lk",
+        "title": "#estreladefamília #lula #sejacriador #noticias #eleições2022 #lulapresidente",
+        "channel_name": "poly_noticias1343",
+        "tag": "Petistas",
+        "views": 405754,
+        "likes": 4420,
+        "comments": 45,
+        "published_at": "2025-08-23 13:11:47",
+        "views_per_hour": 34375.88002345733
+      },
+      {
+        "video_id": "6cUNGHkEkmY",
+        "title": "STF RECUA E ANISTIA APROVADA AGORA  DEPUTADO FAZ O QUE NINGUÉM ESTÁ FAZENDO!",
+        "channel_name": "Diário do Trabalhador",
+        "tag": "Petistas",
+        "views": 398534,
+        "likes": 31381,
+        "comments": 1855,
+        "published_at": "2025-08-23 12:55:08",
+        "views_per_hour": 32988.62934695658
+      },
+      {
+        "video_id": "lA2WzAQyTR0",
+        "title": "#estreladefamília #lula #noticias #sejacriador #eleições2022 #lulapresidente",
+        "channel_name": "poly_noticias1343",
+        "tag": "Petistas",
+        "views": 324936,
+        "likes": 1272,
+        "comments": 9,
+        "published_at": "2025-08-23 13:11:11",
+        "views_per_hour": 27505.59614697838
+      },
+      {
+        "video_id": "Wdzr5t95INU",
+        "title": "Aumentam chances de Bolsonaro ser preso antes do julgamento; Malafaia em transe",
+        "channel_name": "DCM TV",
+        "tag": "Petistas",
+        "views": 36884,
+        "likes": 4242,
+        "comments": 8,
+        "published_at": "2025-08-23 23:09:14",
+        "views_per_hour": 19981.033524724742
+      },
+      {
+        "video_id": "RBUVlPk_Y1M",
+        "title": "MARGINAIS BOLSONARISTAS MANIPULAM FALA DE LULA SOBRE NEGROS E VIRALIZAM; XANDÃO ARROMBOU MENDONÇA",
+        "channel_name": "Desmascarando",
+        "tag": "Petistas",
+        "views": 114440,
+        "likes": 27206,
+        "comments": 1794,
+        "published_at": "2025-08-23 18:56:27",
+        "views_per_hour": 18887.58618094584
+      },
+      {
+        "video_id": "1te8IHS5o60",
+        "title": "BOLSONARISTAS EM ALERTA! PF EM PRONTIDÃO! ADVS: SÓ MILAGRE! MORAES DESTROÇA MENDONÇA! DO VAL PIORA!",
+        "channel_name": "Portal do José",
+        "tag": "Petistas",
+        "views": 186340,
+        "likes": 44287,
+        "comments": 2652,
+        "published_at": "2025-08-23 14:47:06",
+        "views_per_hour": 18242.088003189867
+      },
+      {
+        "video_id": "PdESBKbv-t4",
+        "title": "PEDIDA PRISÃO PREVENTIVA DE BOLSONARO POR TENTATIVA DE FUGA E POR DESOBEDECER RESTRIÇÕES IMPOSTAS!",
+        "channel_name": "Plantão Brasil (Thiago dos Reis)",
+        "tag": "Petistas",
+        "views": 46567,
+        "likes": 15137,
+        "comments": 1033,
+        "published_at": "2025-08-23 22:00:32",
+        "views_per_hour": 15569.297856240588
+      },
+      {
+        "video_id": "KaSbNqaXBTI",
+        "title": "#estreladefamília #eleições2022 #noticias #lula #lulapresidente #sejacriador",
+        "channel_name": "poly_noticias1343",
+        "tag": "Petistas",
+        "views": 428614,
+        "likes": 2773,
+        "comments": 25,
+        "published_at": "2025-08-22 13:03:34",
+        "views_per_hour": 11925.689742258923
+      },
+      {
+        "video_id": "qv0KECB8ovQ",
+        "title": "#estreladefamília #eleições2022 #noticias #lula #lulapresidente #sejacriador",
+        "channel_name": "poly_noticias1343",
+        "tag": "Petistas",
+        "views": 413260,
+        "likes": 3398,
+        "comments": 25,
+        "published_at": "2025-08-22 13:06:20",
+        "views_per_hour": 11513.253791157964
+      },
+      {
+        "video_id": "uRLRD81CF6s",
+        "title": "TRETAS VAZADAS, GOVERNADORES RATOS, MALAFAIA INVESTIGADO E OS PIORES VÍDEOS DA SEMANA | Galãs Feios",
+        "channel_name": "Galãs Feios",
+        "tag": "Petistas",
+        "views": 76041,
+        "likes": 13836,
+        "comments": 607,
+        "published_at": "2025-08-23 18:00:50",
+        "views_per_hour": 10884.846583837318
+      }
+    ],
+    "sem_tag": [
+      {
+        "video_id": "VR6FmEk0ShM",
+        "title": "O duro peso da realidade...",
+        "channel_name": "Nando Moura",
+        "tag": "sem_tag",
+        "views": 180466,
+        "likes": 27556,
+        "comments": 2018,
+        "published_at": "2025-08-23 15:00:52",
+        "views_per_hour": 18072.995611201866
+      },
+      {
+        "video_id": "uGyvYSHprBE",
+        "title": "PUDIM",
+        "channel_name": "Nando Moura",
+        "tag": "sem_tag",
+        "views": 190921,
+        "likes": 34534,
+        "comments": 3611,
+        "published_at": "2025-08-22 15:01:39",
+        "views_per_hour": 5619.89557105867
+      }
+    ]
+  }
+}

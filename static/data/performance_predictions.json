@@ -1,0 +1,2266 @@
+{
+  "timestamp": "2025-08-24T01:00:04.743473+00:00",
+  "predictions": [
+    {
+      "channel_name": "HFNew Atualidades",
+      "daily_avg_views": 92980.5,
+      "historical_avg_views": 55396.87272727273,
+      "performance_ratio": 1.6784431218303102,
+      "performance_category": "acima_da_media",
+      "confidence_score": 80,
+      "videos_24h": 4,
+      "total_videos_historical": 55,
+      "insights": [
+        "Performance excepcional: 1.7x acima da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Engenheiro Leo",
+      "daily_avg_views": 747.3333333333334,
+      "historical_avg_views": 7147.509259259259,
+      "performance_ratio": 0.1045585680585441,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 108,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Jones Manoel",
+      "daily_avg_views": 1210.0,
+      "historical_avg_views": 27448.573913043478,
+      "performance_ratio": 0.044082435897517126,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 115,
+      "insights": [
+        "Performance abaixo da média: 0.0x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Comunistas"
+    },
+    {
+      "channel_name": "Fabio Ton",
+      "daily_avg_views": 51685.666666666664,
+      "historical_avg_views": 33963.16455696202,
+      "performance_ratio": 1.5218153944394959,
+      "performance_category": "acima_da_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 79,
+      "insights": [
+        "Performance excepcional: 1.5x acima da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "BRASIL REPÚBLICA",
+      "daily_avg_views": 118302.0,
+      "historical_avg_views": 184707.35384615386,
+      "performance_ratio": 0.6404834325033746,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 65,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Marcos Serrano",
+      "daily_avg_views": 9342.0,
+      "historical_avg_views": 16173.542857142857,
+      "performance_ratio": 0.5776099944530221,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 35,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Galãs Feios",
+      "daily_avg_views": 39403.25,
+      "historical_avg_views": 69076.22285714286,
+      "performance_ratio": 0.5704314505077993,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 80,
+      "videos_24h": 4,
+      "total_videos_historical": 175,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "VLOG Silvano Silva",
+      "daily_avg_views": 11152.0,
+      "historical_avg_views": 21918.830508474577,
+      "performance_ratio": 0.5087862692167017,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 59,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Plantão Brasil (Thiago dos Reis)",
+      "daily_avg_views": 61260.375,
+      "historical_avg_views": 110587.00980392157,
+      "performance_ratio": 0.5539563381686411,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 8,
+      "total_videos_historical": 204,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Quadrinhos na Sarjeta",
+      "daily_avg_views": 71852.0,
+      "historical_avg_views": 119634.71428571429,
+      "performance_ratio": 0.6005949061607775,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 21,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "TV Fórum",
+      "daily_avg_views": 9197.625,
+      "historical_avg_views": 8950.89393939394,
+      "performance_ratio": 1.0275649630390733,
+      "performance_category": "na_media",
+      "confidence_score": 100,
+      "videos_24h": 8,
+      "total_videos_historical": 198,
+      "insights": [
+        "Performance na média: 1.0x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "O INVESTIDOR",
+      "daily_avg_views": 3068.0,
+      "historical_avg_views": 10132.37037037037,
+      "performance_ratio": 0.3027919319818404,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 54,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Podcast 3 irmãos",
+      "daily_avg_views": 124648.0,
+      "historical_avg_views": 63853.57142857143,
+      "performance_ratio": 1.952091280272946,
+      "performance_category": "acima_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 35,
+      "insights": [
+        "Performance excepcional: 2.0x acima da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Comunistas"
+    },
+    {
+      "channel_name": "João Carvalho",
+      "daily_avg_views": 897.5,
+      "historical_avg_views": 4593.695652173913,
+      "performance_ratio": 0.1953764611234679,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 46,
+      "insights": [
+        "Performance abaixo da média: 0.2x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Comunistas"
+    },
+    {
+      "channel_name": "Economia News",
+      "daily_avg_views": 61510.666666666664,
+      "historical_avg_views": 18135.75903614458,
+      "performance_ratio": 3.3916786468146087,
+      "performance_category": "acima_da_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 83,
+      "insights": [
+        "Performance excepcional: 3.4x acima da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Cortes do Kim",
+      "daily_avg_views": 38607.5,
+      "historical_avg_views": 21881.323529411766,
+      "performance_ratio": 1.764404239446748,
+      "performance_category": "acima_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 34,
+      "insights": [
+        "Performance excepcional: 1.8x acima da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "Eduardo Moreira",
+      "daily_avg_views": 7719.0,
+      "historical_avg_views": 20086.859649122805,
+      "performance_ratio": 0.38428107403722955,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 171,
+      "insights": [
+        "Performance abaixo da média: 0.4x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Deltan Dallagnol",
+      "daily_avg_views": 26374.0,
+      "historical_avg_views": 215212.54822335026,
+      "performance_ratio": 0.12254861632244944,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 197,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "CLAUDIO KAMARO 3D",
+      "daily_avg_views": 29835.0,
+      "historical_avg_views": 74795.90495867768,
+      "performance_ratio": 0.39888547396388707,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 8,
+      "total_videos_historical": 242,
+      "insights": [
+        "Performance abaixo da média: 0.4x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "ENZUH",
+      "daily_avg_views": 11350.0,
+      "historical_avg_views": 22218.082352941175,
+      "performance_ratio": 0.5108451674497243,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 170,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Itatiaia",
+      "daily_avg_views": 6859.40625,
+      "historical_avg_views": 10472.507936507936,
+      "performance_ratio": 0.6549917452043749,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 32,
+      "total_videos_historical": 378,
+      "insights": [
+        "Performance abaixo da média: 0.7x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "TV FLORIDA USA",
+      "daily_avg_views": 3613.375,
+      "historical_avg_views": 11209.34808259587,
+      "performance_ratio": 0.32235371525399287,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 8,
+      "total_videos_historical": 339,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Canal O Verbo de Deus",
+      "daily_avg_views": 21541.0,
+      "historical_avg_views": 29867.727272727272,
+      "performance_ratio": 0.7212132280205147,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 33,
+      "insights": [
+        "Performance abaixo da média: 0.7x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Revista Oeste",
+      "daily_avg_views": 214792.75,
+      "historical_avg_views": 54012.512903225805,
+      "performance_ratio": 3.9767220307791282,
+      "performance_category": "acima_da_media",
+      "confidence_score": 80,
+      "videos_24h": 4,
+      "total_videos_historical": 310,
+      "insights": [
+        "Performance excepcional: 4.0x acima da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Formação Alta Linguagem",
+      "daily_avg_views": 2907.3333333333335,
+      "historical_avg_views": 4076.04,
+      "performance_ratio": 0.7132739946941967,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 50,
+      "insights": [
+        "Performance abaixo da média: 0.7x da média histórica"
+      ],
+      "tag": "Ancap"
+    },
+    {
+      "channel_name": "Renato Vicente Junior",
+      "daily_avg_views": 89203.66666666667,
+      "historical_avg_views": 131520.52881355933,
+      "performance_ratio": 0.678248996345809,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 295,
+      "insights": [
+        "Performance abaixo da média: 0.7x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Ivan Kleber Fonseca",
+      "daily_avg_views": 49537.0,
+      "historical_avg_views": 26394.105263157893,
+      "performance_ratio": 1.8768205819481225,
+      "performance_category": "acima_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 76,
+      "insights": [
+        "Performance excepcional: 1.9x acima da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "VERDADEIROS PATRIOTAS.",
+      "daily_avg_views": 23252.0,
+      "historical_avg_views": 38409.94871794872,
+      "performance_ratio": 0.6053639949051661,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 39,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Henry Bugalho",
+      "daily_avg_views": 16617.0,
+      "historical_avg_views": 28183.8,
+      "performance_ratio": 0.5895940220978009,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 25,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Andréa Gonçalves",
+      "daily_avg_views": 97665.0,
+      "historical_avg_views": 113682.14285714286,
+      "performance_ratio": 0.8591059030504854,
+      "performance_category": "na_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 84,
+      "insights": [
+        "Performance na média: 0.9x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Cortes do Mamãe Falei",
+      "daily_avg_views": 2188.0,
+      "historical_avg_views": 42229.8,
+      "performance_ratio": 0.0518117537852417,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 75,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "Política Oculta",
+      "daily_avg_views": 49904.0,
+      "historical_avg_views": 74983.8275862069,
+      "performance_ratio": 0.6655301763920588,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 29,
+      "insights": [
+        "Performance abaixo da média: 0.7x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "CartaCapital",
+      "daily_avg_views": 634.0,
+      "historical_avg_views": 12439.16806722689,
+      "performance_ratio": 0.050968038744518704,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 119,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "MADERADA BRASIL",
+      "daily_avg_views": 10586.6,
+      "historical_avg_views": 37237.192307692305,
+      "performance_ratio": 0.28430177851548344,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 5,
+      "total_videos_historical": 130,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "APOIO A DIREITA- Dr. MARCELO SUAVE ",
+      "daily_avg_views": 33785.0,
+      "historical_avg_views": 27649.0625,
+      "performance_ratio": 1.2219220814448952,
+      "performance_category": "acima_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 80,
+      "insights": [
+        "Performance acima da média: 1.2x melhor que o histórico",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Cortes Trezoitão",
+      "daily_avg_views": 3016.8,
+      "historical_avg_views": 42024.13333333333,
+      "performance_ratio": 0.07178732220533598,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 5,
+      "total_videos_historical": 165,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica"
+      ],
+      "tag": "Ancap"
+    },
+    {
+      "channel_name": "TV NEWS NO AR",
+      "daily_avg_views": 40141.0,
+      "historical_avg_views": 62810.57142857143,
+      "performance_ratio": 0.6390803185996898,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 63,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "VIDA GRINGA USA",
+      "daily_avg_views": 102605.0,
+      "historical_avg_views": 74033.30434782608,
+      "performance_ratio": 1.385930303987747,
+      "performance_category": "acima_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 69,
+      "insights": [
+        "Performance acima da média: 1.4x melhor que o histórico",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Portal do José",
+      "daily_avg_views": 186340.0,
+      "historical_avg_views": 187708.15873015873,
+      "performance_ratio": 0.9927112452681104,
+      "performance_category": "na_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 63,
+      "insights": [
+        "Performance na média: 1.0x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Silas Malafaia Oficial",
+      "daily_avg_views": 10679.0,
+      "historical_avg_views": 54998.98684210526,
+      "performance_ratio": 0.19416721312808874,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 76,
+      "insights": [
+        "Performance abaixo da média: 0.2x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Jovem Pan  - 3 em 1",
+      "daily_avg_views": 16508.0,
+      "historical_avg_views": 17279.20895522388,
+      "performance_ratio": 0.9553678089533881,
+      "performance_category": "na_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 201,
+      "insights": [
+        "Performance na média: 1.0x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Claudio Dantas",
+      "daily_avg_views": 34671.0,
+      "historical_avg_views": 67310.19607843137,
+      "performance_ratio": 0.5150928391235194,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 102,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "hubtnt by Davi Aragão",
+      "daily_avg_views": 4095.0,
+      "historical_avg_views": 51345.86666666667,
+      "performance_ratio": 0.07975325504941651,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 90,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Marco Antonio Costa",
+      "daily_avg_views": 1514.5,
+      "historical_avg_views": 12245.367346938776,
+      "performance_ratio": 0.12367942562201782,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 147,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Eduardo Bisotto",
+      "daily_avg_views": 2252.0,
+      "historical_avg_views": 1743.8170731707316,
+      "performance_ratio": 1.2914198597134126,
+      "performance_category": "acima_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 82,
+      "insights": [
+        "Performance acima da média: 1.3x melhor que o histórico",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "Jota",
+      "daily_avg_views": 869.0,
+      "historical_avg_views": 1149.5675675675675,
+      "performance_ratio": 0.7559364273287253,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 37,
+      "insights": [
+        "Performance abaixo da média: 0.8x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "Guto Zacarias",
+      "daily_avg_views": 15270.0,
+      "historical_avg_views": 32289.708333333332,
+      "performance_ratio": 0.47290609882147694,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 24,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "Brasil Acima de Tudo - Por Patriotas",
+      "daily_avg_views": 44853.5,
+      "historical_avg_views": 98201.27586206897,
+      "performance_ratio": 0.4567506848179864,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 58,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Dr. Amarildo Filho",
+      "daily_avg_views": 2615.0,
+      "historical_avg_views": 45014.30508474576,
+      "performance_ratio": 0.05809264399565637,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 59,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Política Exposta",
+      "daily_avg_views": 253.0,
+      "historical_avg_views": 14739.392857142857,
+      "performance_ratio": 0.017164886128765725,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 252,
+      "insights": [
+        "Performance abaixo da média: 0.0x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "A Verdade que muitos não conhecem",
+      "daily_avg_views": 9783.0,
+      "historical_avg_views": 176050.6347826087,
+      "performance_ratio": 0.055569240134125446,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 115,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Diário do Trabalhador",
+      "daily_avg_views": 398534.0,
+      "historical_avg_views": 67653.58333333333,
+      "performance_ratio": 5.890804010134965,
+      "performance_category": "acima_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 72,
+      "insights": [
+        "Performance excepcional: 5.9x acima da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Allan dos Panos",
+      "daily_avg_views": 63382.0,
+      "historical_avg_views": 46399.73684210526,
+      "performance_ratio": 1.3659991265830682,
+      "performance_category": "acima_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 19,
+      "insights": [
+        "Performance acima da média: 1.4x melhor que o histórico",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "Fio Diário",
+      "daily_avg_views": 860.0,
+      "historical_avg_views": 28329.096256684494,
+      "performance_ratio": 0.030357480952011507,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 187,
+      "insights": [
+        "Performance abaixo da média: 0.0x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Brasil Paralelo",
+      "daily_avg_views": 19717.4,
+      "historical_avg_views": 32985.18666666667,
+      "performance_ratio": 0.5977652998982573,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 5,
+      "total_videos_historical": 150,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Guizão Tocamente a Frente",
+      "daily_avg_views": 4462.5,
+      "historical_avg_views": 26680.56,
+      "performance_ratio": 0.16725660930655128,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 75,
+      "insights": [
+        "Performance abaixo da média: 0.2x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "GIGANTE PATRIA",
+      "daily_avg_views": 14573.0,
+      "historical_avg_views": 17823.625,
+      "performance_ratio": 0.8176226777661671,
+      "performance_category": "na_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 96,
+      "insights": [
+        "Performance na média: 0.8x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "DIREITA NOTICIAS - DR MARCELO SUAVE",
+      "daily_avg_views": 6214.333333333333,
+      "historical_avg_views": 7162.581081081081,
+      "performance_ratio": 0.8676108881681763,
+      "performance_category": "na_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 148,
+      "insights": [
+        "Performance na média: 0.9x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Marcelo Brigadeiro",
+      "daily_avg_views": 39444.0,
+      "historical_avg_views": 23840.882352941175,
+      "performance_ratio": 1.654468967048693,
+      "performance_category": "acima_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 34,
+      "insights": [
+        "Performance excepcional: 1.7x acima da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "AuriVerde Brasil",
+      "daily_avg_views": 8077.0,
+      "historical_avg_views": 20052.81730769231,
+      "performance_ratio": 0.4027862956145142,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 104,
+      "insights": [
+        "Performance abaixo da média: 0.4x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "ANCAPSU",
+      "daily_avg_views": 25847.333333333332,
+      "historical_avg_views": 132107.6796116505,
+      "performance_ratio": 0.19565352604265915,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 9,
+      "total_videos_historical": 206,
+      "insights": [
+        "Performance abaixo da média: 0.2x da média histórica"
+      ],
+      "tag": "Ancap"
+    },
+    {
+      "channel_name": "O Antagonista",
+      "daily_avg_views": 686.5,
+      "historical_avg_views": 6992.497382198952,
+      "performance_ratio": 0.0981766545594493,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 191,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "Movimento Brasil Patriota",
+      "daily_avg_views": 14487.5,
+      "historical_avg_views": 52286.42028985507,
+      "performance_ratio": 0.2770795919798501,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 80,
+      "videos_24h": 4,
+      "total_videos_historical": 69,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Descendo o Sarrafo",
+      "daily_avg_views": 1414.0,
+      "historical_avg_views": 22179.675675675677,
+      "performance_ratio": 0.06375205934822238,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 37,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Epoch Times Brasil",
+      "daily_avg_views": 3265.0,
+      "historical_avg_views": 39050.50476190476,
+      "performance_ratio": 0.08360967469965025,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 105,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Desmascarando",
+      "daily_avg_views": 114440.0,
+      "historical_avg_views": 192426.79166666666,
+      "performance_ratio": 0.5947196801900636,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 48,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Nando Moura",
+      "daily_avg_views": 180466.0,
+      "historical_avg_views": 217361.2068965517,
+      "performance_ratio": 0.8302585478644716,
+      "performance_category": "na_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 29,
+      "insights": [
+        "Performance na média: 0.8x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "sem_tag"
+    },
+    {
+      "channel_name": "Opera Mundi",
+      "daily_avg_views": 1137.5,
+      "historical_avg_views": 6678.15625,
+      "performance_ratio": 0.17033144440128964,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 160,
+      "insights": [
+        "Performance abaixo da média: 0.2x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Brasil de Fato",
+      "daily_avg_views": 1873.75,
+      "historical_avg_views": 5576.9111111111115,
+      "performance_ratio": 0.3359834795047836,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 80,
+      "videos_24h": 4,
+      "total_videos_historical": 180,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Jovem Pan News",
+      "daily_avg_views": 14380.408163265307,
+      "historical_avg_views": 9615.332185886402,
+      "performance_ratio": 1.4955706038292873,
+      "performance_category": "acima_da_media",
+      "confidence_score": 100,
+      "videos_24h": 49,
+      "total_videos_historical": 581,
+      "insights": [
+        "Performance acima da média: 1.5x melhor que o histórico"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Renato Battista",
+      "daily_avg_views": 1026.0,
+      "historical_avg_views": 8080.094339622641,
+      "performance_ratio": 0.1269787154549382,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 53,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "TV GGN",
+      "daily_avg_views": 5673.0,
+      "historical_avg_views": 10364.26797385621,
+      "performance_ratio": 0.5473613779873409,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 153,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "CORTES DO FIGUEIREDO",
+      "daily_avg_views": 34162.5,
+      "historical_avg_views": 45675.26,
+      "performance_ratio": 0.7479431972582093,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 50,
+      "insights": [
+        "Performance abaixo da média: 0.7x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "BARRACA DOS DRONES TV📺🌎",
+      "daily_avg_views": 7766.666666666667,
+      "historical_avg_views": 10975.62015503876,
+      "performance_ratio": 0.7076289591801421,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 258,
+      "insights": [
+        "Performance abaixo da média: 0.7x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "TV 247",
+      "daily_avg_views": 6375.35294117647,
+      "historical_avg_views": 7499.55,
+      "performance_ratio": 0.8500980647074118,
+      "performance_category": "na_media",
+      "confidence_score": 100,
+      "videos_24h": 17,
+      "total_videos_historical": 240,
+      "insights": [
+        "Performance na média: 0.9x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Política News ",
+      "daily_avg_views": 13617.0,
+      "historical_avg_views": 54204.820512820515,
+      "performance_ratio": 0.2512138195675661,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 39,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "O Jacaré de Tanga",
+      "daily_avg_views": 13996.5,
+      "historical_avg_views": 47482.08,
+      "performance_ratio": 0.2947743654026951,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 75,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Visão Libertária",
+      "daily_avg_views": 1188.25,
+      "historical_avg_views": 4600.126582278481,
+      "performance_ratio": 0.25830810929803805,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 80,
+      "videos_24h": 4,
+      "total_videos_historical": 79,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica"
+      ],
+      "tag": "Ancap"
+    },
+    {
+      "channel_name": "oiluiz TV",
+      "daily_avg_views": 244220.0,
+      "historical_avg_views": 442502.2413793103,
+      "performance_ratio": 0.5519068089660952,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 29,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "MyNews",
+      "daily_avg_views": 3887.5,
+      "historical_avg_views": 5004.415584415585,
+      "performance_ratio": 0.7768139824570508,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 154,
+      "insights": [
+        "Performance abaixo da média: 0.8x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Professor Leonardo",
+      "daily_avg_views": 34915.0,
+      "historical_avg_views": 29563.95945945946,
+      "performance_ratio": 1.1809987781872833,
+      "performance_category": "na_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 74,
+      "insights": [
+        "Performance na média: 1.2x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "CLEITON BASSO Notícias, Reflexões e Evangelismo",
+      "daily_avg_views": 131384.0,
+      "historical_avg_views": 131487.38095238095,
+      "performance_ratio": 0.9992137576120831,
+      "performance_category": "na_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 42,
+      "insights": [
+        "Performance na média: 1.0x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Clayson",
+      "daily_avg_views": 73692.0,
+      "historical_avg_views": 119808.35294117648,
+      "performance_ratio": 0.615082322650586,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 34,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "poly_noticias1343",
+      "daily_avg_views": 66405.75,
+      "historical_avg_views": 236729.0286831812,
+      "performance_ratio": 0.280513760265844,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 20,
+      "total_videos_historical": 767,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Gazeta do Povo",
+      "daily_avg_views": 21228.666666666668,
+      "historical_avg_views": 78191.99476439791,
+      "performance_ratio": 0.2714941181719593,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 6,
+      "total_videos_historical": 191,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Rádio BandNews FM",
+      "daily_avg_views": 7628.111111111111,
+      "historical_avg_views": 7116.919642857143,
+      "performance_ratio": 1.0718276296356701,
+      "performance_category": "na_media",
+      "confidence_score": 100,
+      "videos_24h": 9,
+      "total_videos_historical": 336,
+      "insights": [
+        "Performance na média: 1.1x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Ana Paula Henkel",
+      "daily_avg_views": 5830.0,
+      "historical_avg_views": 40280.544715447155,
+      "performance_ratio": 0.14473488482305102,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 7,
+      "total_videos_historical": 123,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Folha Política",
+      "daily_avg_views": 9462.25,
+      "historical_avg_views": 48913.34502923977,
+      "performance_ratio": 0.19344925182163658,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 80,
+      "videos_24h": 4,
+      "total_videos_historical": 171,
+      "insights": [
+        "Performance abaixo da média: 0.2x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Papo Libertário",
+      "daily_avg_views": 3310.0,
+      "historical_avg_views": 7193.326923076923,
+      "performance_ratio": 0.46014869550571713,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 52,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Ancap"
+    },
+    {
+      "channel_name": "Thiago dos Reis",
+      "daily_avg_views": 7471.333333333333,
+      "historical_avg_views": 14194.031578947368,
+      "performance_ratio": 0.5263714746425419,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 6,
+      "total_videos_historical": 190,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Cortes do MBL",
+      "daily_avg_views": 12168.5,
+      "historical_avg_views": 29699.27380952381,
+      "performance_ratio": 0.4097238228127271,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 84,
+      "insights": [
+        "Performance abaixo da média: 0.4x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "ESPECTRO CINZA",
+      "daily_avg_views": 0.0,
+      "historical_avg_views": 13511.153846153846,
+      "performance_ratio": 0.0,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 13,
+      "insights": [
+        "Performance abaixo da média: 0.0x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "Instituto Conhecimento Liberta",
+      "daily_avg_views": 11502.0,
+      "historical_avg_views": 17309.609523809522,
+      "performance_ratio": 0.6644863931898,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 210,
+      "insights": [
+        "Performance abaixo da média: 0.7x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Instituto Mises Brasil",
+      "daily_avg_views": 141.0,
+      "historical_avg_views": 365.5625,
+      "performance_ratio": 0.38570695845443664,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 16,
+      "insights": [
+        "Performance abaixo da média: 0.4x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Ancap"
+    },
+    {
+      "channel_name": "Gustavo Gayer Deputado Federal",
+      "daily_avg_views": 573353.0,
+      "historical_avg_views": 524705.8974358974,
+      "performance_ratio": 1.0927130851812958,
+      "performance_category": "na_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 117,
+      "insights": [
+        "Performance na média: 1.1x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "TV Afiada",
+      "daily_avg_views": 22772.0,
+      "historical_avg_views": 66312.22033898305,
+      "performance_ratio": 0.343405783784516,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 59,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Daniel Alvarenga",
+      "daily_avg_views": 44800.0,
+      "historical_avg_views": 55604.470588235294,
+      "performance_ratio": 0.8056906131119377,
+      "performance_category": "na_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 17,
+      "insights": [
+        "Performance na média: 0.8x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "AVRAHAM  DOC📝",
+      "daily_avg_views": 10640.0,
+      "historical_avg_views": 58689.708333333336,
+      "performance_ratio": 0.18129243273061077,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 48,
+      "insights": [
+        "Performance abaixo da média: 0.2x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Jornal Matilha News",
+      "daily_avg_views": 50872.0,
+      "historical_avg_views": 123035.69841269842,
+      "performance_ratio": 0.41347349311059417,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 63,
+      "insights": [
+        "Performance abaixo da média: 0.4x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Brasil Online",
+      "daily_avg_views": 11515.0,
+      "historical_avg_views": 33878.71875,
+      "performance_ratio": 0.3398888867366036,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 32,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "TV Resistência Contemporânea",
+      "daily_avg_views": 4615.0,
+      "historical_avg_views": 17748.11409395973,
+      "performance_ratio": 0.2600276274745516,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 5,
+      "total_videos_historical": 149,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Crônicas do Brasil",
+      "daily_avg_views": 3845.0,
+      "historical_avg_views": 65119.28301886792,
+      "performance_ratio": 0.05904549039469514,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 53,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Curiosa News",
+      "daily_avg_views": 41493.0,
+      "historical_avg_views": 109745.44736842105,
+      "performance_ratio": 0.378084020749452,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 38,
+      "insights": [
+        "Performance abaixo da média: 0.4x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Política & Cia",
+      "daily_avg_views": 19685.0,
+      "historical_avg_views": 25133.479452054795,
+      "performance_ratio": 0.7832182582420217,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 73,
+      "insights": [
+        "Performance abaixo da média: 0.8x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Floriano Investe",
+      "daily_avg_views": 17556.8,
+      "historical_avg_views": 32838.08938547486,
+      "performance_ratio": 0.5346474270749086,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 5,
+      "total_videos_historical": 179,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Jeffrey Chiquini ",
+      "daily_avg_views": 60851.5,
+      "historical_avg_views": 202899.60638297873,
+      "performance_ratio": 0.2999094038908142,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 94,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Expresso Notícia Nacional",
+      "daily_avg_views": 16299.0,
+      "historical_avg_views": 37263.13157894737,
+      "performance_ratio": 0.43740285127320006,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 5,
+      "total_videos_historical": 76,
+      "insights": [
+        "Performance abaixo da média: 0.4x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Paulo Figueiredo Show",
+      "daily_avg_views": 65619.0,
+      "historical_avg_views": 198172.30263157896,
+      "performance_ratio": 0.33112094439348533,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 76,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Ricardo Mello",
+      "daily_avg_views": 239932.0,
+      "historical_avg_views": 87007.625,
+      "performance_ratio": 2.757597394481231,
+      "performance_category": "acima_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 88,
+      "insights": [
+        "Performance excepcional: 2.8x acima da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Giovani Cherini",
+      "daily_avg_views": 6865.5,
+      "historical_avg_views": 67191.734375,
+      "performance_ratio": 0.10217774647225722,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 192,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "MARCOS EDUARDO 🎙",
+      "daily_avg_views": 84632.90909090909,
+      "historical_avg_views": 26367.316666666666,
+      "performance_ratio": 3.2097657171881004,
+      "performance_category": "acima_da_media",
+      "confidence_score": 100,
+      "videos_24h": 11,
+      "total_videos_historical": 60,
+      "insights": [
+        "Performance excepcional: 3.2x acima da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Alexandre Garcia",
+      "daily_avg_views": 52974.0,
+      "historical_avg_views": 229548.2105263158,
+      "performance_ratio": 0.23077505103847007,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 38,
+      "insights": [
+        "Performance abaixo da média: 0.2x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Conectado",
+      "daily_avg_views": 44781.333333333336,
+      "historical_avg_views": 89625.57798165138,
+      "performance_ratio": 0.4996490325842161,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 109,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Veio a Tona",
+      "daily_avg_views": 649.0,
+      "historical_avg_views": 14393.727272727272,
+      "performance_ratio": 0.04508908552336561,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 11,
+      "insights": [
+        "Performance abaixo da média: 0.0x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Meteoro Brasil",
+      "daily_avg_views": 9413.0,
+      "historical_avg_views": 28901.45,
+      "performance_ratio": 0.3256930015622054,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 180,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "EDUARDO BOLSONARO",
+      "daily_avg_views": 378150.0,
+      "historical_avg_views": 248769.32432432432,
+      "performance_ratio": 1.5200829162803053,
+      "performance_category": "acima_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 37,
+      "insights": [
+        "Performance excepcional: 1.5x acima da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Ronny Teles",
+      "daily_avg_views": 32231.75,
+      "historical_avg_views": 82381.11538461539,
+      "performance_ratio": 0.3912516824944477,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 80,
+      "videos_24h": 4,
+      "total_videos_historical": 156,
+      "insights": [
+        "Performance abaixo da média: 0.4x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "GeoEconome",
+      "daily_avg_views": 22745.0,
+      "historical_avg_views": 72963.12765957447,
+      "performance_ratio": 0.31173279887509486,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 47,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "JosemideDeus- Oficial",
+      "daily_avg_views": 4373.0,
+      "historical_avg_views": 9070.180327868853,
+      "performance_ratio": 0.48212933391893087,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 61,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "NoticiasBrasil",
+      "daily_avg_views": 7358.0,
+      "historical_avg_views": 41225.27536231884,
+      "performance_ratio": 0.17848273747918822,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 69,
+      "insights": [
+        "Performance abaixo da média: 0.2x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Rede TVT",
+      "daily_avg_views": 374.0,
+      "historical_avg_views": 2705.155737704918,
+      "performance_ratio": 0.13825451702729155,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 244,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Márcio Couth / Show Político",
+      "daily_avg_views": 55884.0,
+      "historical_avg_views": 164977.01714285713,
+      "performance_ratio": 0.33873809193439863,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 175,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Kim Kataguiri",
+      "daily_avg_views": 26499.0,
+      "historical_avg_views": 93109.50588235294,
+      "performance_ratio": 0.28460037188342935,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 85,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "DIDI RED PILL",
+      "daily_avg_views": 32515.666666666668,
+      "historical_avg_views": 38982.74166666667,
+      "performance_ratio": 0.8341041516448838,
+      "performance_category": "na_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 120,
+      "insights": [
+        "Performance na média: 0.8x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Washington Lisboa | Notícias de Agora",
+      "daily_avg_views": 89661.0,
+      "historical_avg_views": 119569.97619047618,
+      "performance_ratio": 0.7498621548370062,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 42,
+      "insights": [
+        "Performance abaixo da média: 0.7x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Carlos Heinar",
+      "daily_avg_views": 13359.5,
+      "historical_avg_views": 68304.67647058824,
+      "performance_ratio": 0.19558690107774035,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 34,
+      "insights": [
+        "Performance abaixo da média: 0.2x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Gazeta do Povo - Extras",
+      "daily_avg_views": 13025.0,
+      "historical_avg_views": 70275.96825396825,
+      "performance_ratio": 0.1853407405633934,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 63,
+      "insights": [
+        "Performance abaixo da média: 0.2x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Programa 4 por 4",
+      "daily_avg_views": 547.0,
+      "historical_avg_views": 29756.64912280702,
+      "performance_ratio": 0.018382446146490036,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 57,
+      "insights": [
+        "Performance abaixo da média: 0.0x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "O BARBA RUIVA ",
+      "daily_avg_views": 8588.0,
+      "historical_avg_views": 16029.1,
+      "performance_ratio": 0.5357755582035173,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 50,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "SEM MIMIMI | o canal do Pavivi",
+      "daily_avg_views": 2619.3333333333335,
+      "historical_avg_views": 64156.067307692305,
+      "performance_ratio": 0.040827523307671254,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 104,
+      "insights": [
+        "Performance abaixo da média: 0.0x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Canal do Conde",
+      "daily_avg_views": 3562.6,
+      "historical_avg_views": 4520.0842105263155,
+      "performance_ratio": 0.7881711565690439,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 5,
+      "total_videos_historical": 190,
+      "insights": [
+        "Performance abaixo da média: 0.8x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Cortes Te Atualizei",
+      "daily_avg_views": 51374.0,
+      "historical_avg_views": 35874.75,
+      "performance_ratio": 1.432037853922327,
+      "performance_category": "acima_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 20,
+      "insights": [
+        "Performance acima da média: 1.4x melhor que o histórico",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Cabo Elson",
+      "daily_avg_views": 5630.0,
+      "historical_avg_views": 2937.121951219512,
+      "performance_ratio": 1.916842437428377,
+      "performance_category": "acima_da_media",
+      "confidence_score": 100,
+      "videos_24h": 17,
+      "total_videos_historical": 41,
+      "insights": [
+        "Performance excepcional: 1.9x acima da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Renato IMPERA",
+      "daily_avg_views": 8140.0,
+      "historical_avg_views": 12100.45652173913,
+      "performance_ratio": 0.6727018923109261,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 46,
+      "insights": [
+        "Performance abaixo da média: 0.7x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "Bradock Show",
+      "daily_avg_views": 25753.25,
+      "historical_avg_views": 98332.31914893616,
+      "performance_ratio": 0.2619001587971661,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 80,
+      "videos_24h": 4,
+      "total_videos_historical": 94,
+      "insights": [
+        "Performance abaixo da média: 0.3x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Meio",
+      "daily_avg_views": 427.0,
+      "historical_avg_views": 10630.05785123967,
+      "performance_ratio": 0.040169113468202206,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 121,
+      "insights": [
+        "Performance abaixo da média: 0.0x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "KiM PAiM",
+      "daily_avg_views": 147335.0,
+      "historical_avg_views": 144332.3448275862,
+      "performance_ratio": 1.020803757993405,
+      "performance_category": "na_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 29,
+      "insights": [
+        "Performance na média: 1.0x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "DCM TV",
+      "daily_avg_views": 18909.4,
+      "historical_avg_views": 14184.948979591836,
+      "performance_ratio": 1.3330608398525314,
+      "performance_category": "acima_da_media",
+      "confidence_score": 100,
+      "videos_24h": 5,
+      "total_videos_historical": 196,
+      "insights": [
+        "Performance acima da média: 1.3x melhor que o histórico"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Charles Wicz",
+      "daily_avg_views": 848.5,
+      "historical_avg_views": 12118.09090909091,
+      "performance_ratio": 0.07001927996459088,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 77,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Direto Ao Ponto",
+      "daily_avg_views": 11461.0,
+      "historical_avg_views": 23464.0,
+      "performance_ratio": 0.48845039209001023,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 85,
+      "insights": [
+        "Performance abaixo da média: 0.5x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Dois Pesos, Duas Medidas",
+      "daily_avg_views": 6166.8,
+      "historical_avg_views": 10606.51282051282,
+      "performance_ratio": 0.5814163527972653,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 100,
+      "videos_24h": 5,
+      "total_videos_historical": 39,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Mídia NINJA",
+      "daily_avg_views": 78621.0,
+      "historical_avg_views": 37352.169902912625,
+      "performance_ratio": 2.104857634893906,
+      "performance_category": "acima_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 206,
+      "insights": [
+        "Performance excepcional: 2.1x acima da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "A Voz Trabalhadora",
+      "daily_avg_views": 11685.5,
+      "historical_avg_views": 13478.272131147542,
+      "performance_ratio": 0.8669879852770932,
+      "performance_category": "na_media",
+      "confidence_score": 100,
+      "videos_24h": 6,
+      "total_videos_historical": 305,
+      "insights": [
+        "Performance na média: 0.9x da média histórica"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "CNB  CANAL NOTICIA BRASIL ",
+      "daily_avg_views": 28789.0,
+      "historical_avg_views": 69517.98387096774,
+      "performance_ratio": 0.41412305704140145,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 62,
+      "insights": [
+        "Performance abaixo da média: 0.4x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Bolsonaro Democracia em Foco",
+      "daily_avg_views": 9432.0,
+      "historical_avg_views": 77015.47004608295,
+      "performance_ratio": 0.12246890130458558,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 80,
+      "videos_24h": 4,
+      "total_videos_historical": 217,
+      "insights": [
+        "Performance abaixo da média: 0.1x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "PHVox Geopolítica Descomplicada",
+      "daily_avg_views": 74819.0,
+      "historical_avg_views": 50413.2676056338,
+      "performance_ratio": 1.4841132811561455,
+      "performance_category": "acima_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 71,
+      "insights": [
+        "Performance acima da média: 1.5x melhor que o histórico",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "O Liberal",
+      "daily_avg_views": 2509.777777777778,
+      "historical_avg_views": 1043.051282051282,
+      "performance_ratio": 2.4061882871588125,
+      "performance_category": "acima_da_media",
+      "confidence_score": 100,
+      "videos_24h": 18,
+      "total_videos_historical": 39,
+      "insights": [
+        "Performance excepcional: 2.4x acima da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Fabiana Cardoso",
+      "daily_avg_views": 137560.0,
+      "historical_avg_views": 218377.23684210525,
+      "performance_ratio": 0.6299191343805716,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 76,
+      "insights": [
+        "Performance abaixo da média: 0.6x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Novos Clássicos Show",
+      "daily_avg_views": 5890.0,
+      "historical_avg_views": 8561.677419354839,
+      "performance_ratio": 0.6879493014633852,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 31,
+      "insights": [
+        "Performance abaixo da média: 0.7x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "MBL"
+    },
+    {
+      "channel_name": "Junior Japa",
+      "daily_avg_views": 25023.0,
+      "historical_avg_views": 32322.136363636364,
+      "performance_ratio": 0.7741753118816684,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 60,
+      "videos_24h": 3,
+      "total_videos_historical": 88,
+      "insights": [
+        "Performance abaixo da média: 0.8x da média histórica"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "PASTOR SANDRO ROCHA",
+      "daily_avg_views": 2362.0,
+      "historical_avg_views": 58832.31313131313,
+      "performance_ratio": 0.04014800497012653,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 99,
+      "insights": [
+        "Performance abaixo da média: 0.0x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Leonardo Stoppa",
+      "daily_avg_views": 34649.5,
+      "historical_avg_views": 43142.343434343435,
+      "performance_ratio": 0.8031436691131917,
+      "performance_category": "na_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 99,
+      "insights": [
+        "Performance na média: 0.8x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Petistas"
+    },
+    {
+      "channel_name": "Os Pingos nos Is",
+      "daily_avg_views": 37268.0,
+      "historical_avg_views": 54744.828571428574,
+      "performance_ratio": 0.6807583651736967,
+      "performance_category": "abaixo_da_media",
+      "confidence_score": 20,
+      "videos_24h": 1,
+      "total_videos_historical": 210,
+      "insights": [
+        "Performance abaixo da média: 0.7x da média histórica",
+        "Poucos vídeos analisados (1), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    },
+    {
+      "channel_name": "Dr. Marcelo Suave- Advogado",
+      "daily_avg_views": 106063.0,
+      "historical_avg_views": 129407.46496815287,
+      "performance_ratio": 0.8196049588491828,
+      "performance_category": "na_media",
+      "confidence_score": 40,
+      "videos_24h": 2,
+      "total_videos_historical": 157,
+      "insights": [
+        "Performance na média: 0.8x da média histórica",
+        "Poucos vídeos analisados (2), confiança reduzida"
+      ],
+      "tag": "Bolsonaristas"
+    }
+  ]
+}

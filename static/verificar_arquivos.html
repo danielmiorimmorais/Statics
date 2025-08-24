@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificação de Arquivos - Diário da Política</title>
+    <style>
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f8fafc;
+            color: #1e293b;
+        }
+        .container {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #1e40af;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .status {
+            padding: 15px;
+            border-radius: 8px;
+            margin: 10px 0;
+            font-weight: 500;
+        }
+        .success {
+            background: #dcfce7;
+            color: #166534;
+            border: 1px solid #bbf7d0;
+        }
+        .error {
+            background: #fef2f2;
+            color: #dc2626;
+            border: 1px solid #fecaca;
+        }
+        .warning {
+            background: #fef3c7;
+            color: #d97706;
+            border: 1px solid #fed7aa;
+        }
+        .info {
+            background: #dbeafe;
+            color: #1e40af;
+            border: 1px solid #bfdbfe;
+        }
+        .file-list {
+            background: #f8fafc;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .file-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px 0;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        .file-item:last-child {
+            border-bottom: none;
+        }
+        .file-name {
+            font-family: 'Monaco', 'Menlo', monospace;
+            font-size: 14px;
+        }
+        .file-size {
+            color: #64748b;
+            font-size: 12px;
+        }
+        button {
+            background: #1e40af;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 500;
+            margin: 10px 5px;
+        }
+        button:hover {
+            background: #1e3a8a;
+        }
+        button:disabled {
+            background: #94a3b8;
+            cursor: not-allowed;
+        }
+        .progress {
+            width: 100%;
+            height: 8px;
+            background: #e2e8f0;
+            border-radius: 4px;
+            overflow: hidden;
+            margin: 20px 0;
+        }
+        .progress-bar {
+            height: 100%;
+            background: #1e40af;
+            transition: width 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 Verificação de Arquivos</h1>
+        <p>Este script verifica se todos os arquivos necessários estão presentes e acessíveis.</p>
+        
+        <div id="status" class="status info">
+            Clique em "Verificar Arquivos" para começar a verificação.
+        </div>
+        
+        <div class="progress" style="display: none;">
+            <div class="progress-bar" style="width: 0%"></div>
+        </div>
+        
+        <button onclick="verificarArquivos()" id="btnVerificar">Verificar Arquivos</button>
+        <button onclick="limparResultados()" id="btnLimpar">Limpar Resultados</button>
+        
+        <div id="resultados" class="file-list" style="display: none;">
+            <h3>Resultados da Verificação</h3>
+            <div id="listaArquivos"></div>
+        </div>
+    </div>
+
+    <script>
+        const arquivosNecessarios = [
+            // Arquivos HTML principais
+            { path: '/index.html', nome: 'index.html', tipo: 'HTML' },
+            { path: '/dashboard.html', nome: 'dashboard.html', tipo: 'HTML' },
+            { path: '/rankings.html', nome: 'rankings.html', tipo: 'HTML' },
+            { path: '/videos.html', nome: 'videos.html', tipo: 'HTML' },
+            { path: '/channels.html', nome: 'channels.html', tipo: 'HTML' },
+              { path: 'analytics.html', nome: 'analytics.html', tipo: 'HTML' },
+              { path: 'benchmark.html', nome: 'benchmark.html', tipo: 'HTML' },
+            
+            // Arquivos CSS
+              { path: 'css/tailwind.min.css', nome: 'tailwind.min.css', tipo: 'CSS' },
+              { path: 'css/components.css', nome: 'components.css', tipo: 'CSS' },
+            
+            // Arquivos JavaScript
+            { path: 'js/app.js', nome: 'app.js', tipo: 'JavaScript' },
+            { path: 'js/data-store.js', nome: 'data-store.js', tipo: 'JavaScript' },
+            { path: 'js/components.js', nome: 'components.js', tipo: 'JavaScript' },
+            { path: 'js/utils.js', nome: 'utils.js', tipo: 'JavaScript' },
+            { path: 'js/features.js', nome: 'features.js', tipo: 'JavaScript' },
+            { path: 'js/tab-renderers.js', nome: 'tab-renderers.js', tipo: 'JavaScript' },
+            { path: 'js/chart.min.js', nome: 'chart.min.js', tipo: 'JavaScript' },
+            
+            // Arquivos JSON de dados
+            { path: 'data/current.json', nome: 'current.json', tipo: 'Dados' },
+            { path: 'data/history.json', nome: 'history.json', tipo: 'Dados' },
+            { path: 'data/metadata.json', nome: 'metadata.json', tipo: 'Dados' },
+            { path: 'data/rankings.json', nome: 'rankings.json', tipo: 'Dados' },
+            { path: 'data/rankings_30d.json', nome: 'rankings_30d.json', tipo: 'Dados' },
+            { path: 'data/channels_summary.json', nome: 'channels_summary.json', tipo: 'Dados' },
+            { path: 'data/tags_24h.json', nome: 'tags_24h.json', tipo: 'Dados' },
+            { path: 'data/videos_24h.json', nome: 'videos_24h.json', tipo: 'Dados' },
+            { path: 'data/videos_7d.json', nome: 'videos_7d.json', tipo: 'Dados' },
+            { path: 'data/videos_30d.json', nome: 'videos_30d.json', tipo: 'Dados' },
+            { path: 'data/trend_by_channel_7d.json', nome: 'trend_by_channel_7d.json', tipo: 'Dados' },
+            { path: 'data/trend_by_channel_30d.json', nome: 'trend_by_channel_30d.json', tipo: 'Dados' },
+            { path: 'data/benchmark_data.json', nome: 'benchmark_data.json', tipo: 'Dados' },
+            { path: 'data/performance_predictions.json', nome: 'performance_predictions.json', tipo: 'Dados' },
+            { path: 'data/period_comparisons.json', nome: 'period_comparisons.json', tipo: 'Dados' },
+            { path: 'data/keyword_analysis.json', nome: 'keyword_analysis.json', tipo: 'Dados' },
+            
+            // Arquivos de configuração
+              { path: '_headers', nome: '_headers', tipo: 'Config' },
+            { path: '/_redirects', nome: '_redirects', tipo: 'Config' }
+        ];
+
+        let resultados = [];
+
+        async function verificarArquivos() {
+            const btnVerificar = document.getElementById('btnVerificar');
+            const btnLimpar = document.getElementById('btnLimpar');
+            const status = document.getElementById('status');
+            const progress = document.querySelector('.progress');
+            const progressBar = document.querySelector('.progress-bar');
+            const resultadosDiv = document.getElementById('resultados');
+            const listaArquivos = document.getElementById('listaArquivos');
+            
+            btnVerificar.disabled = true;
+            btnLimpar.disabled = true;
+            resultados = [];
+            
+            status.className = 'status info';
+            status.textContent = 'Iniciando verificação...';
+            progress.style.display = 'block';
+            resultadosDiv.style.display = 'none';
+            listaArquivos.innerHTML = '';
+            
+            let sucessos = 0;
+            let erros = 0;
+            let avisos = 0;
+            
+            for (let i = 0; i < arquivosNecessarios.length; i++) {
+                const arquivo = arquivosNecessarios[i];
+                const progresso = ((i + 1) / arquivosNecessarios.length) * 100;
+                
+                progressBar.style.width = progresso + '%';
+                status.textContent = `Verificando: ${arquivo.nome} (${i + 1}/${arquivosNecessarios.length})`;
+                
+                try {
+                    const response = await fetch(arquivo.path, { 
+                        method: 'HEAD',
+                        cache: 'no-cache'
+                    });
+                    
+                    if (response.ok) {
+                        const size = response.headers.get('content-length');
+                        const resultado = {
+                            arquivo: arquivo,
+                            status: 'success',
+                            size: size ? formatBytes(size) : 'N/A',
+                            message: 'Arquivo encontrado'
+                        };
+                        resultados.push(resultado);
+                        sucessos++;
+                    } else {
+                        const resultado = {
+                            arquivo: arquivo,
+                            status: 'error',
+                            size: 'N/A',
+                            message: `Erro ${response.status}: ${response.statusText}`
+                        };
+                        resultados.push(resultado);
+                        erros++;
+                    }
+                } catch (error) {
+                    const resultado = {
+                        arquivo: arquivo,
+                        status: 'error',
+                        size: 'N/A',
+                        message: `Erro de rede: ${error.message}`
+                    };
+                    resultados.push(resultado);
+                    erros++;
+                }
+                
+                // Pequena pausa para não sobrecarregar
+                await new Promise(resolve => setTimeout(resolve, 100));
+            }
+            
+            // Exibe resultados
+            exibirResultados();
+            
+            // Atualiza status final
+            let statusMessage = '';
+            let statusClass = '';
+            
+            if (erros === 0) {
+                statusMessage = `✅ Verificação concluída! Todos os ${sucessos} arquivos foram encontrados.`;
+                statusClass = 'success';
+            } else if (sucessos > 0) {
+                statusMessage = `⚠️ Verificação concluída. ${sucessos} arquivos encontrados, ${erros} arquivos com problemas.`;
+                statusClass = 'warning';
+            } else {
+                statusMessage = `❌ Verificação concluída. Nenhum arquivo foi encontrado (${erros} erros).`;
+                statusClass = 'error';
+            }
+            
+            status.className = `status ${statusClass}`;
+            status.textContent = statusMessage;
+            
+            btnVerificar.disabled = false;
+            btnLimpar.disabled = false;
+        }
+
+        function exibirResultados() {
+            const listaArquivos = document.getElementById('listaArquivos');
+            const resultadosDiv = document.getElementById('resultados');
+            
+            listaArquivos.innerHTML = '';
+            
+            resultados.forEach(resultado => {
+                const item = document.createElement('div');
+                item.className = 'file-item';
+                
+                const statusIcon = resultado.status === 'success' ? '✅' : '❌';
+                const statusClass = resultado.status === 'success' ? 'success' : 'error';
+                
+                item.innerHTML = `
+                    <div>
+                        <span class="file-name">${resultado.arquivo.nome}</span>
+                        <span style="color: #64748b; font-size: 12px;">(${resultado.arquivo.tipo})</span>
+                    </div>
+                    <div style="text-align: right;">
+                        <div style="color: #64748b; font-size: 12px;">${resultado.size}</div>
+                        <div style="font-size: 12px; color: ${resultado.status === 'success' ? '#166534' : '#dc2626'}">
+                            ${statusIcon} ${resultado.message}
+                        </div>
+                    </div>
+                `;
+                
+                listaArquivos.appendChild(item);
+            });
+            
+            resultadosDiv.style.display = 'block';
+        }
+
+        function limparResultados() {
+            const status = document.getElementById('status');
+            const progress = document.querySelector('.progress');
+            const resultadosDiv = document.getElementById('resultados');
+            
+            status.className = 'status info';
+            status.textContent = 'Clique em "Verificar Arquivos" para começar a verificação.';
+            progress.style.display = 'none';
+            resultadosDiv.style.display = 'none';
+            resultados = [];
+        }
+
+        function formatBytes(bytes) {
+            if (bytes === 0) return '0 Bytes';
+            const k = 1024;
+            const sizes = ['Bytes', 'KB', 'MB', 'GB'];
+            const i = Math.floor(Math.log(bytes) / Math.log(k));
+            return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
+        }
+
+        // Verificação automática ao carregar a página
+        window.addEventListener('load', () => {
+            console.log('🔍 Script de verificação carregado');
+            console.log('📋 Arquivos a verificar:', arquivosNecessarios.length);
+        });
+    </script>
+</body>
+</html>

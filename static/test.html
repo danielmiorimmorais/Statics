@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste - Dashboard</title>
+    <link rel="stylesheet" href="css/tailwind.min.css">
+</head>
+<body class="bg-gray-100 dark:bg-gray-900">
+    <div class="container mx-auto p-4">
+        <h1 class="text-2xl font-bold mb-4">Teste de Carregamento</h1>
+        
+        <div class="bg-white dark:bg-gray-800 p-4 rounded-lg mb-4">
+            <h2 class="text-lg font-semibold mb-2">Status dos Componentes:</h2>
+            <div id="status"></div>
+        </div>
+        
+        <div class="bg-white dark:bg-gray-800 p-4 rounded-lg mb-4">
+            <h2 class="text-lg font-semibold mb-2">Teste do Chart.js:</h2>
+            <canvas id="testChart" width="400" height="200"></canvas>
+        </div>
+        
+        <div class="bg-white dark:bg-gray-800 p-4 rounded-lg">
+            <h2 class="text-lg font-semibold mb-2">Teste de Carregamento de Dados:</h2>
+            <div id="dataTest"></div>
+        </div>
+    </div>
+
+      <script src="js/chart.min.js"></script>
+    <script>
+        const status = document.getElementById('status');
+        const dataTest = document.getElementById('dataTest');
+        
+        // Teste do Chart.js
+        function testChart() {
+            try {
+                if (typeof Chart === 'undefined') {
+                    status.innerHTML += '<p class="text-red-500">❌ Chart.js não está carregado</p>';
+                    return;
+                }
+                
+                status.innerHTML += '<p class="text-green-500">✅ Chart.js carregado com sucesso</p>';
+                
+                // Criar um gráfico de teste
+                const ctx = document.getElementById('testChart').getContext('2d');
+                new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: ['Jan', 'Fev', 'Mar', 'Abr'],
+                        datasets: [{
+                            label: 'Teste',
+                            data: [10, 20, 15, 25],
+                            borderColor: 'rgb(75, 192, 192)',
+                            tension: 0.1
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        plugins: {
+                            title: {
+                                display: true,
+                                text: 'Gráfico de Teste'
+                            }
+                        }
+                    }
+                });
+                
+                status.innerHTML += '<p class="text-green-500">✅ Gráfico criado com sucesso</p>';
+                
+            } catch (error) {
+                status.innerHTML += `<p class="text-red-500">❌ Erro no Chart.js: ${error.message}</p>`;
+            }
+        }
+        
+        // Teste de carregamento de dados
+        async function testData() {
+            const testFiles = [
+                'data/current.json',
+                'data/metadata.json',
+                'data/rankings.json'
+            ];
+            
+            dataTest.innerHTML = '<p>Testando carregamento de dados...</p>';
+            
+            for (const file of testFiles) {
+                try {
+                    const response = await fetch(file);
+                    if (!response.ok) {
+                        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                    }
+                    const data = await response.json();
+                    dataTest.innerHTML += `<p class="text-green-500">✅ ${file} carregado (${typeof data})</p>`;
+                } catch (error) {
+                    dataTest.innerHTML += `<p class="text-red-500">❌ ${file} falhou: ${error.message}</p>`;
+                }
+            }
+        }
+        
+        // Executar testes
+        window.addEventListener('load', () => {
+            testChart();
+            testData();
+        });
+    </script>
+</body>
+</html>

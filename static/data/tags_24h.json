@@ -1,0 +1,70 @@
+{
+  "totals_24h": {
+    "videos": 503,
+    "views": 14037274.0,
+    "likes": 1629212.0,
+    "comments": 89805.0
+  },
+  "by_tag": [
+    {
+      "tag": "Bolsonaristas",
+      "videos": 310,
+      "views": 8996979,
+      "likes": 1091838,
+      "comments": 57888,
+      "share_views": 64.09349137161531,
+      "share_likes": 67.0163244562402,
+      "share_comments": 64.45966260230499
+    },
+    {
+      "tag": "Petistas",
+      "videos": 145,
+      "views": 4182133,
+      "likes": 414480,
+      "comments": 20957,
+      "share_views": 29.793056686077367,
+      "share_likes": 25.440519711369667,
+      "share_comments": 23.33611714269807
+    },
+    {
+      "tag": "MBL",
+      "videos": 20,
+      "views": 285407,
+      "likes": 29570,
+      "comments": 4636,
+      "share_views": 2.033208157082351,
+      "share_likes": 1.8149878591613615,
+      "share_comments": 5.162296085964033
+    },
+    {
+      "tag": "Ancap",
+      "videos": 23,
+      "views": 264636,
+      "likes": 50414,
+      "comments": 1938,
+      "share_views": 1.8852378317898475,
+      "share_likes": 3.0943793686763907,
+      "share_comments": 2.158009019542342
+    },
+    {
+      "tag": "sem_tag",
+      "videos": 1,
+      "views": 180466,
+      "likes": 27556,
+      "comments": 2018,
+      "share_views": 1.2856199857607682,
+      "share_likes": 1.6913698155918322,
+      "share_comments": 2.247090919213852
+    },
+    {
+      "tag": "Comunistas",
+      "videos": 4,
+      "views": 127653,
+      "likes": 15354,
+      "comments": 2368,
+      "share_views": 0.9093859676743504,
+      "share_likes": 0.9424187889605528,
+      "share_comments": 2.636824230276711
+    }
+  ]
+}
